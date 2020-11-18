@@ -1,0 +1,2674 @@
+{
+  "tested_lab": [
+    {
+      "date": "2020-02-24",
+      "new_neg": 12,
+      "new_pos": 0,
+      "pr100_pos": 0.0,
+      "new_total": 12,
+      "total_neg": 12,
+      "total_pos": 0,
+      "total": 12
+    },
+    {
+      "date": "2020-02-25",
+      "new_neg": 62,
+      "new_pos": 0,
+      "pr100_pos": 0.0,
+      "new_total": 62,
+      "total_neg": 74,
+      "total_pos": 0,
+      "total": 74
+    },
+    {
+      "date": "2020-02-26",
+      "new_neg": 146,
+      "new_pos": 2,
+      "pr100_pos": 1.4,
+      "new_total": 148,
+      "total_neg": 220,
+      "total_pos": 2,
+      "total": 222
+    },
+    {
+      "date": "2020-02-27",
+      "new_neg": 247,
+      "new_pos": 2,
+      "pr100_pos": 0.8,
+      "new_total": 249,
+      "total_neg": 467,
+      "total_pos": 4,
+      "total": 471
+    },
+    {
+      "date": "2020-02-28",
+      "new_neg": 287,
+      "new_pos": 3,
+      "pr100_pos": 1.0,
+      "new_total": 290,
+      "total_neg": 754,
+      "total_pos": 7,
+      "total": 761
+    },
+    {
+      "date": "2020-02-29",
+      "new_neg": 203,
+      "new_pos": 6,
+      "pr100_pos": 2.9,
+      "new_total": 209,
+      "total_neg": 957,
+      "total_pos": 13,
+      "total": 970
+    },
+    {
+      "date": "2020-03-01",
+      "new_neg": 230,
+      "new_pos": 5,
+      "pr100_pos": 2.1,
+      "new_total": 235,
+      "total_neg": 1187,
+      "total_pos": 18,
+      "total": 1205
+    },
+    {
+      "date": "2020-03-02",
+      "new_neg": 383,
+      "new_pos": 8,
+      "pr100_pos": 2.0,
+      "new_total": 391,
+      "total_neg": 1570,
+      "total_pos": 26,
+      "total": 1596
+    },
+    {
+      "date": "2020-03-03",
+      "new_neg": 360,
+      "new_pos": 20,
+      "pr100_pos": 5.3,
+      "new_total": 380,
+      "total_neg": 1930,
+      "total_pos": 46,
+      "total": 1976
+    },
+    {
+      "date": "2020-03-04",
+      "new_neg": 326,
+      "new_pos": 15,
+      "pr100_pos": 4.4,
+      "new_total": 341,
+      "total_neg": 2256,
+      "total_pos": 61,
+      "total": 2317
+    },
+    {
+      "date": "2020-03-05",
+      "new_neg": 356,
+      "new_pos": 18,
+      "pr100_pos": 4.8,
+      "new_total": 374,
+      "total_neg": 2612,
+      "total_pos": 79,
+      "total": 2691
+    },
+    {
+      "date": "2020-03-06",
+      "new_neg": 340,
+      "new_pos": 25,
+      "pr100_pos": 6.8,
+      "new_total": 365,
+      "total_neg": 2952,
+      "total_pos": 104,
+      "total": 3056
+    },
+    {
+      "date": "2020-03-07",
+      "new_neg": 296,
+      "new_pos": 19,
+      "pr100_pos": 6.0,
+      "new_total": 315,
+      "total_neg": 3248,
+      "total_pos": 123,
+      "total": 3371
+    },
+    {
+      "date": "2020-03-08",
+      "new_neg": 358,
+      "new_pos": 50,
+      "pr100_pos": 12.3,
+      "new_total": 408,
+      "total_neg": 3606,
+      "total_pos": 173,
+      "total": 3779
+    },
+    {
+      "date": "2020-03-09",
+      "new_neg": 1231,
+      "new_pos": 253,
+      "pr100_pos": 17.0,
+      "new_total": 1484,
+      "total_neg": 4837,
+      "total_pos": 426,
+      "total": 5263
+    },
+    {
+      "date": "2020-03-10",
+      "new_neg": 1493,
+      "new_pos": 193,
+      "pr100_pos": 11.4,
+      "new_total": 1686,
+      "total_neg": 6330,
+      "total_pos": 619,
+      "total": 6949
+    },
+    {
+      "date": "2020-03-11",
+      "new_neg": 1937,
+      "new_pos": 148,
+      "pr100_pos": 7.1,
+      "new_total": 2085,
+      "total_neg": 8267,
+      "total_pos": 767,
+      "total": 9034
+    },
+    {
+      "date": "2020-03-12",
+      "new_neg": 2840,
+      "new_pos": 177,
+      "pr100_pos": 5.9,
+      "new_total": 3017,
+      "total_neg": 11107,
+      "total_pos": 944,
+      "total": 12051
+    },
+    {
+      "date": "2020-03-13",
+      "new_neg": 3902,
+      "new_pos": 152,
+      "pr100_pos": 3.7,
+      "new_total": 4054,
+      "total_neg": 15009,
+      "total_pos": 1096,
+      "total": 16105
+    },
+    {
+      "date": "2020-03-14",
+      "new_neg": 2672,
+      "new_pos": 89,
+      "pr100_pos": 3.2,
+      "new_total": 2761,
+      "total_neg": 17681,
+      "total_pos": 1185,
+      "total": 18866
+    },
+    {
+      "date": "2020-03-15",
+      "new_neg": 2794,
+      "new_pos": 76,
+      "pr100_pos": 2.6,
+      "new_total": 2870,
+      "total_neg": 20475,
+      "total_pos": 1261,
+      "total": 21736
+    },
+    {
+      "date": "2020-03-16",
+      "new_neg": 6131,
+      "new_pos": 132,
+      "pr100_pos": 2.1,
+      "new_total": 6263,
+      "total_neg": 26606,
+      "total_pos": 1393,
+      "total": 27999
+    },
+    {
+      "date": "2020-03-17",
+      "new_neg": 6433,
+      "new_pos": 153,
+      "pr100_pos": 2.3,
+      "new_total": 6586,
+      "total_neg": 33039,
+      "total_pos": 1546,
+      "total": 34585
+    },
+    {
+      "date": "2020-03-18",
+      "new_neg": 6641,
+      "new_pos": 186,
+      "pr100_pos": 2.7,
+      "new_total": 6827,
+      "total_neg": 39680,
+      "total_pos": 1732,
+      "total": 41412
+    },
+    {
+      "date": "2020-03-19",
+      "new_neg": 5779,
+      "new_pos": 204,
+      "pr100_pos": 3.4,
+      "new_total": 5983,
+      "total_neg": 45459,
+      "total_pos": 1936,
+      "total": 47395
+    },
+    {
+      "date": "2020-03-20",
+      "new_neg": 4856,
+      "new_pos": 263,
+      "pr100_pos": 5.1,
+      "new_total": 5119,
+      "total_neg": 50315,
+      "total_pos": 2199,
+      "total": 52514
+    },
+    {
+      "date": "2020-03-21",
+      "new_neg": 2324,
+      "new_pos": 183,
+      "pr100_pos": 7.3,
+      "new_total": 2507,
+      "total_neg": 52639,
+      "total_pos": 2382,
+      "total": 55021
+    },
+    {
+      "date": "2020-03-22",
+      "new_neg": 1156,
+      "new_pos": 132,
+      "pr100_pos": 10.2,
+      "new_total": 1288,
+      "total_neg": 53795,
+      "total_pos": 2514,
+      "total": 56309
+    },
+    {
+      "date": "2020-03-23",
+      "new_neg": 3312,
+      "new_pos": 252,
+      "pr100_pos": 7.1,
+      "new_total": 3564,
+      "total_neg": 57107,
+      "total_pos": 2766,
+      "total": 59873
+    },
+    {
+      "date": "2020-03-24",
+      "new_neg": 3244,
+      "new_pos": 284,
+      "pr100_pos": 8.0,
+      "new_total": 3528,
+      "total_neg": 60351,
+      "total_pos": 3050,
+      "total": 63401
+    },
+    {
+      "date": "2020-03-25",
+      "new_neg": 3093,
+      "new_pos": 251,
+      "pr100_pos": 7.5,
+      "new_total": 3344,
+      "total_neg": 63444,
+      "total_pos": 3301,
+      "total": 66745
+    },
+    {
+      "date": "2020-03-26",
+      "new_neg": 2915,
+      "new_pos": 270,
+      "pr100_pos": 8.5,
+      "new_total": 3185,
+      "total_neg": 66359,
+      "total_pos": 3571,
+      "total": 69930
+    },
+    {
+      "date": "2020-03-27",
+      "new_neg": 3031,
+      "new_pos": 260,
+      "pr100_pos": 7.9,
+      "new_total": 3291,
+      "total_neg": 69390,
+      "total_pos": 3831,
+      "total": 73221
+    },
+    {
+      "date": "2020-03-28",
+      "new_neg": 1623,
+      "new_pos": 178,
+      "pr100_pos": 9.9,
+      "new_total": 1801,
+      "total_neg": 71013,
+      "total_pos": 4009,
+      "total": 75022
+    },
+    {
+      "date": "2020-03-29",
+      "new_neg": 1117,
+      "new_pos": 126,
+      "pr100_pos": 10.1,
+      "new_total": 1243,
+      "total_neg": 72130,
+      "total_pos": 4135,
+      "total": 76265
+    },
+    {
+      "date": "2020-03-30",
+      "new_neg": 2931,
+      "new_pos": 241,
+      "pr100_pos": 7.6,
+      "new_total": 3172,
+      "total_neg": 75061,
+      "total_pos": 4376,
+      "total": 79437
+    },
+    {
+      "date": "2020-03-31",
+      "new_neg": 3200,
+      "new_pos": 246,
+      "pr100_pos": 7.1,
+      "new_total": 3446,
+      "total_neg": 78261,
+      "total_pos": 4622,
+      "total": 82883
+    },
+    {
+      "date": "2020-04-01",
+      "new_neg": 3718,
+      "new_pos": 219,
+      "pr100_pos": 5.6,
+      "new_total": 3937,
+      "total_neg": 81979,
+      "total_pos": 4841,
+      "total": 86820
+    },
+    {
+      "date": "2020-04-02",
+      "new_neg": 3344,
+      "new_pos": 216,
+      "pr100_pos": 6.1,
+      "new_total": 3560,
+      "total_neg": 85323,
+      "total_pos": 5057,
+      "total": 90380
+    },
+    {
+      "date": "2020-04-03",
+      "new_neg": 3372,
+      "new_pos": 185,
+      "pr100_pos": 5.2,
+      "new_total": 3557,
+      "total_neg": 88695,
+      "total_pos": 5242,
+      "total": 93937
+    },
+    {
+      "date": "2020-04-04",
+      "new_neg": 1292,
+      "new_pos": 94,
+      "pr100_pos": 6.8,
+      "new_total": 1386,
+      "total_neg": 89987,
+      "total_pos": 5336,
+      "total": 95323
+    },
+    {
+      "date": "2020-04-05",
+      "new_neg": 1043,
+      "new_pos": 75,
+      "pr100_pos": 6.7,
+      "new_total": 1118,
+      "total_neg": 91030,
+      "total_pos": 5411,
+      "total": 96441
+    },
+    {
+      "date": "2020-04-06",
+      "new_neg": 3354,
+      "new_pos": 176,
+      "pr100_pos": 5.0,
+      "new_total": 3530,
+      "total_neg": 94384,
+      "total_pos": 5587,
+      "total": 99971
+    },
+    {
+      "date": "2020-04-07",
+      "new_neg": 2815,
+      "new_pos": 154,
+      "pr100_pos": 5.2,
+      "new_total": 2969,
+      "total_neg": 97199,
+      "total_pos": 5741,
+      "total": 102940
+    },
+    {
+      "date": "2020-04-08",
+      "new_neg": 2161,
+      "new_pos": 115,
+      "pr100_pos": 5.1,
+      "new_total": 2276,
+      "total_neg": 99360,
+      "total_pos": 5856,
+      "total": 105216
+    },
+    {
+      "date": "2020-04-09",
+      "new_neg": 1225,
+      "new_pos": 113,
+      "pr100_pos": 8.4,
+      "new_total": 1338,
+      "total_neg": 100585,
+      "total_pos": 5969,
+      "total": 106554
+    },
+    {
+      "date": "2020-04-10",
+      "new_neg": 1281,
+      "new_pos": 73,
+      "pr100_pos": 5.4,
+      "new_total": 1354,
+      "total_neg": 101866,
+      "total_pos": 6042,
+      "total": 107908
+    },
+    {
+      "date": "2020-04-11",
+      "new_neg": 1303,
+      "new_pos": 116,
+      "pr100_pos": 8.2,
+      "new_total": 1419,
+      "total_neg": 103169,
+      "total_pos": 6158,
+      "total": 109327
+    },
+    {
+      "date": "2020-04-12",
+      "new_neg": 1164,
+      "new_pos": 81,
+      "pr100_pos": 6.5,
+      "new_total": 1245,
+      "total_neg": 104333,
+      "total_pos": 6239,
+      "total": 110572
+    },
+    {
+      "date": "2020-04-13",
+      "new_neg": 1236,
+      "new_pos": 81,
+      "pr100_pos": 6.2,
+      "new_total": 1317,
+      "total_neg": 105569,
+      "total_pos": 6320,
+      "total": 111889
+    },
+    {
+      "date": "2020-04-14",
+      "new_neg": 3214,
+      "new_pos": 154,
+      "pr100_pos": 4.6,
+      "new_total": 3368,
+      "total_neg": 108783,
+      "total_pos": 6474,
+      "total": 115257
+    },
+    {
+      "date": "2020-04-15",
+      "new_neg": 3293,
+      "new_pos": 136,
+      "pr100_pos": 4.0,
+      "new_total": 3429,
+      "total_neg": 112076,
+      "total_pos": 6610,
+      "total": 118686
+    },
+    {
+      "date": "2020-04-16",
+      "new_neg": 3010,
+      "new_pos": 100,
+      "pr100_pos": 3.2,
+      "new_total": 3110,
+      "total_neg": 115086,
+      "total_pos": 6710,
+      "total": 121796
+    },
+    {
+      "date": "2020-04-17",
+      "new_neg": 3007,
+      "new_pos": 124,
+      "pr100_pos": 4.0,
+      "new_total": 3131,
+      "total_neg": 118093,
+      "total_pos": 6834,
+      "total": 124927
+    },
+    {
+      "date": "2020-04-18",
+      "new_neg": 1119,
+      "new_pos": 56,
+      "pr100_pos": 4.8,
+      "new_total": 1175,
+      "total_neg": 119212,
+      "total_pos": 6890,
+      "total": 126102
+    },
+    {
+      "date": "2020-04-19",
+      "new_neg": 1106,
+      "new_pos": 37,
+      "pr100_pos": 3.2,
+      "new_total": 1143,
+      "total_neg": 120318,
+      "total_pos": 6927,
+      "total": 127245
+    },
+    {
+      "date": "2020-04-20",
+      "new_neg": 3665,
+      "new_pos": 111,
+      "pr100_pos": 2.9,
+      "new_total": 3776,
+      "total_neg": 123983,
+      "total_pos": 7038,
+      "total": 131021
+    },
+    {
+      "date": "2020-04-21",
+      "new_neg": 3490,
+      "new_pos": 91,
+      "pr100_pos": 2.5,
+      "new_total": 3581,
+      "total_neg": 127473,
+      "total_pos": 7129,
+      "total": 134602
+    },
+    {
+      "date": "2020-04-22",
+      "new_neg": 3244,
+      "new_pos": 102,
+      "pr100_pos": 3.0,
+      "new_total": 3346,
+      "total_neg": 130717,
+      "total_pos": 7231,
+      "total": 137948
+    },
+    {
+      "date": "2020-04-23",
+      "new_neg": 2889,
+      "new_pos": 86,
+      "pr100_pos": 2.9,
+      "new_total": 2975,
+      "total_neg": 133606,
+      "total_pos": 7317,
+      "total": 140923
+    },
+    {
+      "date": "2020-04-24",
+      "new_neg": 3212,
+      "new_pos": 69,
+      "pr100_pos": 2.1,
+      "new_total": 3281,
+      "total_neg": 136818,
+      "total_pos": 7386,
+      "total": 144204
+    },
+    {
+      "date": "2020-04-25",
+      "new_neg": 1103,
+      "new_pos": 29,
+      "pr100_pos": 2.6,
+      "new_total": 1132,
+      "total_neg": 137921,
+      "total_pos": 7415,
+      "total": 145336
+    },
+    {
+      "date": "2020-04-26",
+      "new_neg": 933,
+      "new_pos": 40,
+      "pr100_pos": 4.1,
+      "new_total": 973,
+      "total_neg": 138854,
+      "total_pos": 7455,
+      "total": 146309
+    },
+    {
+      "date": "2020-04-27",
+      "new_neg": 4010,
+      "new_pos": 94,
+      "pr100_pos": 2.3,
+      "new_total": 4104,
+      "total_neg": 142864,
+      "total_pos": 7549,
+      "total": 150413
+    },
+    {
+      "date": "2020-04-28",
+      "new_neg": 4050,
+      "new_pos": 64,
+      "pr100_pos": 1.6,
+      "new_total": 4114,
+      "total_neg": 146914,
+      "total_pos": 7613,
+      "total": 154527
+    },
+    {
+      "date": "2020-04-29",
+      "new_neg": 3897,
+      "new_pos": 57,
+      "pr100_pos": 1.4,
+      "new_total": 3954,
+      "total_neg": 150811,
+      "total_pos": 7670,
+      "total": 158481
+    },
+    {
+      "date": "2020-04-30",
+      "new_neg": 4391,
+      "new_pos": 48,
+      "pr100_pos": 1.1,
+      "new_total": 4439,
+      "total_neg": 155202,
+      "total_pos": 7718,
+      "total": 162920
+    },
+    {
+      "date": "2020-05-01",
+      "new_neg": 1465,
+      "new_pos": 46,
+      "pr100_pos": 3.0,
+      "new_total": 1511,
+      "total_neg": 156667,
+      "total_pos": 7764,
+      "total": 164431
+    },
+    {
+      "date": "2020-05-02",
+      "new_neg": 1526,
+      "new_pos": 29,
+      "pr100_pos": 1.9,
+      "new_total": 1555,
+      "total_neg": 158193,
+      "total_pos": 7793,
+      "total": 165986
+    },
+    {
+      "date": "2020-05-03",
+      "new_neg": 1211,
+      "new_pos": 49,
+      "pr100_pos": 3.9,
+      "new_total": 1260,
+      "total_neg": 159404,
+      "total_pos": 7842,
+      "total": 167246
+    },
+    {
+      "date": "2020-05-04",
+      "new_neg": 4677,
+      "new_pos": 52,
+      "pr100_pos": 1.1,
+      "new_total": 4729,
+      "total_neg": 164081,
+      "total_pos": 7894,
+      "total": 171975
+    },
+    {
+      "date": "2020-05-05",
+      "new_neg": 4260,
+      "new_pos": 61,
+      "pr100_pos": 1.4,
+      "new_total": 4321,
+      "total_neg": 168341,
+      "total_pos": 7955,
+      "total": 176296
+    },
+    {
+      "date": "2020-05-06",
+      "new_neg": 4242,
+      "new_pos": 42,
+      "pr100_pos": 1.0,
+      "new_total": 4284,
+      "total_neg": 172583,
+      "total_pos": 7997,
+      "total": 180580
+    },
+    {
+      "date": "2020-05-07",
+      "new_neg": 3718,
+      "new_pos": 40,
+      "pr100_pos": 1.1,
+      "new_total": 3758,
+      "total_neg": 176301,
+      "total_pos": 8037,
+      "total": 184338
+    },
+    {
+      "date": "2020-05-08",
+      "new_neg": 3753,
+      "new_pos": 47,
+      "pr100_pos": 1.2,
+      "new_total": 3800,
+      "total_neg": 180054,
+      "total_pos": 8084,
+      "total": 188138
+    },
+    {
+      "date": "2020-05-09",
+      "new_neg": 1289,
+      "new_pos": 10,
+      "pr100_pos": 0.8,
+      "new_total": 1299,
+      "total_neg": 181343,
+      "total_pos": 8094,
+      "total": 189437
+    },
+    {
+      "date": "2020-05-10",
+      "new_neg": 987,
+      "new_pos": 14,
+      "pr100_pos": 1.4,
+      "new_total": 1001,
+      "total_neg": 182330,
+      "total_pos": 8108,
+      "total": 190438
+    },
+    {
+      "date": "2020-05-11",
+      "new_neg": 4364,
+      "new_pos": 33,
+      "pr100_pos": 0.8,
+      "new_total": 4397,
+      "total_neg": 186694,
+      "total_pos": 8141,
+      "total": 194835
+    },
+    {
+      "date": "2020-05-12",
+      "new_neg": 4771,
+      "new_pos": 23,
+      "pr100_pos": 0.5,
+      "new_total": 4794,
+      "total_neg": 191465,
+      "total_pos": 8164,
+      "total": 199629
+    },
+    {
+      "date": "2020-05-13",
+      "new_neg": 4444,
+      "new_pos": 24,
+      "pr100_pos": 0.5,
+      "new_total": 4468,
+      "total_neg": 195909,
+      "total_pos": 8188,
+      "total": 204097
+    },
+    {
+      "date": "2020-05-14",
+      "new_neg": 4170,
+      "new_pos": 32,
+      "pr100_pos": 0.8,
+      "new_total": 4202,
+      "total_neg": 200079,
+      "total_pos": 8220,
+      "total": 208299
+    },
+    {
+      "date": "2020-05-15",
+      "new_neg": 4147,
+      "new_pos": 25,
+      "pr100_pos": 0.6,
+      "new_total": 4172,
+      "total_neg": 204226,
+      "total_pos": 8245,
+      "total": 212471
+    },
+    {
+      "date": "2020-05-16",
+      "new_neg": 1287,
+      "new_pos": 14,
+      "pr100_pos": 1.1,
+      "new_total": 1301,
+      "total_neg": 205513,
+      "total_pos": 8259,
+      "total": 213772
+    },
+    {
+      "date": "2020-05-17",
+      "new_neg": 660,
+      "new_pos": 3,
+      "pr100_pos": 0.5,
+      "new_total": 663,
+      "total_neg": 206173,
+      "total_pos": 8262,
+      "total": 214435
+    },
+    {
+      "date": "2020-05-18",
+      "new_neg": 4381,
+      "new_pos": 24,
+      "pr100_pos": 0.5,
+      "new_total": 4405,
+      "total_neg": 210554,
+      "total_pos": 8286,
+      "total": 218840
+    },
+    {
+      "date": "2020-05-19",
+      "new_neg": 4636,
+      "new_pos": 20,
+      "pr100_pos": 0.4,
+      "new_total": 4656,
+      "total_neg": 215190,
+      "total_pos": 8306,
+      "total": 223496
+    },
+    {
+      "date": "2020-05-20",
+      "new_neg": 3923,
+      "new_pos": 24,
+      "pr100_pos": 0.6,
+      "new_total": 3947,
+      "total_neg": 219113,
+      "total_pos": 8330,
+      "total": 227443
+    },
+    {
+      "date": "2020-05-21",
+      "new_neg": 1131,
+      "new_pos": 13,
+      "pr100_pos": 1.1,
+      "new_total": 1144,
+      "total_neg": 220244,
+      "total_pos": 8343,
+      "total": 228587
+    },
+    {
+      "date": "2020-05-22",
+      "new_neg": 3312,
+      "new_pos": 30,
+      "pr100_pos": 0.9,
+      "new_total": 3342,
+      "total_neg": 223556,
+      "total_pos": 8373,
+      "total": 231929
+    },
+    {
+      "date": "2020-05-23",
+      "new_neg": 1032,
+      "new_pos": 7,
+      "pr100_pos": 0.7,
+      "new_total": 1039,
+      "total_neg": 224588,
+      "total_pos": 8380,
+      "total": 232968
+    },
+    {
+      "date": "2020-05-24",
+      "new_neg": 889,
+      "new_pos": 9,
+      "pr100_pos": 1.0,
+      "new_total": 898,
+      "total_neg": 225477,
+      "total_pos": 8389,
+      "total": 233866
+    },
+    {
+      "date": "2020-05-25",
+      "new_neg": 4051,
+      "new_pos": 19,
+      "pr100_pos": 0.5,
+      "new_total": 4070,
+      "total_neg": 229528,
+      "total_pos": 8408,
+      "total": 237936
+    },
+    {
+      "date": "2020-05-26",
+      "new_neg": 3438,
+      "new_pos": 14,
+      "pr100_pos": 0.4,
+      "new_total": 3452,
+      "total_neg": 232966,
+      "total_pos": 8422,
+      "total": 241388
+    },
+    {
+      "date": "2020-05-27",
+      "new_neg": 3259,
+      "new_pos": 19,
+      "pr100_pos": 0.6,
+      "new_total": 3278,
+      "total_neg": 236225,
+      "total_pos": 8441,
+      "total": 244666
+    },
+    {
+      "date": "2020-05-28",
+      "new_neg": 2764,
+      "new_pos": 18,
+      "pr100_pos": 0.6,
+      "new_total": 2782,
+      "total_neg": 238989,
+      "total_pos": 8459,
+      "total": 247448
+    },
+    {
+      "date": "2020-05-29",
+      "new_neg": 2572,
+      "new_pos": 17,
+      "pr100_pos": 0.7,
+      "new_total": 2589,
+      "total_neg": 241561,
+      "total_pos": 8476,
+      "total": 250037
+    },
+    {
+      "date": "2020-05-30",
+      "new_neg": 813,
+      "new_pos": 0,
+      "pr100_pos": 0.0,
+      "new_total": 813,
+      "total_neg": 242374,
+      "total_pos": 8476,
+      "total": 250850
+    },
+    {
+      "date": "2020-05-31",
+      "new_neg": 632,
+      "new_pos": 6,
+      "pr100_pos": 0.9,
+      "new_total": 638,
+      "total_neg": 243006,
+      "total_pos": 8482,
+      "total": 251488
+    },
+    {
+      "date": "2020-06-01",
+      "new_neg": 736,
+      "new_pos": 7,
+      "pr100_pos": 0.9,
+      "new_total": 743,
+      "total_neg": 243742,
+      "total_pos": 8489,
+      "total": 252231
+    },
+    {
+      "date": "2020-06-02",
+      "new_neg": 3808,
+      "new_pos": 36,
+      "pr100_pos": 0.9,
+      "new_total": 3844,
+      "total_neg": 247550,
+      "total_pos": 8525,
+      "total": 256075
+    },
+    {
+      "date": "2020-06-03",
+      "new_neg": 3115,
+      "new_pos": 14,
+      "pr100_pos": 0.4,
+      "new_total": 3129,
+      "total_neg": 250665,
+      "total_pos": 8539,
+      "total": 259204
+    },
+    {
+      "date": "2020-06-04",
+      "new_neg": 2900,
+      "new_pos": 17,
+      "pr100_pos": 0.6,
+      "new_total": 2917,
+      "total_neg": 253565,
+      "total_pos": 8556,
+      "total": 262121
+    },
+    {
+      "date": "2020-06-05",
+      "new_neg": 2899,
+      "new_pos": 29,
+      "pr100_pos": 1.0,
+      "new_total": 2928,
+      "total_neg": 256464,
+      "total_pos": 8585,
+      "total": 265049
+    },
+    {
+      "date": "2020-06-06",
+      "new_neg": 939,
+      "new_pos": 8,
+      "pr100_pos": 0.8,
+      "new_total": 947,
+      "total_neg": 257403,
+      "total_pos": 8593,
+      "total": 265996
+    },
+    {
+      "date": "2020-06-07",
+      "new_neg": 923,
+      "new_pos": 10,
+      "pr100_pos": 1.1,
+      "new_total": 933,
+      "total_neg": 258326,
+      "total_pos": 8603,
+      "total": 266929
+    },
+    {
+      "date": "2020-06-08",
+      "new_neg": 5730,
+      "new_pos": 20,
+      "pr100_pos": 0.3,
+      "new_total": 5750,
+      "total_neg": 264056,
+      "total_pos": 8623,
+      "total": 272679
+    },
+    {
+      "date": "2020-06-09",
+      "new_neg": 5649,
+      "new_pos": 12,
+      "pr100_pos": 0.2,
+      "new_total": 5661,
+      "total_neg": 269705,
+      "total_pos": 8635,
+      "total": 278340
+    },
+    {
+      "date": "2020-06-10",
+      "new_neg": 4543,
+      "new_pos": 15,
+      "pr100_pos": 0.3,
+      "new_total": 4558,
+      "total_neg": 274248,
+      "total_pos": 8650,
+      "total": 282898
+    },
+    {
+      "date": "2020-06-11",
+      "new_neg": 4855,
+      "new_pos": 13,
+      "pr100_pos": 0.3,
+      "new_total": 4868,
+      "total_neg": 279103,
+      "total_pos": 8663,
+      "total": 287766
+    },
+    {
+      "date": "2020-06-12",
+      "new_neg": 4613,
+      "new_pos": 15,
+      "pr100_pos": 0.3,
+      "new_total": 4628,
+      "total_neg": 283716,
+      "total_pos": 8678,
+      "total": 292394
+    },
+    {
+      "date": "2020-06-13",
+      "new_neg": 1236,
+      "new_pos": 8,
+      "pr100_pos": 0.6,
+      "new_total": 1244,
+      "total_neg": 284952,
+      "total_pos": 8686,
+      "total": 293638
+    },
+    {
+      "date": "2020-06-14",
+      "new_neg": 1127,
+      "new_pos": 6,
+      "pr100_pos": 0.5,
+      "new_total": 1133,
+      "total_neg": 286079,
+      "total_pos": 8692,
+      "total": 294771
+    },
+    {
+      "date": "2020-06-15",
+      "new_neg": 5828,
+      "new_pos": 18,
+      "pr100_pos": 0.3,
+      "new_total": 5846,
+      "total_neg": 291907,
+      "total_pos": 8710,
+      "total": 300617
+    },
+    {
+      "date": "2020-06-16",
+      "new_neg": 5410,
+      "new_pos": 39,
+      "pr100_pos": 0.7,
+      "new_total": 5449,
+      "total_neg": 297317,
+      "total_pos": 8749,
+      "total": 306066
+    },
+    {
+      "date": "2020-06-17",
+      "new_neg": 4961,
+      "new_pos": 19,
+      "pr100_pos": 0.4,
+      "new_total": 4980,
+      "total_neg": 302278,
+      "total_pos": 8768,
+      "total": 311046
+    },
+    {
+      "date": "2020-06-18",
+      "new_neg": 4544,
+      "new_pos": 12,
+      "pr100_pos": 0.3,
+      "new_total": 4556,
+      "total_neg": 306822,
+      "total_pos": 8780,
+      "total": 315602
+    },
+    {
+      "date": "2020-06-19",
+      "new_neg": 3785,
+      "new_pos": 18,
+      "pr100_pos": 0.5,
+      "new_total": 3803,
+      "total_neg": 310607,
+      "total_pos": 8798,
+      "total": 319405
+    },
+    {
+      "date": "2020-06-20",
+      "new_neg": 1052,
+      "new_pos": 6,
+      "pr100_pos": 0.6,
+      "new_total": 1058,
+      "total_neg": 311659,
+      "total_pos": 8804,
+      "total": 320463
+    },
+    {
+      "date": "2020-06-21",
+      "new_neg": 1023,
+      "new_pos": 5,
+      "pr100_pos": 0.5,
+      "new_total": 1028,
+      "total_neg": 312682,
+      "total_pos": 8809,
+      "total": 321491
+    },
+    {
+      "date": "2020-06-22",
+      "new_neg": 5008,
+      "new_pos": 24,
+      "pr100_pos": 0.5,
+      "new_total": 5032,
+      "total_neg": 317690,
+      "total_pos": 8833,
+      "total": 326523
+    },
+    {
+      "date": "2020-06-23",
+      "new_neg": 4640,
+      "new_pos": 16,
+      "pr100_pos": 0.3,
+      "new_total": 4656,
+      "total_neg": 322330,
+      "total_pos": 8849,
+      "total": 331179
+    },
+    {
+      "date": "2020-06-24",
+      "new_neg": 4602,
+      "new_pos": 21,
+      "pr100_pos": 0.5,
+      "new_total": 4623,
+      "total_neg": 326932,
+      "total_pos": 8870,
+      "total": 335802
+    },
+    {
+      "date": "2020-06-25",
+      "new_neg": 4156,
+      "new_pos": 20,
+      "pr100_pos": 0.5,
+      "new_total": 4176,
+      "total_neg": 331088,
+      "total_pos": 8890,
+      "total": 339978
+    },
+    {
+      "date": "2020-06-26",
+      "new_neg": 3902,
+      "new_pos": 26,
+      "pr100_pos": 0.7,
+      "new_total": 3928,
+      "total_neg": 334990,
+      "total_pos": 8916,
+      "total": 343906
+    },
+    {
+      "date": "2020-06-27",
+      "new_neg": 1100,
+      "new_pos": 10,
+      "pr100_pos": 0.9,
+      "new_total": 1110,
+      "total_neg": 336090,
+      "total_pos": 8926,
+      "total": 345016
+    },
+    {
+      "date": "2020-06-28",
+      "new_neg": 984,
+      "new_pos": 2,
+      "pr100_pos": 0.2,
+      "new_total": 986,
+      "total_neg": 337074,
+      "total_pos": 8928,
+      "total": 346002
+    },
+    {
+      "date": "2020-06-29",
+      "new_neg": 5911,
+      "new_pos": 24,
+      "pr100_pos": 0.4,
+      "new_total": 5935,
+      "total_neg": 342985,
+      "total_pos": 8952,
+      "total": 351937
+    },
+    {
+      "date": "2020-06-30",
+      "new_neg": 5012,
+      "new_pos": 12,
+      "pr100_pos": 0.2,
+      "new_total": 5024,
+      "total_neg": 347997,
+      "total_pos": 8964,
+      "total": 356961
+    },
+    {
+      "date": "2020-07-01",
+      "new_neg": 5108,
+      "new_pos": 11,
+      "pr100_pos": 0.2,
+      "new_total": 5119,
+      "total_neg": 353105,
+      "total_pos": 8975,
+      "total": 362080
+    },
+    {
+      "date": "2020-07-02",
+      "new_neg": 4735,
+      "new_pos": 8,
+      "pr100_pos": 0.2,
+      "new_total": 4743,
+      "total_neg": 357840,
+      "total_pos": 8983,
+      "total": 366823
+    },
+    {
+      "date": "2020-07-03",
+      "new_neg": 4523,
+      "new_pos": 13,
+      "pr100_pos": 0.3,
+      "new_total": 4536,
+      "total_neg": 362363,
+      "total_pos": 8996,
+      "total": 371359
+    },
+    {
+      "date": "2020-07-04",
+      "new_neg": 1423,
+      "new_pos": 2,
+      "pr100_pos": 0.1,
+      "new_total": 1425,
+      "total_neg": 363786,
+      "total_pos": 8998,
+      "total": 372784
+    },
+    {
+      "date": "2020-07-05",
+      "new_neg": 1190,
+      "new_pos": 2,
+      "pr100_pos": 0.2,
+      "new_total": 1192,
+      "total_neg": 364976,
+      "total_pos": 9000,
+      "total": 373976
+    },
+    {
+      "date": "2020-07-06",
+      "new_neg": 6314,
+      "new_pos": 19,
+      "pr100_pos": 0.3,
+      "new_total": 6333,
+      "total_neg": 371290,
+      "total_pos": 9019,
+      "total": 380309
+    },
+    {
+      "date": "2020-07-07",
+      "new_neg": 5328,
+      "new_pos": 10,
+      "pr100_pos": 0.2,
+      "new_total": 5338,
+      "total_neg": 376618,
+      "total_pos": 9029,
+      "total": 385647
+    },
+    {
+      "date": "2020-07-08",
+      "new_neg": 5287,
+      "new_pos": 13,
+      "pr100_pos": 0.2,
+      "new_total": 5300,
+      "total_neg": 381905,
+      "total_pos": 9042,
+      "total": 390947
+    },
+    {
+      "date": "2020-07-09",
+      "new_neg": 4801,
+      "new_pos": 10,
+      "pr100_pos": 0.2,
+      "new_total": 4811,
+      "total_neg": 386706,
+      "total_pos": 9052,
+      "total": 395758
+    },
+    {
+      "date": "2020-07-10",
+      "new_neg": 4682,
+      "new_pos": 11,
+      "pr100_pos": 0.2,
+      "new_total": 4693,
+      "total_neg": 391388,
+      "total_pos": 9063,
+      "total": 400451
+    },
+    {
+      "date": "2020-07-11",
+      "new_neg": 1389,
+      "new_pos": 4,
+      "pr100_pos": 0.3,
+      "new_total": 1393,
+      "total_neg": 392777,
+      "total_pos": 9067,
+      "total": 401844
+    },
+    {
+      "date": "2020-07-12",
+      "new_neg": 1189,
+      "new_pos": 7,
+      "pr100_pos": 0.6,
+      "new_total": 1196,
+      "total_neg": 393966,
+      "total_pos": 9074,
+      "total": 403040
+    },
+    {
+      "date": "2020-07-13",
+      "new_neg": 6345,
+      "new_pos": 18,
+      "pr100_pos": 0.3,
+      "new_total": 6363,
+      "total_neg": 400311,
+      "total_pos": 9092,
+      "total": 409403
+    },
+    {
+      "date": "2020-07-14",
+      "new_neg": 5254,
+      "new_pos": 7,
+      "pr100_pos": 0.1,
+      "new_total": 5261,
+      "total_neg": 405565,
+      "total_pos": 9099,
+      "total": 414664
+    },
+    {
+      "date": "2020-07-15",
+      "new_neg": 5401,
+      "new_pos": 7,
+      "pr100_pos": 0.1,
+      "new_total": 5408,
+      "total_neg": 410966,
+      "total_pos": 9106,
+      "total": 420072
+    },
+    {
+      "date": "2020-07-16",
+      "new_neg": 4548,
+      "new_pos": 3,
+      "pr100_pos": 0.1,
+      "new_total": 4551,
+      "total_neg": 415514,
+      "total_pos": 9109,
+      "total": 424623
+    },
+    {
+      "date": "2020-07-17",
+      "new_neg": 4128,
+      "new_pos": 11,
+      "pr100_pos": 0.3,
+      "new_total": 4139,
+      "total_neg": 419642,
+      "total_pos": 9120,
+      "total": 428762
+    },
+    {
+      "date": "2020-07-18",
+      "new_neg": 1413,
+      "new_pos": 1,
+      "pr100_pos": 0.1,
+      "new_total": 1414,
+      "total_neg": 421055,
+      "total_pos": 9121,
+      "total": 430176
+    },
+    {
+      "date": "2020-07-19",
+      "new_neg": 1342,
+      "new_pos": 3,
+      "pr100_pos": 0.2,
+      "new_total": 1345,
+      "total_neg": 422397,
+      "total_pos": 9124,
+      "total": 431521
+    },
+    {
+      "date": "2020-07-20",
+      "new_neg": 5989,
+      "new_pos": 24,
+      "pr100_pos": 0.4,
+      "new_total": 6013,
+      "total_neg": 428386,
+      "total_pos": 9148,
+      "total": 437534
+    },
+    {
+      "date": "2020-07-21",
+      "new_neg": 4812,
+      "new_pos": 6,
+      "pr100_pos": 0.1,
+      "new_total": 4818,
+      "total_neg": 433198,
+      "total_pos": 9154,
+      "total": 442352
+    },
+    {
+      "date": "2020-07-22",
+      "new_neg": 4904,
+      "new_pos": 25,
+      "pr100_pos": 0.5,
+      "new_total": 4929,
+      "total_neg": 438102,
+      "total_pos": 9179,
+      "total": 447281
+    },
+    {
+      "date": "2020-07-23",
+      "new_neg": 4473,
+      "new_pos": 6,
+      "pr100_pos": 0.1,
+      "new_total": 4479,
+      "total_neg": 442575,
+      "total_pos": 9185,
+      "total": 451760
+    },
+    {
+      "date": "2020-07-24",
+      "new_neg": 4488,
+      "new_pos": 29,
+      "pr100_pos": 0.6,
+      "new_total": 4517,
+      "total_neg": 447063,
+      "total_pos": 9214,
+      "total": 456277
+    },
+    {
+      "date": "2020-07-25",
+      "new_neg": 1695,
+      "new_pos": 7,
+      "pr100_pos": 0.4,
+      "new_total": 1702,
+      "total_neg": 448758,
+      "total_pos": 9221,
+      "total": 457979
+    },
+    {
+      "date": "2020-07-26",
+      "new_neg": 1461,
+      "new_pos": 9,
+      "pr100_pos": 0.6,
+      "new_total": 1470,
+      "total_neg": 450219,
+      "total_pos": 9230,
+      "total": 459449
+    },
+    {
+      "date": "2020-07-27",
+      "new_neg": 6848,
+      "new_pos": 22,
+      "pr100_pos": 0.3,
+      "new_total": 6870,
+      "total_neg": 457067,
+      "total_pos": 9252,
+      "total": 466319
+    },
+    {
+      "date": "2020-07-28",
+      "new_neg": 5870,
+      "new_pos": 15,
+      "pr100_pos": 0.3,
+      "new_total": 5885,
+      "total_neg": 462937,
+      "total_pos": 9267,
+      "total": 472204
+    },
+    {
+      "date": "2020-07-29",
+      "new_neg": 5855,
+      "new_pos": 38,
+      "pr100_pos": 0.6,
+      "new_total": 5893,
+      "total_neg": 468792,
+      "total_pos": 9305,
+      "total": 478097
+    },
+    {
+      "date": "2020-07-30",
+      "new_neg": 5540,
+      "new_pos": 24,
+      "pr100_pos": 0.4,
+      "new_total": 5564,
+      "total_neg": 474332,
+      "total_pos": 9329,
+      "total": 483661
+    },
+    {
+      "date": "2020-07-31",
+      "new_neg": 5394,
+      "new_pos": 73,
+      "pr100_pos": 1.3,
+      "new_total": 5467,
+      "total_neg": 479726,
+      "total_pos": 9402,
+      "total": 489128
+    },
+    {
+      "date": "2020-08-01",
+      "new_neg": 2097,
+      "new_pos": 13,
+      "pr100_pos": 0.6,
+      "new_total": 2110,
+      "total_neg": 481823,
+      "total_pos": 9415,
+      "total": 491238
+    },
+    {
+      "date": "2020-08-02",
+      "new_neg": 1885,
+      "new_pos": 14,
+      "pr100_pos": 0.7,
+      "new_total": 1899,
+      "total_neg": 483708,
+      "total_pos": 9429,
+      "total": 493137
+    },
+    {
+      "date": "2020-08-03",
+      "new_neg": 9283,
+      "new_pos": 37,
+      "pr100_pos": 0.4,
+      "new_total": 9320,
+      "total_neg": 492991,
+      "total_pos": 9466,
+      "total": 502457
+    },
+    {
+      "date": "2020-08-04",
+      "new_neg": 8399,
+      "new_pos": 40,
+      "pr100_pos": 0.5,
+      "new_total": 8439,
+      "total_neg": 501390,
+      "total_pos": 9506,
+      "total": 510896
+    },
+    {
+      "date": "2020-08-05",
+      "new_neg": 8694,
+      "new_pos": 68,
+      "pr100_pos": 0.8,
+      "new_total": 8762,
+      "total_neg": 510084,
+      "total_pos": 9574,
+      "total": 519658
+    },
+    {
+      "date": "2020-08-06",
+      "new_neg": 8611,
+      "new_pos": 75,
+      "pr100_pos": 0.9,
+      "new_total": 8686,
+      "total_neg": 518695,
+      "total_pos": 9649,
+      "total": 528344
+    },
+    {
+      "date": "2020-08-07",
+      "new_neg": 8365,
+      "new_pos": 76,
+      "pr100_pos": 0.9,
+      "new_total": 8441,
+      "total_neg": 527060,
+      "total_pos": 9725,
+      "total": 536785
+    },
+    {
+      "date": "2020-08-08",
+      "new_neg": 3263,
+      "new_pos": 34,
+      "pr100_pos": 1.0,
+      "new_total": 3297,
+      "total_neg": 530323,
+      "total_pos": 9759,
+      "total": 540082
+    },
+    {
+      "date": "2020-08-09",
+      "new_neg": 3128,
+      "new_pos": 37,
+      "pr100_pos": 1.2,
+      "new_total": 3165,
+      "total_neg": 533451,
+      "total_pos": 9796,
+      "total": 543247
+    },
+    {
+      "date": "2020-08-10",
+      "new_neg": 13433,
+      "new_pos": 64,
+      "pr100_pos": 0.5,
+      "new_total": 13497,
+      "total_neg": 546884,
+      "total_pos": 9860,
+      "total": 556744
+    },
+    {
+      "date": "2020-08-11",
+      "new_neg": 12925,
+      "new_pos": 45,
+      "pr100_pos": 0.3,
+      "new_total": 12970,
+      "total_neg": 559809,
+      "total_pos": 9905,
+      "total": 569714
+    },
+    {
+      "date": "2020-08-12",
+      "new_neg": 13373,
+      "new_pos": 66,
+      "pr100_pos": 0.5,
+      "new_total": 13439,
+      "total_neg": 573182,
+      "total_pos": 9971,
+      "total": 583153
+    },
+    {
+      "date": "2020-08-13",
+      "new_neg": 13213,
+      "new_pos": 50,
+      "pr100_pos": 0.4,
+      "new_total": 13263,
+      "total_neg": 586395,
+      "total_pos": 10021,
+      "total": 596416
+    },
+    {
+      "date": "2020-08-14",
+      "new_neg": 13692,
+      "new_pos": 74,
+      "pr100_pos": 0.5,
+      "new_total": 13766,
+      "total_neg": 600087,
+      "total_pos": 10095,
+      "total": 610182
+    },
+    {
+      "date": "2020-08-15",
+      "new_neg": 5983,
+      "new_pos": 42,
+      "pr100_pos": 0.7,
+      "new_total": 6025,
+      "total_neg": 606070,
+      "total_pos": 10137,
+      "total": 616207
+    },
+    {
+      "date": "2020-08-16",
+      "new_neg": 5267,
+      "new_pos": 29,
+      "pr100_pos": 0.5,
+      "new_total": 5296,
+      "total_neg": 611337,
+      "total_pos": 10166,
+      "total": 621503
+    },
+    {
+      "date": "2020-08-17",
+      "new_neg": 18193,
+      "new_pos": 75,
+      "pr100_pos": 0.4,
+      "new_total": 18268,
+      "total_neg": 629530,
+      "total_pos": 10241,
+      "total": 639771
+    },
+    {
+      "date": "2020-08-18",
+      "new_neg": 16932,
+      "new_pos": 55,
+      "pr100_pos": 0.3,
+      "new_total": 16987,
+      "total_neg": 646462,
+      "total_pos": 10296,
+      "total": 656758
+    },
+    {
+      "date": "2020-08-19",
+      "new_neg": 16472,
+      "new_pos": 63,
+      "pr100_pos": 0.4,
+      "new_total": 16535,
+      "total_neg": 662934,
+      "total_pos": 10359,
+      "total": 673293
+    },
+    {
+      "date": "2020-08-20",
+      "new_neg": 15608,
+      "new_pos": 50,
+      "pr100_pos": 0.3,
+      "new_total": 15658,
+      "total_neg": 678542,
+      "total_pos": 10409,
+      "total": 688951
+    },
+    {
+      "date": "2020-08-21",
+      "new_neg": 15210,
+      "new_pos": 59,
+      "pr100_pos": 0.4,
+      "new_total": 15269,
+      "total_neg": 693752,
+      "total_pos": 10468,
+      "total": 704220
+    },
+    {
+      "date": "2020-08-22",
+      "new_neg": 6755,
+      "new_pos": 48,
+      "pr100_pos": 0.7,
+      "new_total": 6803,
+      "total_neg": 700507,
+      "total_pos": 10516,
+      "total": 711023
+    },
+    {
+      "date": "2020-08-23",
+      "new_neg": 6943,
+      "new_pos": 21,
+      "pr100_pos": 0.3,
+      "new_total": 6964,
+      "total_neg": 707450,
+      "total_pos": 10537,
+      "total": 717987
+    },
+    {
+      "date": "2020-08-24",
+      "new_neg": 21116,
+      "new_pos": 76,
+      "pr100_pos": 0.4,
+      "new_total": 21192,
+      "total_neg": 728566,
+      "total_pos": 10613,
+      "total": 739179
+    },
+    {
+      "date": "2020-08-25",
+      "new_neg": 19346,
+      "new_pos": 38,
+      "pr100_pos": 0.2,
+      "new_total": 19384,
+      "total_neg": 747912,
+      "total_pos": 10651,
+      "total": 758563
+    },
+    {
+      "date": "2020-08-26",
+      "new_neg": 18811,
+      "new_pos": 46,
+      "pr100_pos": 0.2,
+      "new_total": 18857,
+      "total_neg": 766723,
+      "total_pos": 10697,
+      "total": 777420
+    },
+    {
+      "date": "2020-08-27",
+      "new_neg": 17278,
+      "new_pos": 56,
+      "pr100_pos": 0.3,
+      "new_total": 17334,
+      "total_neg": 784001,
+      "total_pos": 10753,
+      "total": 794754
+    },
+    {
+      "date": "2020-08-28",
+      "new_neg": 16420,
+      "new_pos": 90,
+      "pr100_pos": 0.5,
+      "new_total": 16510,
+      "total_neg": 800421,
+      "total_pos": 10843,
+      "total": 811264
+    },
+    {
+      "date": "2020-08-29",
+      "new_neg": 6352,
+      "new_pos": 40,
+      "pr100_pos": 0.6,
+      "new_total": 6392,
+      "total_neg": 806773,
+      "total_pos": 10883,
+      "total": 817656
+    },
+    {
+      "date": "2020-08-30",
+      "new_neg": 6747,
+      "new_pos": 47,
+      "pr100_pos": 0.7,
+      "new_total": 6794,
+      "total_neg": 813520,
+      "total_pos": 10930,
+      "total": 824450
+    },
+    {
+      "date": "2020-08-31",
+      "new_neg": 22592,
+      "new_pos": 141,
+      "pr100_pos": 0.6,
+      "new_total": 22733,
+      "total_neg": 836112,
+      "total_pos": 11071,
+      "total": 847183
+    },
+    {
+      "date": "2020-09-01",
+      "new_neg": 20336,
+      "new_pos": 107,
+      "pr100_pos": 0.5,
+      "new_total": 20443,
+      "total_neg": 856448,
+      "total_pos": 11178,
+      "total": 867626
+    },
+    {
+      "date": "2020-09-02",
+      "new_neg": 19093,
+      "new_pos": 98,
+      "pr100_pos": 0.5,
+      "new_total": 19191,
+      "total_neg": 875541,
+      "total_pos": 11276,
+      "total": 886817
+    },
+    {
+      "date": "2020-09-03",
+      "new_neg": 17619,
+      "new_pos": 121,
+      "pr100_pos": 0.7,
+      "new_total": 17740,
+      "total_neg": 893160,
+      "total_pos": 11397,
+      "total": 904557
+    },
+    {
+      "date": "2020-09-04",
+      "new_neg": 15485,
+      "new_pos": 124,
+      "pr100_pos": 0.8,
+      "new_total": 15609,
+      "total_neg": 908645,
+      "total_pos": 11521,
+      "total": 920166
+    },
+    {
+      "date": "2020-09-05",
+      "new_neg": 5946,
+      "new_pos": 71,
+      "pr100_pos": 1.2,
+      "new_total": 6017,
+      "total_neg": 914591,
+      "total_pos": 11592,
+      "total": 926183
+    },
+    {
+      "date": "2020-09-06",
+      "new_neg": 6374,
+      "new_pos": 54,
+      "pr100_pos": 0.8,
+      "new_total": 6428,
+      "total_neg": 920965,
+      "total_pos": 11646,
+      "total": 932611
+    },
+    {
+      "date": "2020-09-07",
+      "new_neg": 20902,
+      "new_pos": 129,
+      "pr100_pos": 0.6,
+      "new_total": 21031,
+      "total_neg": 941867,
+      "total_pos": 11775,
+      "total": 953642
+    },
+    {
+      "date": "2020-09-08",
+      "new_neg": 18777,
+      "new_pos": 107,
+      "pr100_pos": 0.6,
+      "new_total": 18884,
+      "total_neg": 960644,
+      "total_pos": 11882,
+      "total": 972526
+    },
+    {
+      "date": "2020-09-09",
+      "new_neg": 17828,
+      "new_pos": 126,
+      "pr100_pos": 0.7,
+      "new_total": 17954,
+      "total_neg": 978472,
+      "total_pos": 12008,
+      "total": 990480
+    },
+    {
+      "date": "2020-09-10",
+      "new_neg": 15571,
+      "new_pos": 123,
+      "pr100_pos": 0.8,
+      "new_total": 15694,
+      "total_neg": 994043,
+      "total_pos": 12131,
+      "total": 1006174
+    },
+    {
+      "date": "2020-09-11",
+      "new_neg": 14864,
+      "new_pos": 120,
+      "pr100_pos": 0.8,
+      "new_total": 14984,
+      "total_neg": 1008907,
+      "total_pos": 12251,
+      "total": 1021158
+    },
+    {
+      "date": "2020-09-12",
+      "new_neg": 7047,
+      "new_pos": 62,
+      "pr100_pos": 0.9,
+      "new_total": 7109,
+      "total_neg": 1015954,
+      "total_pos": 12313,
+      "total": 1028267
+    },
+    {
+      "date": "2020-09-13",
+      "new_neg": 6700,
+      "new_pos": 72,
+      "pr100_pos": 1.1,
+      "new_total": 6772,
+      "total_neg": 1022654,
+      "total_pos": 12385,
+      "total": 1035039
+    },
+    {
+      "date": "2020-09-14",
+      "new_neg": 21442,
+      "new_pos": 102,
+      "pr100_pos": 0.5,
+      "new_total": 21544,
+      "total_neg": 1044096,
+      "total_pos": 12487,
+      "total": 1056583
+    },
+    {
+      "date": "2020-09-15",
+      "new_neg": 18887,
+      "new_pos": 135,
+      "pr100_pos": 0.7,
+      "new_total": 19022,
+      "total_neg": 1062983,
+      "total_pos": 12622,
+      "total": 1075605
+    },
+    {
+      "date": "2020-09-16",
+      "new_neg": 17572,
+      "new_pos": 139,
+      "pr100_pos": 0.8,
+      "new_total": 17711,
+      "total_neg": 1080555,
+      "total_pos": 12761,
+      "total": 1093316
+    },
+    {
+      "date": "2020-09-17",
+      "new_neg": 15178,
+      "new_pos": 113,
+      "pr100_pos": 0.7,
+      "new_total": 15291,
+      "total_neg": 1095733,
+      "total_pos": 12874,
+      "total": 1108607
+    },
+    {
+      "date": "2020-09-18",
+      "new_neg": 14054,
+      "new_pos": 95,
+      "pr100_pos": 0.7,
+      "new_total": 14149,
+      "total_neg": 1109787,
+      "total_pos": 12969,
+      "total": 1122756
+    },
+    {
+      "date": "2020-09-19",
+      "new_neg": 5787,
+      "new_pos": 59,
+      "pr100_pos": 1.0,
+      "new_total": 5846,
+      "total_neg": 1115574,
+      "total_pos": 13028,
+      "total": 1128602
+    },
+    {
+      "date": "2020-09-20",
+      "new_neg": 5737,
+      "new_pos": 77,
+      "pr100_pos": 1.3,
+      "new_total": 5814,
+      "total_neg": 1121311,
+      "total_pos": 13105,
+      "total": 1134416
+    },
+    {
+      "date": "2020-09-21",
+      "new_neg": 20660,
+      "new_pos": 152,
+      "pr100_pos": 0.7,
+      "new_total": 20812,
+      "total_neg": 1141971,
+      "total_pos": 13257,
+      "total": 1155228
+    },
+    {
+      "date": "2020-09-22",
+      "new_neg": 16713,
+      "new_pos": 101,
+      "pr100_pos": 0.6,
+      "new_total": 16814,
+      "total_neg": 1158684,
+      "total_pos": 13358,
+      "total": 1172042
+    },
+    {
+      "date": "2020-09-23",
+      "new_neg": 16229,
+      "new_pos": 143,
+      "pr100_pos": 0.9,
+      "new_total": 16372,
+      "total_neg": 1174913,
+      "total_pos": 13501,
+      "total": 1188414
+    },
+    {
+      "date": "2020-09-24",
+      "new_neg": 14375,
+      "new_pos": 125,
+      "pr100_pos": 0.9,
+      "new_total": 14500,
+      "total_neg": 1189288,
+      "total_pos": 13626,
+      "total": 1202914
+    },
+    {
+      "date": "2020-09-25",
+      "new_neg": 13775,
+      "new_pos": 136,
+      "pr100_pos": 1.0,
+      "new_total": 13911,
+      "total_neg": 1203063,
+      "total_pos": 13762,
+      "total": 1216825
+    },
+    {
+      "date": "2020-09-26",
+      "new_neg": 5973,
+      "new_pos": 64,
+      "pr100_pos": 1.1,
+      "new_total": 6037,
+      "total_neg": 1209036,
+      "total_pos": 13826,
+      "total": 1222862
+    },
+    {
+      "date": "2020-09-27",
+      "new_neg": 5942,
+      "new_pos": 52,
+      "pr100_pos": 0.9,
+      "new_total": 5994,
+      "total_neg": 1214978,
+      "total_pos": 13878,
+      "total": 1228856
+    },
+    {
+      "date": "2020-09-28",
+      "new_neg": 19130,
+      "new_pos": 125,
+      "pr100_pos": 0.6,
+      "new_total": 19255,
+      "total_neg": 1234108,
+      "total_pos": 14003,
+      "total": 1248111
+    },
+    {
+      "date": "2020-09-29",
+      "new_neg": 15430,
+      "new_pos": 110,
+      "pr100_pos": 0.7,
+      "new_total": 15540,
+      "total_neg": 1249538,
+      "total_pos": 14113,
+      "total": 1263651
+    },
+    {
+      "date": "2020-09-30",
+      "new_neg": 14872,
+      "new_pos": 124,
+      "pr100_pos": 0.8,
+      "new_total": 14996,
+      "total_neg": 1264410,
+      "total_pos": 14237,
+      "total": 1278647
+    },
+    {
+      "date": "2020-10-01",
+      "new_neg": 12827,
+      "new_pos": 128,
+      "pr100_pos": 1.0,
+      "new_total": 12955,
+      "total_neg": 1277237,
+      "total_pos": 14365,
+      "total": 1291602
+    },
+    {
+      "date": "2020-10-02",
+      "new_neg": 13064,
+      "new_pos": 123,
+      "pr100_pos": 0.9,
+      "new_total": 13187,
+      "total_neg": 1290301,
+      "total_pos": 14488,
+      "total": 1304789
+    },
+    {
+      "date": "2020-10-03",
+      "new_neg": 5721,
+      "new_pos": 105,
+      "pr100_pos": 1.8,
+      "new_total": 5826,
+      "total_neg": 1296022,
+      "total_pos": 14593,
+      "total": 1310615
+    },
+    {
+      "date": "2020-10-04",
+      "new_neg": 5962,
+      "new_pos": 82,
+      "pr100_pos": 1.4,
+      "new_total": 6044,
+      "total_neg": 1301984,
+      "total_pos": 14675,
+      "total": 1316659
+    },
+    {
+      "date": "2020-10-05",
+      "new_neg": 19147,
+      "new_pos": 198,
+      "pr100_pos": 1.0,
+      "new_total": 19345,
+      "total_neg": 1321131,
+      "total_pos": 14873,
+      "total": 1336004
+    },
+    {
+      "date": "2020-10-06",
+      "new_neg": 14818,
+      "new_pos": 199,
+      "pr100_pos": 1.3,
+      "new_total": 15017,
+      "total_neg": 1335949,
+      "total_pos": 15072,
+      "total": 1351021
+    },
+    {
+      "date": "2020-10-07",
+      "new_neg": 14165,
+      "new_pos": 204,
+      "pr100_pos": 1.4,
+      "new_total": 14369,
+      "total_neg": 1350114,
+      "total_pos": 15276,
+      "total": 1365390
+    },
+    {
+      "date": "2020-10-08",
+      "new_neg": 12973,
+      "new_pos": 158,
+      "pr100_pos": 1.2,
+      "new_total": 13131,
+      "total_neg": 1363087,
+      "total_pos": 15434,
+      "total": 1378521
+    },
+    {
+      "date": "2020-10-09",
+      "new_neg": 12673,
+      "new_pos": 138,
+      "pr100_pos": 1.1,
+      "new_total": 12811,
+      "total_neg": 1375760,
+      "total_pos": 15572,
+      "total": 1391332
+    },
+    {
+      "date": "2020-10-10",
+      "new_neg": 5869,
+      "new_pos": 62,
+      "pr100_pos": 1.0,
+      "new_total": 5931,
+      "total_neg": 1381629,
+      "total_pos": 15634,
+      "total": 1397263
+    },
+    {
+      "date": "2020-10-11",
+      "new_neg": 6427,
+      "new_pos": 77,
+      "pr100_pos": 1.2,
+      "new_total": 6504,
+      "total_neg": 1388056,
+      "total_pos": 15711,
+      "total": 1403767
+    },
+    {
+      "date": "2020-10-12",
+      "new_neg": 19774,
+      "new_pos": 155,
+      "pr100_pos": 0.8,
+      "new_total": 19929,
+      "total_neg": 1407830,
+      "total_pos": 15866,
+      "total": 1423696
+    },
+    {
+      "date": "2020-10-13",
+      "new_neg": 15687,
+      "new_pos": 146,
+      "pr100_pos": 0.9,
+      "new_total": 15833,
+      "total_neg": 1423517,
+      "total_pos": 16012,
+      "total": 1439529
+    },
+    {
+      "date": "2020-10-14",
+      "new_neg": 15173,
+      "new_pos": 164,
+      "pr100_pos": 1.1,
+      "new_total": 15337,
+      "total_neg": 1438690,
+      "total_pos": 16176,
+      "total": 1454866
+    },
+    {
+      "date": "2020-10-15",
+      "new_neg": 13719,
+      "new_pos": 137,
+      "pr100_pos": 1.0,
+      "new_total": 13856,
+      "total_neg": 1452409,
+      "total_pos": 16313,
+      "total": 1468722
+    },
+    {
+      "date": "2020-10-16",
+      "new_neg": 12997,
+      "new_pos": 133,
+      "pr100_pos": 1.0,
+      "new_total": 13130,
+      "total_neg": 1465406,
+      "total_pos": 16446,
+      "total": 1481852
+    },
+    {
+      "date": "2020-10-17",
+      "new_neg": 5889,
+      "new_pos": 81,
+      "pr100_pos": 1.4,
+      "new_total": 5970,
+      "total_neg": 1471295,
+      "total_pos": 16527,
+      "total": 1487822
+    },
+    {
+      "date": "2020-10-18",
+      "new_neg": 6360,
+      "new_pos": 90,
+      "pr100_pos": 1.4,
+      "new_total": 6450,
+      "total_neg": 1477655,
+      "total_pos": 16617,
+      "total": 1494272
+    },
+    {
+      "date": "2020-10-19",
+      "new_neg": 20527,
+      "new_pos": 207,
+      "pr100_pos": 1.0,
+      "new_total": 20734,
+      "total_neg": 1498182,
+      "total_pos": 16824,
+      "total": 1515006
+    },
+    {
+      "date": "2020-10-20",
+      "new_neg": 16895,
+      "new_pos": 180,
+      "pr100_pos": 1.1,
+      "new_total": 17075,
+      "total_neg": 1515077,
+      "total_pos": 17004,
+      "total": 1532081
+    },
+    {
+      "date": "2020-10-21",
+      "new_neg": 16034,
+      "new_pos": 225,
+      "pr100_pos": 1.4,
+      "new_total": 16259,
+      "total_neg": 1531111,
+      "total_pos": 17229,
+      "total": 1548340
+    },
+    {
+      "date": "2020-10-22",
+      "new_neg": 15396,
+      "new_pos": 267,
+      "pr100_pos": 1.7,
+      "new_total": 15663,
+      "total_neg": 1546507,
+      "total_pos": 17496,
+      "total": 1564003
+    },
+    {
+      "date": "2020-10-23",
+      "new_neg": 15133,
+      "new_pos": 362,
+      "pr100_pos": 2.3,
+      "new_total": 15495,
+      "total_neg": 1561640,
+      "total_pos": 17858,
+      "total": 1579498
+    },
+    {
+      "date": "2020-10-24",
+      "new_neg": 7320,
+      "new_pos": 229,
+      "pr100_pos": 3.0,
+      "new_total": 7549,
+      "total_neg": 1568960,
+      "total_pos": 18087,
+      "total": 1587047
+    },
+    {
+      "date": "2020-10-25",
+      "new_neg": 7640,
+      "new_pos": 189,
+      "pr100_pos": 2.4,
+      "new_total": 7829,
+      "total_neg": 1576600,
+      "total_pos": 18276,
+      "total": 1594876
+    },
+    {
+      "date": "2020-10-26",
+      "new_neg": 23181,
+      "new_pos": 457,
+      "pr100_pos": 1.9,
+      "new_total": 23638,
+      "total_neg": 1599781,
+      "total_pos": 18733,
+      "total": 1618514
+    },
+    {
+      "date": "2020-10-27",
+      "new_neg": 20702,
+      "new_pos": 378,
+      "pr100_pos": 1.8,
+      "new_total": 21080,
+      "total_neg": 1620483,
+      "total_pos": 19111,
+      "total": 1639594
+    },
+    {
+      "date": "2020-10-28",
+      "new_neg": 20844,
+      "new_pos": 521,
+      "pr100_pos": 2.4,
+      "new_total": 21365,
+      "total_neg": 1641327,
+      "total_pos": 19632,
+      "total": 1660959
+    },
+    {
+      "date": "2020-10-29",
+      "new_neg": 20689,
+      "new_pos": 423,
+      "pr100_pos": 2.0,
+      "new_total": 21112,
+      "total_neg": 1662016,
+      "total_pos": 20055,
+      "total": 1682071
+    },
+    {
+      "date": "2020-10-30",
+      "new_neg": 20119,
+      "new_pos": 606,
+      "pr100_pos": 2.9,
+      "new_total": 20725,
+      "total_neg": 1682135,
+      "total_pos": 20661,
+      "total": 1702796
+    },
+    {
+      "date": "2020-10-31",
+      "new_neg": 9285,
+      "new_pos": 378,
+      "pr100_pos": 3.9,
+      "new_total": 9663,
+      "total_neg": 1691420,
+      "total_pos": 21039,
+      "total": 1712459
+    },
+    {
+      "date": "2020-11-01",
+      "new_neg": 9477,
+      "new_pos": 315,
+      "pr100_pos": 3.2,
+      "new_total": 9792,
+      "total_neg": 1700897,
+      "total_pos": 21354,
+      "total": 1722251
+    },
+    {
+      "date": "2020-11-02",
+      "new_neg": 27399,
+      "new_pos": 634,
+      "pr100_pos": 2.3,
+      "new_total": 28033,
+      "total_neg": 1728296,
+      "total_pos": 21988,
+      "total": 1750284
+    },
+    {
+      "date": "2020-11-03",
+      "new_neg": 26700,
+      "new_pos": 645,
+      "pr100_pos": 2.4,
+      "new_total": 27345,
+      "total_neg": 1754996,
+      "total_pos": 22633,
+      "total": 1777629
+    },
+    {
+      "date": "2020-11-04",
+      "new_neg": 25223,
+      "new_pos": 655,
+      "pr100_pos": 2.5,
+      "new_total": 25878,
+      "total_neg": 1780219,
+      "total_pos": 23288,
+      "total": 1803507
+    },
+    {
+      "date": "2020-11-05",
+      "new_neg": 27309,
+      "new_pos": 553,
+      "pr100_pos": 2.0,
+      "new_total": 27862,
+      "total_neg": 1807528,
+      "total_pos": 23841,
+      "total": 1831369
+    },
+    {
+      "date": "2020-11-06",
+      "new_neg": 26762,
+      "new_pos": 618,
+      "pr100_pos": 2.3,
+      "new_total": 27380,
+      "total_neg": 1834290,
+      "total_pos": 24459,
+      "total": 1858749
+    },
+    {
+      "date": "2020-11-07",
+      "new_neg": 12202,
+      "new_pos": 369,
+      "pr100_pos": 2.9,
+      "new_total": 12571,
+      "total_neg": 1846492,
+      "total_pos": 24828,
+      "total": 1871320
+    },
+    {
+      "date": "2020-11-08",
+      "new_neg": 11397,
+      "new_pos": 360,
+      "pr100_pos": 3.1,
+      "new_total": 11757,
+      "total_neg": 1857889,
+      "total_pos": 25188,
+      "total": 1883077
+    },
+    {
+      "date": "2020-11-09",
+      "new_neg": 30474,
+      "new_pos": 659,
+      "pr100_pos": 2.1,
+      "new_total": 31133,
+      "total_neg": 1888363,
+      "total_pos": 25847,
+      "total": 1914210
+    },
+    {
+      "date": "2020-11-10",
+      "new_neg": 25136,
+      "new_pos": 574,
+      "pr100_pos": 2.2,
+      "new_total": 25710,
+      "total_neg": 1913499,
+      "total_pos": 26421,
+      "total": 1939920
+    },
+    {
+      "date": "2020-11-11",
+      "new_neg": 23220,
+      "new_pos": 629,
+      "pr100_pos": 2.6,
+      "new_total": 23849,
+      "total_neg": 1936719,
+      "total_pos": 27050,
+      "total": 1963769
+    },
+    {
+      "date": "2020-11-12",
+      "new_neg": 22854,
+      "new_pos": 607,
+      "pr100_pos": 2.6,
+      "new_total": 23461,
+      "total_neg": 1959573,
+      "total_pos": 27657,
+      "total": 1987230
+    },
+    {
+      "date": "2020-11-13",
+      "new_neg": 20850,
+      "new_pos": 656,
+      "pr100_pos": 3.1,
+      "new_total": 21506,
+      "total_neg": 1980423,
+      "total_pos": 28313,
+      "total": 2008736
+    },
+    {
+      "date": "2020-11-14",
+      "new_neg": 9213,
+      "new_pos": 350,
+      "pr100_pos": 3.7,
+      "new_total": 9563,
+      "total_neg": 1989636,
+      "total_pos": 28663,
+      "total": 2018299
+    },
+    {
+      "date": "2020-11-15",
+      "new_neg": 8284,
+      "new_pos": 262,
+      "pr100_pos": 3.1,
+      "new_total": 8546,
+      "total_neg": 1997920,
+      "total_pos": 28925,
+      "total": 2026845
+    },
+    {
+      "date": "2020-11-16",
+      "new_neg": 4143,
+      "new_pos": 72,
+      "pr100_pos": 1.7,
+      "new_total": 4215,
+      "total_neg": 2002063,
+      "total_pos": 28997,
+      "total": 2031060
+    }
+  ]
+}

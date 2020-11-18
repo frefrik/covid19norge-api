@@ -1,0 +1,4360 @@
+{
+  "timeseries": {
+    "new": [
+      {
+        "date": "2020-02-21",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-22",
+        "tested": 0,
+        "confirmed": 0,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-23",
+        "tested": 0,
+        "confirmed": 0,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-24",
+        "tested": 0,
+        "confirmed": 0,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-25",
+        "tested": 0,
+        "confirmed": 0,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-26",
+        "tested": 0,
+        "confirmed": 3,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-27",
+        "tested": 0,
+        "confirmed": 2,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-28",
+        "tested": 0,
+        "confirmed": 9,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-29",
+        "tested": 0,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-01",
+        "tested": 0,
+        "confirmed": 10,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-02",
+        "tested": 0,
+        "confirmed": 12,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-03",
+        "tested": 0,
+        "confirmed": 31,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-04",
+        "tested": 0,
+        "confirmed": 33,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-05",
+        "tested": 0,
+        "confirmed": 33,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-06",
+        "tested": 0,
+        "confirmed": 24,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-07",
+        "tested": 0,
+        "confirmed": 20,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-08",
+        "tested": 0,
+        "confirmed": 65,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-09",
+        "tested": 0,
+        "confirmed": 247,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-10",
+        "tested": 0,
+        "confirmed": 241,
+        "dead": 0,
+        "admissions": 6,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-11",
+        "tested": 0,
+        "confirmed": 175,
+        "dead": 0,
+        "admissions": 5,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-12",
+        "tested": 0,
+        "confirmed": 206,
+        "dead": 0,
+        "admissions": 10,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-03-13",
+        "tested": 1530,
+        "confirmed": 147,
+        "dead": 1,
+        "admissions": 4,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-03-14",
+        "tested": 1770,
+        "confirmed": 100,
+        "dead": 1,
+        "admissions": 8,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-15",
+        "tested": 0,
+        "confirmed": 99,
+        "dead": 0,
+        "admissions": 6,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-03-16",
+        "tested": 4314,
+        "confirmed": 180,
+        "dead": 1,
+        "admissions": 9,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-03-17",
+        "tested": 3585,
+        "confirmed": 176,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-03-18",
+        "tested": 6875,
+        "confirmed": 213,
+        "dead": 0,
+        "admissions": 14,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-03-19",
+        "tested": 6061,
+        "confirmed": 239,
+        "dead": 3,
+        "admissions": 20,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-03-20",
+        "tested": 9152,
+        "confirmed": 308,
+        "dead": 1,
+        "admissions": 28,
+        "respiratory": 7
+      },
+      {
+        "date": "2020-03-21",
+        "tested": 5716,
+        "confirmed": 174,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-03-22",
+        "tested": 4942,
+        "confirmed": 148,
+        "dead": 0,
+        "admissions": 21,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-03-23",
+        "tested": 6858,
+        "confirmed": 297,
+        "dead": 1,
+        "admissions": 24,
+        "respiratory": 9
+      },
+      {
+        "date": "2020-03-24",
+        "tested": 9357,
+        "confirmed": 313,
+        "dead": 2,
+        "admissions": 19,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-03-25",
+        "tested": 2481,
+        "confirmed": 292,
+        "dead": 2,
+        "admissions": 25,
+        "respiratory": 13
+      },
+      {
+        "date": "2020-03-26",
+        "tested": 803,
+        "confirmed": 297,
+        "dead": 2,
+        "admissions": 29,
+        "respiratory": 13
+      },
+      {
+        "date": "2020-03-27",
+        "tested": 4144,
+        "confirmed": 262,
+        "dead": 2,
+        "admissions": 37,
+        "respiratory": 7
+      },
+      {
+        "date": "2020-03-28",
+        "tested": 4548,
+        "confirmed": 166,
+        "dead": 4,
+        "admissions": -12,
+        "respiratory": 7
+      },
+      {
+        "date": "2020-03-29",
+        "tested": 2552,
+        "confirmed": 106,
+        "dead": 2,
+        "admissions": 26,
+        "respiratory": 7
+      },
+      {
+        "date": "2020-03-30",
+        "tested": 2055,
+        "confirmed": 264,
+        "dead": 4,
+        "admissions": 4,
+        "respiratory": 6
+      },
+      {
+        "date": "2020-03-31",
+        "tested": 3051,
+        "confirmed": 208,
+        "dead": 2,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-04-01",
+        "tested": 4023,
+        "confirmed": 198,
+        "dead": 4,
+        "admissions": 8,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-04-02",
+        "tested": 4322,
+        "confirmed": 198,
+        "dead": 10,
+        "admissions": -7,
+        "respiratory": -3
+      },
+      {
+        "date": "2020-04-03",
+        "tested": 0,
+        "confirmed": 164,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-04-04",
+        "tested": 7278,
+        "confirmed": 88,
+        "dead": 8,
+        "admissions": -12,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-04-05",
+        "tested": 2844,
+        "confirmed": 72,
+        "dead": 8,
+        "admissions": 4,
+        "respiratory": -9
+      },
+      {
+        "date": "2020-04-06",
+        "tested": 0,
+        "confirmed": 158,
+        "dead": 0,
+        "admissions": 4,
+        "respiratory": -6
+      },
+      {
+        "date": "2020-04-07",
+        "tested": 5187,
+        "confirmed": 140,
+        "dead": 11,
+        "admissions": -37,
+        "respiratory": -5
+      },
+      {
+        "date": "2020-04-08",
+        "tested": 0,
+        "confirmed": 106,
+        "dead": 0,
+        "admissions": -27,
+        "respiratory": -8
+      },
+      {
+        "date": "2020-04-09",
+        "tested": 7138,
+        "confirmed": 103,
+        "dead": 19,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-04-10",
+        "tested": 0,
+        "confirmed": 68,
+        "dead": 0,
+        "admissions": -18,
+        "respiratory": -3
+      },
+      {
+        "date": "2020-04-11",
+        "tested": 3245,
+        "confirmed": 109,
+        "dead": 10,
+        "admissions": -20,
+        "respiratory": -3
+      },
+      {
+        "date": "2020-04-12",
+        "tested": 2207,
+        "confirmed": 76,
+        "dead": 5,
+        "admissions": 0,
+        "respiratory": -5
+      },
+      {
+        "date": "2020-04-13",
+        "tested": 819,
+        "confirmed": 77,
+        "dead": 11,
+        "admissions": -10,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-04-14",
+        "tested": 1264,
+        "confirmed": 122,
+        "dead": 13,
+        "admissions": -3,
+        "respiratory": -5
+      },
+      {
+        "date": "2020-04-15",
+        "tested": 1647,
+        "confirmed": 104,
+        "dead": 3,
+        "admissions": -11,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-04-16",
+        "tested": 3491,
+        "confirmed": 80,
+        "dead": 6,
+        "admissions": -15,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-04-17",
+        "tested": 2529,
+        "confirmed": 108,
+        "dead": 1,
+        "admissions": -10,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-04-18",
+        "tested": 3432,
+        "confirmed": 49,
+        "dead": 11,
+        "admissions": -17,
+        "respiratory": -4
+      },
+      {
+        "date": "2020-04-19",
+        "tested": 2498,
+        "confirmed": 36,
+        "dead": 6,
+        "admissions": 5,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-04-20",
+        "tested": 1089,
+        "confirmed": 84,
+        "dead": 0,
+        "admissions": 7,
+        "respiratory": -5
+      },
+      {
+        "date": "2020-04-21",
+        "tested": 2024,
+        "confirmed": 78,
+        "dead": 9,
+        "admissions": -16,
+        "respiratory": -3
+      },
+      {
+        "date": "2020-04-22",
+        "tested": 3377,
+        "confirmed": 77,
+        "dead": 6,
+        "admissions": -15,
+        "respiratory": -7
+      },
+      {
+        "date": "2020-04-23",
+        "tested": 3439,
+        "confirmed": 69,
+        "dead": 11,
+        "admissions": -6,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-04-24",
+        "tested": 3030,
+        "confirmed": 54,
+        "dead": 11,
+        "admissions": -3,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-04-25",
+        "tested": 0,
+        "confirmed": 25,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-04-26",
+        "tested": 0,
+        "confirmed": 37,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-04-27",
+        "tested": 9191,
+        "confirmed": 71,
+        "dead": 2,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-04-28",
+        "tested": 1635,
+        "confirmed": 50,
+        "dead": 2,
+        "admissions": -6,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-04-29",
+        "tested": 3173,
+        "confirmed": 39,
+        "dead": 7,
+        "admissions": -5,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-04-30",
+        "tested": 3462,
+        "confirmed": 39,
+        "dead": 2,
+        "admissions": -16,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-05-01",
+        "tested": 0,
+        "confirmed": 43,
+        "dead": 0,
+        "admissions": -16,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-05-02",
+        "tested": 0,
+        "confirmed": 23,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-03",
+        "tested": 0,
+        "confirmed": 44,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-04",
+        "tested": 9699,
+        "confirmed": 45,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-05",
+        "tested": 2372,
+        "confirmed": 43,
+        "dead": 1,
+        "admissions": -11,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-06",
+        "tested": 3579,
+        "confirmed": 39,
+        "dead": 0,
+        "admissions": -9,
+        "respiratory": -7
+      },
+      {
+        "date": "2020-05-07",
+        "tested": 3710,
+        "confirmed": 29,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-05-08",
+        "tested": 3975,
+        "confirmed": 41,
+        "dead": 4,
+        "admissions": -2,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-05-09",
+        "tested": 0,
+        "confirmed": 11,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-10",
+        "tested": 0,
+        "confirmed": 12,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-11",
+        "tested": 6830,
+        "confirmed": 23,
+        "dead": 11,
+        "admissions": -1,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-05-12",
+        "tested": 2488,
+        "confirmed": 19,
+        "dead": 4,
+        "admissions": 0,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-13",
+        "tested": 3635,
+        "confirmed": 19,
+        "dead": 1,
+        "admissions": 2,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-14",
+        "tested": 3781,
+        "confirmed": 23,
+        "dead": 3,
+        "admissions": 0,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-05-15",
+        "tested": 3695,
+        "confirmed": 21,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-16",
+        "tested": 0,
+        "confirmed": 13,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-17",
+        "tested": 0,
+        "confirmed": 3,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-18",
+        "tested": 1689,
+        "confirmed": 17,
+        "dead": 1,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-19",
+        "tested": 1945,
+        "confirmed": 20,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-20",
+        "tested": 3061,
+        "confirmed": 19,
+        "dead": 1,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-21",
+        "tested": 0,
+        "confirmed": 14,
+        "dead": 0,
+        "admissions": -10,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-05-22",
+        "tested": 6724,
+        "confirmed": 26,
+        "dead": 1,
+        "admissions": 4,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-23",
+        "tested": 0,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": -10,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-24",
+        "tested": 0,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": 3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-25",
+        "tested": 4868,
+        "confirmed": 18,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-05-26",
+        "tested": 2029,
+        "confirmed": 12,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-05-27",
+        "tested": 3198,
+        "confirmed": 18,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-05-28",
+        "tested": 2734,
+        "confirmed": 16,
+        "dead": 1,
+        "admissions": 0,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-05-29",
+        "tested": 2754,
+        "confirmed": 16,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -3
+      },
+      {
+        "date": "2020-05-30",
+        "tested": 0,
+        "confirmed": 0,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-05-31",
+        "tested": 0,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-01",
+        "tested": 0,
+        "confirmed": 7,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-02",
+        "tested": 5616,
+        "confirmed": 31,
+        "dead": 1,
+        "admissions": 3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-03",
+        "tested": 1264,
+        "confirmed": 12,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-04",
+        "tested": 2481,
+        "confirmed": 17,
+        "dead": 1,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-05",
+        "tested": 2590,
+        "confirmed": 30,
+        "dead": 0,
+        "admissions": -7,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-06",
+        "tested": 0,
+        "confirmed": 8,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-07",
+        "tested": 0,
+        "confirmed": 9,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-08",
+        "tested": 4933,
+        "confirmed": 18,
+        "dead": 1,
+        "admissions": -1,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-06-09",
+        "tested": 2154,
+        "confirmed": 13,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-10",
+        "tested": 3487,
+        "confirmed": 14,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-11",
+        "tested": 5028,
+        "confirmed": 11,
+        "dead": 3,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-12",
+        "tested": 4348,
+        "confirmed": 13,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-06-13",
+        "tested": 0,
+        "confirmed": 7,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-14",
+        "tested": 0,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-15",
+        "tested": 8614,
+        "confirmed": 18,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-06-16",
+        "tested": 2674,
+        "confirmed": 36,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-17",
+        "tested": 0,
+        "confirmed": 15,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-18",
+        "tested": 9879,
+        "confirmed": 13,
+        "dead": 2,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-19",
+        "tested": 4233,
+        "confirmed": 18,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-20",
+        "tested": 0,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-21",
+        "tested": 0,
+        "confirmed": 4,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-22",
+        "tested": 7982,
+        "confirmed": 27,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-23",
+        "tested": 2527,
+        "confirmed": 13,
+        "dead": 4,
+        "admissions": -1,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-06-24",
+        "tested": 3928,
+        "confirmed": 21,
+        "dead": 1,
+        "admissions": 4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-25",
+        "tested": 4381,
+        "confirmed": 17,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-26",
+        "tested": 4094,
+        "confirmed": 22,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-06-27",
+        "tested": 0,
+        "confirmed": 10,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-28",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-06-29",
+        "tested": 6370,
+        "confirmed": 26,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-06-30",
+        "tested": 2618,
+        "confirmed": 10,
+        "dead": 1,
+        "admissions": 0,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-07-01",
+        "tested": 4307,
+        "confirmed": 8,
+        "dead": 1,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-02",
+        "tested": 4674,
+        "confirmed": 8,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-03",
+        "tested": 4674,
+        "confirmed": 10,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-04",
+        "tested": 0,
+        "confirmed": 2,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-05",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-06",
+        "tested": 7448,
+        "confirmed": 14,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-07",
+        "tested": 2519,
+        "confirmed": 10,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-08",
+        "tested": 5406,
+        "confirmed": 11,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-09",
+        "tested": 4383,
+        "confirmed": 8,
+        "dead": 1,
+        "admissions": 0,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-07-10",
+        "tested": 4425,
+        "confirmed": 13,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-11",
+        "tested": 0,
+        "confirmed": 4,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-12",
+        "tested": 0,
+        "confirmed": 5,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-13",
+        "tested": 7693,
+        "confirmed": 19,
+        "dead": 1,
+        "admissions": 3,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-07-14",
+        "tested": 3067,
+        "confirmed": 8,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-15",
+        "tested": 4872,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-16",
+        "tested": 4655,
+        "confirmed": 4,
+        "dead": 1,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-17",
+        "tested": 4430,
+        "confirmed": 12,
+        "dead": 1,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-18",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-19",
+        "tested": 0,
+        "confirmed": 3,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-20",
+        "tested": 7392,
+        "confirmed": 21,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-21",
+        "tested": 2813,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-22",
+        "tested": 4595,
+        "confirmed": 22,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-23",
+        "tested": 4225,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-24",
+        "tested": 4397,
+        "confirmed": 24,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-25",
+        "tested": 0,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-26",
+        "tested": 0,
+        "confirmed": 9,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-27",
+        "tested": 7123,
+        "confirmed": 24,
+        "dead": 0,
+        "admissions": 4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-28",
+        "tested": 2895,
+        "confirmed": 16,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-29",
+        "tested": 5085,
+        "confirmed": 37,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-30",
+        "tested": 5260,
+        "confirmed": 23,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-31",
+        "tested": 5055,
+        "confirmed": 72,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-01",
+        "tested": 0,
+        "confirmed": 13,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-02",
+        "tested": 0,
+        "confirmed": 13,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-03",
+        "tested": 9113,
+        "confirmed": 38,
+        "dead": 1,
+        "admissions": 11,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-04",
+        "tested": 3746,
+        "confirmed": 40,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-05",
+        "tested": 6512,
+        "confirmed": 66,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-06",
+        "tested": 7524,
+        "confirmed": 78,
+        "dead": 0,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-07",
+        "tested": 6948,
+        "confirmed": 79,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-08",
+        "tested": 0,
+        "confirmed": 35,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-09",
+        "tested": 0,
+        "confirmed": 34,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-10",
+        "tested": 14917,
+        "confirmed": 63,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-11",
+        "tested": 5180,
+        "confirmed": 42,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-12",
+        "tested": 8884,
+        "confirmed": 63,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-13",
+        "tested": 10123,
+        "confirmed": 54,
+        "dead": 1,
+        "admissions": -3,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-08-14",
+        "tested": 11553,
+        "confirmed": 76,
+        "dead": 4,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-15",
+        "tested": 0,
+        "confirmed": 43,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-16",
+        "tested": 0,
+        "confirmed": 27,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-17",
+        "tested": 26207,
+        "confirmed": 74,
+        "dead": 0,
+        "admissions": 6,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-18",
+        "tested": 7896,
+        "confirmed": 58,
+        "dead": 1,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-19",
+        "tested": 9980,
+        "confirmed": 60,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-08-20",
+        "tested": 14021,
+        "confirmed": 50,
+        "dead": 2,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-21",
+        "tested": 13019,
+        "confirmed": 53,
+        "dead": 0,
+        "admissions": 3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-22",
+        "tested": 0,
+        "confirmed": 45,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-23",
+        "tested": 0,
+        "confirmed": 19,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-24",
+        "tested": 29334,
+        "confirmed": 67,
+        "dead": 0,
+        "admissions": 4,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-25",
+        "tested": 9672,
+        "confirmed": 42,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-26",
+        "tested": 13181,
+        "confirmed": 40,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-27",
+        "tested": 15961,
+        "confirmed": 51,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-08-28",
+        "tested": 16485,
+        "confirmed": 84,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-29",
+        "tested": 0,
+        "confirmed": 41,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-30",
+        "tested": 0,
+        "confirmed": 51,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-31",
+        "tested": 33677,
+        "confirmed": 148,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-01",
+        "tested": 11023,
+        "confirmed": 115,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-02",
+        "tested": 14377,
+        "confirmed": 101,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-03",
+        "tested": 16640,
+        "confirmed": 126,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-04",
+        "tested": 15540,
+        "confirmed": 119,
+        "dead": 0,
+        "admissions": 3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-05",
+        "tested": 0,
+        "confirmed": 73,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-06",
+        "tested": 0,
+        "confirmed": 60,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-07",
+        "tested": 29997,
+        "confirmed": 132,
+        "dead": 0,
+        "admissions": -1,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-09-08",
+        "tested": 9410,
+        "confirmed": 113,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-09",
+        "tested": 14198,
+        "confirmed": 124,
+        "dead": 0,
+        "admissions": 3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-10",
+        "tested": 14458,
+        "confirmed": 132,
+        "dead": 1,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-11",
+        "tested": 14633,
+        "confirmed": 118,
+        "dead": 0,
+        "admissions": 5,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-12",
+        "tested": 0,
+        "confirmed": 67,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-13",
+        "tested": 0,
+        "confirmed": 78,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-14",
+        "tested": 28967,
+        "confirmed": 103,
+        "dead": 0,
+        "admissions": 5,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-15",
+        "tested": 8970,
+        "confirmed": 132,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-16",
+        "tested": 15191,
+        "confirmed": 137,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-17",
+        "tested": 14741,
+        "confirmed": 116,
+        "dead": 1,
+        "admissions": 4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-18",
+        "tested": 12698,
+        "confirmed": 94,
+        "dead": 1,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-19",
+        "tested": 0,
+        "confirmed": 58,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-20",
+        "tested": 0,
+        "confirmed": 77,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-21",
+        "tested": 0,
+        "confirmed": 163,
+        "dead": 0,
+        "admissions": 7,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-22",
+        "tested": 31763,
+        "confirmed": 101,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-23",
+        "tested": 12764,
+        "confirmed": 143,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-24",
+        "tested": 14279,
+        "confirmed": 133,
+        "dead": 3,
+        "admissions": 5,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-25",
+        "tested": 11493,
+        "confirmed": 130,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-26",
+        "tested": 0,
+        "confirmed": 62,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-27",
+        "tested": 0,
+        "confirmed": 54,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-28",
+        "tested": 23649,
+        "confirmed": 124,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-29",
+        "tested": 6800,
+        "confirmed": 110,
+        "dead": 0,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-30",
+        "tested": 11876,
+        "confirmed": 118,
+        "dead": 0,
+        "admissions": 4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-01",
+        "tested": 11994,
+        "confirmed": 131,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-02",
+        "tested": 10467,
+        "confirmed": 134,
+        "dead": 1,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-03",
+        "tested": 0,
+        "confirmed": 110,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-04",
+        "tested": 0,
+        "confirmed": 89,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-05",
+        "tested": 19681,
+        "confirmed": 207,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-06",
+        "tested": 12441,
+        "confirmed": 198,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-07",
+        "tested": 11489,
+        "confirmed": 199,
+        "dead": 0,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-08",
+        "tested": 11081,
+        "confirmed": 168,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-10-09",
+        "tested": 9585,
+        "confirmed": 141,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-10",
+        "tested": 0,
+        "confirmed": 65,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-11",
+        "tested": 0,
+        "confirmed": 79,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-12",
+        "tested": 18254,
+        "confirmed": 165,
+        "dead": 1,
+        "admissions": 8,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-13",
+        "tested": 7106,
+        "confirmed": 155,
+        "dead": 1,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-14",
+        "tested": 12034,
+        "confirmed": 162,
+        "dead": 0,
+        "admissions": -4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-15",
+        "tested": 10016,
+        "confirmed": 141,
+        "dead": 1,
+        "admissions": 1,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-16",
+        "tested": 10554,
+        "confirmed": 138,
+        "dead": 0,
+        "admissions": 4,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-17",
+        "tested": 0,
+        "confirmed": 88,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-18",
+        "tested": 0,
+        "confirmed": 93,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-19",
+        "tested": 297240,
+        "confirmed": 219,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-20",
+        "tested": 10362,
+        "confirmed": 188,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-21",
+        "tested": 16513,
+        "confirmed": 222,
+        "dead": 1,
+        "admissions": 7,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-10-22",
+        "tested": 19384,
+        "confirmed": 286,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-10-23",
+        "tested": 16614,
+        "confirmed": 368,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-10-24",
+        "tested": 0,
+        "confirmed": 230,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-25",
+        "tested": 0,
+        "confirmed": 203,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-26",
+        "tested": 33915,
+        "confirmed": 483,
+        "dead": 0,
+        "admissions": 10,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-27",
+        "tested": 13066,
+        "confirmed": 390,
+        "dead": 1,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-10-28",
+        "tested": 20411,
+        "confirmed": 513,
+        "dead": 0,
+        "admissions": -2,
+        "respiratory": -2
+      },
+      {
+        "date": "2020-10-29",
+        "tested": 21199,
+        "confirmed": 431,
+        "dead": 1,
+        "admissions": -2,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-30",
+        "tested": 20713,
+        "confirmed": 617,
+        "dead": 1,
+        "admissions": 13,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-31",
+        "tested": 0,
+        "confirmed": 384,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-11-01",
+        "tested": 0,
+        "confirmed": 322,
+        "dead": 0,
+        "admissions": 3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-11-02",
+        "tested": 44523,
+        "confirmed": 646,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-11-03",
+        "tested": 17713,
+        "confirmed": 680,
+        "dead": 0,
+        "admissions": -3,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-11-04",
+        "tested": 24466,
+        "confirmed": 692,
+        "dead": 0,
+        "admissions": 9,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-11-05",
+        "tested": 25932,
+        "confirmed": 600,
+        "dead": 2,
+        "admissions": 2,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-11-06",
+        "tested": 25899,
+        "confirmed": 654,
+        "dead": 1,
+        "admissions": 16,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-11-07",
+        "tested": 0,
+        "confirmed": 389,
+        "dead": 0,
+        "admissions": 4,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-11-08",
+        "tested": 0,
+        "confirmed": 384,
+        "dead": 0,
+        "admissions": 4,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-11-09",
+        "tested": 74457,
+        "confirmed": 703,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-11-10",
+        "tested": 18488,
+        "confirmed": 599,
+        "dead": 0,
+        "admissions": 7,
+        "respiratory": -3
+      },
+      {
+        "date": "2020-11-11",
+        "tested": 25697,
+        "confirmed": 660,
+        "dead": 0,
+        "admissions": -9,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-11-12",
+        "tested": 27645,
+        "confirmed": 637,
+        "dead": 6,
+        "admissions": 15,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-11-13",
+        "tested": 27145,
+        "confirmed": 687,
+        "dead": 3,
+        "admissions": -1,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-11-14",
+        "tested": 0,
+        "confirmed": 366,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-11-15",
+        "tested": 0,
+        "confirmed": 259,
+        "dead": 0,
+        "admissions": 10,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-11-16",
+        "tested": 55298,
+        "confirmed": 78,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-11-17",
+        "tested": 16009,
+        "confirmed": 604,
+        "dead": 4,
+        "admissions": 4,
+        "respiratory": -1
+      },
+      {
+        "date": "2020-11-18",
+        "tested": 0,
+        "confirmed": 0,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      }
+    ],
+    "total": [
+      {
+        "date": "2020-02-21",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-22",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-23",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-24",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-25",
+        "tested": 0,
+        "confirmed": 1,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-26",
+        "tested": 0,
+        "confirmed": 4,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-27",
+        "tested": 0,
+        "confirmed": 6,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-28",
+        "tested": 0,
+        "confirmed": 15,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-02-29",
+        "tested": 0,
+        "confirmed": 21,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-01",
+        "tested": 0,
+        "confirmed": 31,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-02",
+        "tested": 0,
+        "confirmed": 43,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-03",
+        "tested": 0,
+        "confirmed": 74,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-04",
+        "tested": 0,
+        "confirmed": 107,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-05",
+        "tested": 0,
+        "confirmed": 140,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-06",
+        "tested": 0,
+        "confirmed": 164,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-07",
+        "tested": 0,
+        "confirmed": 184,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-08",
+        "tested": 0,
+        "confirmed": 249,
+        "dead": 0,
+        "admissions": 0,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-09",
+        "tested": 0,
+        "confirmed": 496,
+        "dead": 0,
+        "admissions": 2,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-10",
+        "tested": 0,
+        "confirmed": 737,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-11",
+        "tested": 0,
+        "confirmed": 912,
+        "dead": 0,
+        "admissions": 13,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-03-12",
+        "tested": 10448,
+        "confirmed": 1118,
+        "dead": 0,
+        "admissions": 23,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-03-13",
+        "tested": 11978,
+        "confirmed": 1265,
+        "dead": 1,
+        "admissions": 27,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-03-14",
+        "tested": 13748,
+        "confirmed": 1365,
+        "dead": 2,
+        "admissions": 35,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-03-15",
+        "tested": 13748,
+        "confirmed": 1464,
+        "dead": 2,
+        "admissions": 41,
+        "respiratory": 6
+      },
+      {
+        "date": "2020-03-16",
+        "tested": 18062,
+        "confirmed": 1644,
+        "dead": 3,
+        "admissions": 50,
+        "respiratory": 10
+      },
+      {
+        "date": "2020-03-17",
+        "tested": 21647,
+        "confirmed": 1820,
+        "dead": 3,
+        "admissions": 68,
+        "respiratory": 13
+      },
+      {
+        "date": "2020-03-18",
+        "tested": 28522,
+        "confirmed": 2033,
+        "dead": 3,
+        "admissions": 82,
+        "respiratory": 16
+      },
+      {
+        "date": "2020-03-19",
+        "tested": 34583,
+        "confirmed": 2272,
+        "dead": 6,
+        "admissions": 102,
+        "respiratory": 19
+      },
+      {
+        "date": "2020-03-20",
+        "tested": 43735,
+        "confirmed": 2580,
+        "dead": 7,
+        "admissions": 130,
+        "respiratory": 26
+      },
+      {
+        "date": "2020-03-21",
+        "tested": 49451,
+        "confirmed": 2754,
+        "dead": 7,
+        "admissions": 148,
+        "respiratory": 28
+      },
+      {
+        "date": "2020-03-22",
+        "tested": 54393,
+        "confirmed": 2902,
+        "dead": 7,
+        "admissions": 169,
+        "respiratory": 32
+      },
+      {
+        "date": "2020-03-23",
+        "tested": 61251,
+        "confirmed": 3199,
+        "dead": 8,
+        "admissions": 193,
+        "respiratory": 41
+      },
+      {
+        "date": "2020-03-24",
+        "tested": 70608,
+        "confirmed": 3512,
+        "dead": 10,
+        "admissions": 212,
+        "respiratory": 44
+      },
+      {
+        "date": "2020-03-25",
+        "tested": 73089,
+        "confirmed": 3804,
+        "dead": 12,
+        "admissions": 237,
+        "respiratory": 57
+      },
+      {
+        "date": "2020-03-26",
+        "tested": 73892,
+        "confirmed": 4101,
+        "dead": 14,
+        "admissions": 266,
+        "respiratory": 70
+      },
+      {
+        "date": "2020-03-27",
+        "tested": 78036,
+        "confirmed": 4363,
+        "dead": 16,
+        "admissions": 303,
+        "respiratory": 77
+      },
+      {
+        "date": "2020-03-28",
+        "tested": 82584,
+        "confirmed": 4529,
+        "dead": 20,
+        "admissions": 291,
+        "respiratory": 84
+      },
+      {
+        "date": "2020-03-29",
+        "tested": 85136,
+        "confirmed": 4635,
+        "dead": 22,
+        "admissions": 317,
+        "respiratory": 91
+      },
+      {
+        "date": "2020-03-30",
+        "tested": 87191,
+        "confirmed": 4899,
+        "dead": 26,
+        "admissions": 321,
+        "respiratory": 97
+      },
+      {
+        "date": "2020-03-31",
+        "tested": 90242,
+        "confirmed": 5107,
+        "dead": 28,
+        "admissions": 317,
+        "respiratory": 97
+      },
+      {
+        "date": "2020-04-01",
+        "tested": 94265,
+        "confirmed": 5305,
+        "dead": 32,
+        "admissions": 325,
+        "respiratory": 99
+      },
+      {
+        "date": "2020-04-02",
+        "tested": 98587,
+        "confirmed": 5503,
+        "dead": 42,
+        "admissions": 318,
+        "respiratory": 96
+      },
+      {
+        "date": "2020-04-03",
+        "tested": 98587,
+        "confirmed": 5667,
+        "dead": 42,
+        "admissions": 318,
+        "respiratory": 96
+      },
+      {
+        "date": "2020-04-04",
+        "tested": 105865,
+        "confirmed": 5755,
+        "dead": 50,
+        "admissions": 306,
+        "respiratory": 98
+      },
+      {
+        "date": "2020-04-05",
+        "tested": 108709,
+        "confirmed": 5827,
+        "dead": 58,
+        "admissions": 310,
+        "respiratory": 89
+      },
+      {
+        "date": "2020-04-06",
+        "tested": 108709,
+        "confirmed": 5985,
+        "dead": 58,
+        "admissions": 314,
+        "respiratory": 83
+      },
+      {
+        "date": "2020-04-07",
+        "tested": 113896,
+        "confirmed": 6125,
+        "dead": 69,
+        "admissions": 277,
+        "respiratory": 78
+      },
+      {
+        "date": "2020-04-08",
+        "tested": 113896,
+        "confirmed": 6231,
+        "dead": 69,
+        "admissions": 250,
+        "respiratory": 70
+      },
+      {
+        "date": "2020-04-09",
+        "tested": 121034,
+        "confirmed": 6334,
+        "dead": 88,
+        "admissions": 252,
+        "respiratory": 70
+      },
+      {
+        "date": "2020-04-10",
+        "tested": 121034,
+        "confirmed": 6402,
+        "dead": 88,
+        "admissions": 234,
+        "respiratory": 67
+      },
+      {
+        "date": "2020-04-11",
+        "tested": 124279,
+        "confirmed": 6511,
+        "dead": 98,
+        "admissions": 214,
+        "respiratory": 64
+      },
+      {
+        "date": "2020-04-12",
+        "tested": 126486,
+        "confirmed": 6587,
+        "dead": 103,
+        "admissions": 214,
+        "respiratory": 59
+      },
+      {
+        "date": "2020-04-13",
+        "tested": 127305,
+        "confirmed": 6664,
+        "dead": 114,
+        "admissions": 204,
+        "respiratory": 58
+      },
+      {
+        "date": "2020-04-14",
+        "tested": 128569,
+        "confirmed": 6786,
+        "dead": 127,
+        "admissions": 201,
+        "respiratory": 53
+      },
+      {
+        "date": "2020-04-15",
+        "tested": 130216,
+        "confirmed": 6890,
+        "dead": 130,
+        "admissions": 190,
+        "respiratory": 52
+      },
+      {
+        "date": "2020-04-16",
+        "tested": 133707,
+        "confirmed": 6970,
+        "dead": 136,
+        "admissions": 175,
+        "respiratory": 52
+      },
+      {
+        "date": "2020-04-17",
+        "tested": 136236,
+        "confirmed": 7078,
+        "dead": 137,
+        "admissions": 165,
+        "respiratory": 51
+      },
+      {
+        "date": "2020-04-18",
+        "tested": 139668,
+        "confirmed": 7127,
+        "dead": 148,
+        "admissions": 148,
+        "respiratory": 47
+      },
+      {
+        "date": "2020-04-19",
+        "tested": 142166,
+        "confirmed": 7163,
+        "dead": 154,
+        "admissions": 153,
+        "respiratory": 48
+      },
+      {
+        "date": "2020-04-20",
+        "tested": 143255,
+        "confirmed": 7247,
+        "dead": 154,
+        "admissions": 160,
+        "respiratory": 43
+      },
+      {
+        "date": "2020-04-21",
+        "tested": 145279,
+        "confirmed": 7325,
+        "dead": 163,
+        "admissions": 144,
+        "respiratory": 40
+      },
+      {
+        "date": "2020-04-22",
+        "tested": 148656,
+        "confirmed": 7402,
+        "dead": 169,
+        "admissions": 129,
+        "respiratory": 33
+      },
+      {
+        "date": "2020-04-23",
+        "tested": 152095,
+        "confirmed": 7471,
+        "dead": 180,
+        "admissions": 123,
+        "respiratory": 33
+      },
+      {
+        "date": "2020-04-24",
+        "tested": 155125,
+        "confirmed": 7525,
+        "dead": 191,
+        "admissions": 120,
+        "respiratory": 32
+      },
+      {
+        "date": "2020-04-25",
+        "tested": 155125,
+        "confirmed": 7550,
+        "dead": 191,
+        "admissions": 114,
+        "respiratory": 33
+      },
+      {
+        "date": "2020-04-26",
+        "tested": 155125,
+        "confirmed": 7587,
+        "dead": 191,
+        "admissions": 122,
+        "respiratory": 31
+      },
+      {
+        "date": "2020-04-27",
+        "tested": 164316,
+        "confirmed": 7658,
+        "dead": 193,
+        "admissions": 125,
+        "respiratory": 32
+      },
+      {
+        "date": "2020-04-28",
+        "tested": 165951,
+        "confirmed": 7708,
+        "dead": 195,
+        "admissions": 119,
+        "respiratory": 32
+      },
+      {
+        "date": "2020-04-29",
+        "tested": 169124,
+        "confirmed": 7747,
+        "dead": 202,
+        "admissions": 114,
+        "respiratory": 31
+      },
+      {
+        "date": "2020-04-30",
+        "tested": 172586,
+        "confirmed": 7786,
+        "dead": 204,
+        "admissions": 98,
+        "respiratory": 29
+      },
+      {
+        "date": "2020-05-01",
+        "tested": 172586,
+        "confirmed": 7829,
+        "dead": 204,
+        "admissions": 82,
+        "respiratory": 30
+      },
+      {
+        "date": "2020-05-02",
+        "tested": 172586,
+        "confirmed": 7852,
+        "dead": 204,
+        "admissions": 81,
+        "respiratory": 29
+      },
+      {
+        "date": "2020-05-03",
+        "tested": 172586,
+        "confirmed": 7896,
+        "dead": 204,
+        "admissions": 80,
+        "respiratory": 28
+      },
+      {
+        "date": "2020-05-04",
+        "tested": 182285,
+        "confirmed": 7941,
+        "dead": 208,
+        "admissions": 82,
+        "respiratory": 27
+      },
+      {
+        "date": "2020-05-05",
+        "tested": 184657,
+        "confirmed": 7984,
+        "dead": 209,
+        "admissions": 71,
+        "respiratory": 27
+      },
+      {
+        "date": "2020-05-06",
+        "tested": 188236,
+        "confirmed": 8023,
+        "dead": 209,
+        "admissions": 62,
+        "respiratory": 20
+      },
+      {
+        "date": "2020-05-07",
+        "tested": 191946,
+        "confirmed": 8052,
+        "dead": 209,
+        "admissions": 63,
+        "respiratory": 18
+      },
+      {
+        "date": "2020-05-08",
+        "tested": 195921,
+        "confirmed": 8093,
+        "dead": 213,
+        "admissions": 61,
+        "respiratory": 16
+      },
+      {
+        "date": "2020-05-09",
+        "tested": 195921,
+        "confirmed": 8104,
+        "dead": 213,
+        "admissions": 59,
+        "respiratory": 16
+      },
+      {
+        "date": "2020-05-10",
+        "tested": 195921,
+        "confirmed": 8116,
+        "dead": 213,
+        "admissions": 60,
+        "respiratory": 16
+      },
+      {
+        "date": "2020-05-11",
+        "tested": 202751,
+        "confirmed": 8139,
+        "dead": 224,
+        "admissions": 59,
+        "respiratory": 17
+      },
+      {
+        "date": "2020-05-12",
+        "tested": 205239,
+        "confirmed": 8158,
+        "dead": 228,
+        "admissions": 59,
+        "respiratory": 16
+      },
+      {
+        "date": "2020-05-13",
+        "tested": 208874,
+        "confirmed": 8177,
+        "dead": 229,
+        "admissions": 61,
+        "respiratory": 15
+      },
+      {
+        "date": "2020-05-14",
+        "tested": 212655,
+        "confirmed": 8200,
+        "dead": 232,
+        "admissions": 61,
+        "respiratory": 13
+      },
+      {
+        "date": "2020-05-15",
+        "tested": 216350,
+        "confirmed": 8221,
+        "dead": 232,
+        "admissions": 58,
+        "respiratory": 12
+      },
+      {
+        "date": "2020-05-16",
+        "tested": 216350,
+        "confirmed": 8234,
+        "dead": 232,
+        "admissions": 52,
+        "respiratory": 11
+      },
+      {
+        "date": "2020-05-17",
+        "tested": 216350,
+        "confirmed": 8237,
+        "dead": 232,
+        "admissions": 52,
+        "respiratory": 11
+      },
+      {
+        "date": "2020-05-18",
+        "tested": 218039,
+        "confirmed": 8254,
+        "dead": 233,
+        "admissions": 52,
+        "respiratory": 11
+      },
+      {
+        "date": "2020-05-19",
+        "tested": 219984,
+        "confirmed": 8274,
+        "dead": 233,
+        "admissions": 51,
+        "respiratory": 11
+      },
+      {
+        "date": "2020-05-20",
+        "tested": 223045,
+        "confirmed": 8293,
+        "dead": 234,
+        "admissions": 51,
+        "respiratory": 11
+      },
+      {
+        "date": "2020-05-21",
+        "tested": 223045,
+        "confirmed": 8307,
+        "dead": 234,
+        "admissions": 41,
+        "respiratory": 9
+      },
+      {
+        "date": "2020-05-22",
+        "tested": 229769,
+        "confirmed": 8333,
+        "dead": 235,
+        "admissions": 45,
+        "respiratory": 8
+      },
+      {
+        "date": "2020-05-23",
+        "tested": 229769,
+        "confirmed": 8339,
+        "dead": 235,
+        "admissions": 35,
+        "respiratory": 7
+      },
+      {
+        "date": "2020-05-24",
+        "tested": 229769,
+        "confirmed": 8345,
+        "dead": 235,
+        "admissions": 38,
+        "respiratory": 7
+      },
+      {
+        "date": "2020-05-25",
+        "tested": 234637,
+        "confirmed": 8363,
+        "dead": 235,
+        "admissions": 40,
+        "respiratory": 8
+      },
+      {
+        "date": "2020-05-26",
+        "tested": 236666,
+        "confirmed": 8375,
+        "dead": 235,
+        "admissions": 37,
+        "respiratory": 7
+      },
+      {
+        "date": "2020-05-27",
+        "tested": 239864,
+        "confirmed": 8393,
+        "dead": 235,
+        "admissions": 36,
+        "respiratory": 7
+      },
+      {
+        "date": "2020-05-28",
+        "tested": 242598,
+        "confirmed": 8409,
+        "dead": 236,
+        "admissions": 36,
+        "respiratory": 8
+      },
+      {
+        "date": "2020-05-29",
+        "tested": 245352,
+        "confirmed": 8425,
+        "dead": 236,
+        "admissions": 30,
+        "respiratory": 5
+      },
+      {
+        "date": "2020-05-30",
+        "tested": 245352,
+        "confirmed": 8425,
+        "dead": 236,
+        "admissions": 28,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-05-31",
+        "tested": 245352,
+        "confirmed": 8431,
+        "dead": 236,
+        "admissions": 28,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-01",
+        "tested": 245352,
+        "confirmed": 8438,
+        "dead": 236,
+        "admissions": 29,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-02",
+        "tested": 250968,
+        "confirmed": 8469,
+        "dead": 237,
+        "admissions": 32,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-03",
+        "tested": 252232,
+        "confirmed": 8481,
+        "dead": 237,
+        "admissions": 27,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-04",
+        "tested": 254713,
+        "confirmed": 8498,
+        "dead": 238,
+        "admissions": 29,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-05",
+        "tested": 257303,
+        "confirmed": 8528,
+        "dead": 238,
+        "admissions": 22,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-06",
+        "tested": 257303,
+        "confirmed": 8536,
+        "dead": 238,
+        "admissions": 22,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-07",
+        "tested": 257303,
+        "confirmed": 8545,
+        "dead": 238,
+        "admissions": 22,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-08",
+        "tested": 262236,
+        "confirmed": 8563,
+        "dead": 239,
+        "admissions": 21,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-06-09",
+        "tested": 264390,
+        "confirmed": 8576,
+        "dead": 239,
+        "admissions": 21,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-06-10",
+        "tested": 267877,
+        "confirmed": 8590,
+        "dead": 239,
+        "admissions": 18,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-06-11",
+        "tested": 272905,
+        "confirmed": 8601,
+        "dead": 242,
+        "admissions": 16,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-06-12",
+        "tested": 277253,
+        "confirmed": 8614,
+        "dead": 242,
+        "admissions": 16,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-13",
+        "tested": 277253,
+        "confirmed": 8621,
+        "dead": 242,
+        "admissions": 16,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-14",
+        "tested": 277253,
+        "confirmed": 8627,
+        "dead": 242,
+        "admissions": 16,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-15",
+        "tested": 285867,
+        "confirmed": 8645,
+        "dead": 242,
+        "admissions": 18,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-16",
+        "tested": 288541,
+        "confirmed": 8681,
+        "dead": 242,
+        "admissions": 18,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-17",
+        "tested": 288541,
+        "confirmed": 8696,
+        "dead": 242,
+        "admissions": 18,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-18",
+        "tested": 298420,
+        "confirmed": 8709,
+        "dead": 244,
+        "admissions": 19,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-19",
+        "tested": 302653,
+        "confirmed": 8727,
+        "dead": 244,
+        "admissions": 17,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-20",
+        "tested": 302653,
+        "confirmed": 8733,
+        "dead": 244,
+        "admissions": 17,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-21",
+        "tested": 302653,
+        "confirmed": 8737,
+        "dead": 244,
+        "admissions": 17,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-22",
+        "tested": 310635,
+        "confirmed": 8764,
+        "dead": 244,
+        "admissions": 13,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-23",
+        "tested": 313162,
+        "confirmed": 8777,
+        "dead": 248,
+        "admissions": 12,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-24",
+        "tested": 317090,
+        "confirmed": 8798,
+        "dead": 249,
+        "admissions": 16,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-25",
+        "tested": 321471,
+        "confirmed": 8815,
+        "dead": 249,
+        "admissions": 18,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-06-26",
+        "tested": 325565,
+        "confirmed": 8837,
+        "dead": 249,
+        "admissions": 20,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-27",
+        "tested": 325565,
+        "confirmed": 8847,
+        "dead": 249,
+        "admissions": 20,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-28",
+        "tested": 325565,
+        "confirmed": 8848,
+        "dead": 249,
+        "admissions": 20,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-06-29",
+        "tested": 331935,
+        "confirmed": 8874,
+        "dead": 249,
+        "admissions": 18,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-06-30",
+        "tested": 334553,
+        "confirmed": 8884,
+        "dead": 250,
+        "admissions": 18,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-01",
+        "tested": 338860,
+        "confirmed": 8892,
+        "dead": 251,
+        "admissions": 17,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-02",
+        "tested": 343534,
+        "confirmed": 8900,
+        "dead": 251,
+        "admissions": 19,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-03",
+        "tested": 348208,
+        "confirmed": 8910,
+        "dead": 251,
+        "admissions": 15,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-07-04",
+        "tested": 348208,
+        "confirmed": 8912,
+        "dead": 251,
+        "admissions": 15,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-07-05",
+        "tested": 348208,
+        "confirmed": 8913,
+        "dead": 251,
+        "admissions": 15,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-07-06",
+        "tested": 355656,
+        "confirmed": 8927,
+        "dead": 251,
+        "admissions": 11,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-07-07",
+        "tested": 358175,
+        "confirmed": 8937,
+        "dead": 251,
+        "admissions": 9,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-07-08",
+        "tested": 363581,
+        "confirmed": 8948,
+        "dead": 251,
+        "admissions": 8,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-07-09",
+        "tested": 367964,
+        "confirmed": 8956,
+        "dead": 252,
+        "admissions": 8,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-10",
+        "tested": 372389,
+        "confirmed": 8969,
+        "dead": 252,
+        "admissions": 4,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-11",
+        "tested": 372389,
+        "confirmed": 8973,
+        "dead": 252,
+        "admissions": 4,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-12",
+        "tested": 372389,
+        "confirmed": 8978,
+        "dead": 252,
+        "admissions": 4,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-13",
+        "tested": 380082,
+        "confirmed": 8997,
+        "dead": 253,
+        "admissions": 7,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-14",
+        "tested": 383149,
+        "confirmed": 9005,
+        "dead": 253,
+        "admissions": 7,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-15",
+        "tested": 388021,
+        "confirmed": 9011,
+        "dead": 253,
+        "admissions": 5,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-16",
+        "tested": 392676,
+        "confirmed": 9015,
+        "dead": 254,
+        "admissions": 6,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-17",
+        "tested": 397106,
+        "confirmed": 9027,
+        "dead": 255,
+        "admissions": 8,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-18",
+        "tested": 397106,
+        "confirmed": 9028,
+        "dead": 255,
+        "admissions": 8,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-19",
+        "tested": 397106,
+        "confirmed": 9031,
+        "dead": 255,
+        "admissions": 8,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-07-20",
+        "tested": 404498,
+        "confirmed": 9052,
+        "dead": 255,
+        "admissions": 10,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-21",
+        "tested": 407311,
+        "confirmed": 9058,
+        "dead": 255,
+        "admissions": 7,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-22",
+        "tested": 411906,
+        "confirmed": 9080,
+        "dead": 255,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-23",
+        "tested": 416131,
+        "confirmed": 9086,
+        "dead": 255,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-24",
+        "tested": 420528,
+        "confirmed": 9110,
+        "dead": 255,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-25",
+        "tested": 420528,
+        "confirmed": 9116,
+        "dead": 255,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-26",
+        "tested": 420528,
+        "confirmed": 9125,
+        "dead": 255,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-27",
+        "tested": 427651,
+        "confirmed": 9149,
+        "dead": 255,
+        "admissions": 7,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-28",
+        "tested": 430546,
+        "confirmed": 9165,
+        "dead": 255,
+        "admissions": 5,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-29",
+        "tested": 435631,
+        "confirmed": 9202,
+        "dead": 255,
+        "admissions": 6,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-30",
+        "tested": 440891,
+        "confirmed": 9225,
+        "dead": 255,
+        "admissions": 6,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-07-31",
+        "tested": 445946,
+        "confirmed": 9297,
+        "dead": 255,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-01",
+        "tested": 445946,
+        "confirmed": 9310,
+        "dead": 255,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-02",
+        "tested": 445946,
+        "confirmed": 9323,
+        "dead": 255,
+        "admissions": 3,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-03",
+        "tested": 455059,
+        "confirmed": 9361,
+        "dead": 256,
+        "admissions": 14,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-04",
+        "tested": 458805,
+        "confirmed": 9401,
+        "dead": 256,
+        "admissions": 12,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-05",
+        "tested": 465317,
+        "confirmed": 9467,
+        "dead": 256,
+        "admissions": 11,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-06",
+        "tested": 472841,
+        "confirmed": 9545,
+        "dead": 256,
+        "admissions": 14,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-08-07",
+        "tested": 479789,
+        "confirmed": 9624,
+        "dead": 256,
+        "admissions": 15,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-08-08",
+        "tested": 479789,
+        "confirmed": 9659,
+        "dead": 256,
+        "admissions": 15,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-08-09",
+        "tested": 479789,
+        "confirmed": 9693,
+        "dead": 256,
+        "admissions": 15,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-08-10",
+        "tested": 494706,
+        "confirmed": 9756,
+        "dead": 256,
+        "admissions": 16,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-08-11",
+        "tested": 499886,
+        "confirmed": 9798,
+        "dead": 256,
+        "admissions": 15,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-08-12",
+        "tested": 508770,
+        "confirmed": 9861,
+        "dead": 256,
+        "admissions": 15,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-08-13",
+        "tested": 518893,
+        "confirmed": 9915,
+        "dead": 257,
+        "admissions": 12,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-14",
+        "tested": 530446,
+        "confirmed": 9991,
+        "dead": 261,
+        "admissions": 8,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-15",
+        "tested": 530446,
+        "confirmed": 10034,
+        "dead": 261,
+        "admissions": 8,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-16",
+        "tested": 530446,
+        "confirmed": 10061,
+        "dead": 261,
+        "admissions": 8,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-17",
+        "tested": 556653,
+        "confirmed": 10135,
+        "dead": 261,
+        "admissions": 14,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-18",
+        "tested": 564549,
+        "confirmed": 10193,
+        "dead": 262,
+        "admissions": 12,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-19",
+        "tested": 574529,
+        "confirmed": 10253,
+        "dead": 262,
+        "admissions": 11,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-20",
+        "tested": 588550,
+        "confirmed": 10303,
+        "dead": 264,
+        "admissions": 10,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-21",
+        "tested": 601569,
+        "confirmed": 10356,
+        "dead": 264,
+        "admissions": 13,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-22",
+        "tested": 601569,
+        "confirmed": 10401,
+        "dead": 264,
+        "admissions": 13,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-23",
+        "tested": 601569,
+        "confirmed": 10420,
+        "dead": 264,
+        "admissions": 13,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-24",
+        "tested": 630903,
+        "confirmed": 10487,
+        "dead": 264,
+        "admissions": 17,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-25",
+        "tested": 640575,
+        "confirmed": 10529,
+        "dead": 264,
+        "admissions": 18,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-26",
+        "tested": 653756,
+        "confirmed": 10569,
+        "dead": 264,
+        "admissions": 17,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-08-27",
+        "tested": 669717,
+        "confirmed": 10620,
+        "dead": 264,
+        "admissions": 17,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-28",
+        "tested": 686202,
+        "confirmed": 10704,
+        "dead": 264,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-29",
+        "tested": 686202,
+        "confirmed": 10745,
+        "dead": 264,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-30",
+        "tested": 686202,
+        "confirmed": 10796,
+        "dead": 264,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-08-31",
+        "tested": 719879,
+        "confirmed": 10944,
+        "dead": 264,
+        "admissions": 12,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-01",
+        "tested": 730902,
+        "confirmed": 11059,
+        "dead": 264,
+        "admissions": 11,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-02",
+        "tested": 745279,
+        "confirmed": 11160,
+        "dead": 264,
+        "admissions": 11,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-03",
+        "tested": 761919,
+        "confirmed": 11286,
+        "dead": 264,
+        "admissions": 13,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-04",
+        "tested": 777459,
+        "confirmed": 11405,
+        "dead": 264,
+        "admissions": 16,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-05",
+        "tested": 777459,
+        "confirmed": 11478,
+        "dead": 264,
+        "admissions": 16,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-06",
+        "tested": 777459,
+        "confirmed": 11538,
+        "dead": 264,
+        "admissions": 16,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-07",
+        "tested": 807456,
+        "confirmed": 11670,
+        "dead": 264,
+        "admissions": 15,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-08",
+        "tested": 816866,
+        "confirmed": 11783,
+        "dead": 264,
+        "admissions": 11,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-09",
+        "tested": 831064,
+        "confirmed": 11907,
+        "dead": 264,
+        "admissions": 14,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-10",
+        "tested": 845522,
+        "confirmed": 12039,
+        "dead": 265,
+        "admissions": 11,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-11",
+        "tested": 860155,
+        "confirmed": 12157,
+        "dead": 265,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-12",
+        "tested": 860155,
+        "confirmed": 12224,
+        "dead": 265,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-13",
+        "tested": 860155,
+        "confirmed": 12302,
+        "dead": 265,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-14",
+        "tested": 889122,
+        "confirmed": 12405,
+        "dead": 265,
+        "admissions": 21,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-15",
+        "tested": 898092,
+        "confirmed": 12537,
+        "dead": 265,
+        "admissions": 18,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-16",
+        "tested": 913283,
+        "confirmed": 12674,
+        "dead": 265,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-17",
+        "tested": 928024,
+        "confirmed": 12790,
+        "dead": 266,
+        "admissions": 20,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-18",
+        "tested": 940722,
+        "confirmed": 12884,
+        "dead": 267,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-19",
+        "tested": 940722,
+        "confirmed": 12942,
+        "dead": 267,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-20",
+        "tested": 940722,
+        "confirmed": 13019,
+        "dead": 267,
+        "admissions": 16,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-21",
+        "tested": 940722,
+        "confirmed": 13182,
+        "dead": 267,
+        "admissions": 23,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-22",
+        "tested": 972485,
+        "confirmed": 13283,
+        "dead": 267,
+        "admissions": 21,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-23",
+        "tested": 985249,
+        "confirmed": 13426,
+        "dead": 267,
+        "admissions": 19,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-24",
+        "tested": 999528,
+        "confirmed": 13559,
+        "dead": 270,
+        "admissions": 24,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-25",
+        "tested": 1011021,
+        "confirmed": 13689,
+        "dead": 270,
+        "admissions": 19,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-26",
+        "tested": 1011021,
+        "confirmed": 13751,
+        "dead": 270,
+        "admissions": 19,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-27",
+        "tested": 1011021,
+        "confirmed": 13805,
+        "dead": 270,
+        "admissions": 19,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-28",
+        "tested": 1034670,
+        "confirmed": 13929,
+        "dead": 274,
+        "admissions": 21,
+        "respiratory": 0
+      },
+      {
+        "date": "2020-09-29",
+        "tested": 1041470,
+        "confirmed": 14039,
+        "dead": 274,
+        "admissions": 24,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-09-30",
+        "tested": 1053346,
+        "confirmed": 14157,
+        "dead": 274,
+        "admissions": 28,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-01",
+        "tested": 1065340,
+        "confirmed": 14288,
+        "dead": 274,
+        "admissions": 25,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-02",
+        "tested": 1075807,
+        "confirmed": 14422,
+        "dead": 275,
+        "admissions": 27,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-03",
+        "tested": 1075807,
+        "confirmed": 14532,
+        "dead": 275,
+        "admissions": 27,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-04",
+        "tested": 1075807,
+        "confirmed": 14621,
+        "dead": 275,
+        "admissions": 27,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-05",
+        "tested": 1095488,
+        "confirmed": 14828,
+        "dead": 275,
+        "admissions": 25,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-06",
+        "tested": 1107929,
+        "confirmed": 15026,
+        "dead": 275,
+        "admissions": 22,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-07",
+        "tested": 1119418,
+        "confirmed": 15225,
+        "dead": 275,
+        "admissions": 25,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-10-08",
+        "tested": 1130499,
+        "confirmed": 15393,
+        "dead": 275,
+        "admissions": 27,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-09",
+        "tested": 1140084,
+        "confirmed": 15534,
+        "dead": 275,
+        "admissions": 23,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-10",
+        "tested": 1140084,
+        "confirmed": 15599,
+        "dead": 275,
+        "admissions": 23,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-11",
+        "tested": 1140084,
+        "confirmed": 15678,
+        "dead": 275,
+        "admissions": 23,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-12",
+        "tested": 1158338,
+        "confirmed": 15843,
+        "dead": 276,
+        "admissions": 31,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-13",
+        "tested": 1165444,
+        "confirmed": 15998,
+        "dead": 277,
+        "admissions": 27,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-14",
+        "tested": 1177478,
+        "confirmed": 16160,
+        "dead": 277,
+        "admissions": 23,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-15",
+        "tested": 1187494,
+        "confirmed": 16301,
+        "dead": 278,
+        "admissions": 24,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-10-16",
+        "tested": 1198048,
+        "confirmed": 16439,
+        "dead": 278,
+        "admissions": 28,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-17",
+        "tested": 1198048,
+        "confirmed": 16527,
+        "dead": 278,
+        "admissions": 28,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-18",
+        "tested": 1198048,
+        "confirmed": 16620,
+        "dead": 278,
+        "admissions": 28,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-19",
+        "tested": 1495288,
+        "confirmed": 16839,
+        "dead": 278,
+        "admissions": 28,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-20",
+        "tested": 1505650,
+        "confirmed": 17027,
+        "dead": 278,
+        "admissions": 29,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-21",
+        "tested": 1522163,
+        "confirmed": 17249,
+        "dead": 279,
+        "admissions": 36,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-10-22",
+        "tested": 1541547,
+        "confirmed": 17535,
+        "dead": 279,
+        "admissions": 44,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-10-23",
+        "tested": 1558161,
+        "confirmed": 17903,
+        "dead": 279,
+        "admissions": 44,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-24",
+        "tested": 1558161,
+        "confirmed": 18133,
+        "dead": 279,
+        "admissions": 44,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-25",
+        "tested": 1558161,
+        "confirmed": 18336,
+        "dead": 279,
+        "admissions": 44,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-26",
+        "tested": 1592076,
+        "confirmed": 18819,
+        "dead": 279,
+        "admissions": 54,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-27",
+        "tested": 1605142,
+        "confirmed": 19209,
+        "dead": 280,
+        "admissions": 51,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-28",
+        "tested": 1625553,
+        "confirmed": 19722,
+        "dead": 280,
+        "admissions": 49,
+        "respiratory": 1
+      },
+      {
+        "date": "2020-10-29",
+        "tested": 1646752,
+        "confirmed": 20153,
+        "dead": 281,
+        "admissions": 47,
+        "respiratory": 2
+      },
+      {
+        "date": "2020-10-30",
+        "tested": 1667465,
+        "confirmed": 20770,
+        "dead": 282,
+        "admissions": 60,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-10-31",
+        "tested": 1667465,
+        "confirmed": 21154,
+        "dead": 282,
+        "admissions": 60,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-11-01",
+        "tested": 1667465,
+        "confirmed": 21476,
+        "dead": 282,
+        "admissions": 63,
+        "respiratory": 4
+      },
+      {
+        "date": "2020-11-02",
+        "tested": 1711988,
+        "confirmed": 22122,
+        "dead": 282,
+        "admissions": 64,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-11-03",
+        "tested": 1729701,
+        "confirmed": 22802,
+        "dead": 282,
+        "admissions": 61,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-11-04",
+        "tested": 1754167,
+        "confirmed": 23494,
+        "dead": 282,
+        "admissions": 70,
+        "respiratory": 3
+      },
+      {
+        "date": "2020-11-05",
+        "tested": 1780099,
+        "confirmed": 24094,
+        "dead": 284,
+        "admissions": 72,
+        "respiratory": 5
+      },
+      {
+        "date": "2020-11-06",
+        "tested": 1805998,
+        "confirmed": 24748,
+        "dead": 285,
+        "admissions": 88,
+        "respiratory": 8
+      },
+      {
+        "date": "2020-11-07",
+        "tested": 1805998,
+        "confirmed": 25137,
+        "dead": 285,
+        "admissions": 92,
+        "respiratory": 11
+      },
+      {
+        "date": "2020-11-08",
+        "tested": 1805998,
+        "confirmed": 25521,
+        "dead": 285,
+        "admissions": 96,
+        "respiratory": 11
+      },
+      {
+        "date": "2020-11-09",
+        "tested": 1880455,
+        "confirmed": 26224,
+        "dead": 285,
+        "admissions": 97,
+        "respiratory": 15
+      },
+      {
+        "date": "2020-11-10",
+        "tested": 1898943,
+        "confirmed": 26823,
+        "dead": 285,
+        "admissions": 104,
+        "respiratory": 12
+      },
+      {
+        "date": "2020-11-11",
+        "tested": 1924640,
+        "confirmed": 27483,
+        "dead": 285,
+        "admissions": 95,
+        "respiratory": 12
+      },
+      {
+        "date": "2020-11-12",
+        "tested": 1952285,
+        "confirmed": 28120,
+        "dead": 291,
+        "admissions": 110,
+        "respiratory": 12
+      },
+      {
+        "date": "2020-11-13",
+        "tested": 1979430,
+        "confirmed": 28807,
+        "dead": 294,
+        "admissions": 109,
+        "respiratory": 13
+      },
+      {
+        "date": "2020-11-14",
+        "tested": 1979430,
+        "confirmed": 29173,
+        "dead": 294,
+        "admissions": 117,
+        "respiratory": 13
+      },
+      {
+        "date": "2020-11-15",
+        "tested": 1979430,
+        "confirmed": 29432,
+        "dead": 294,
+        "admissions": 127,
+        "respiratory": 13
+      },
+      {
+        "date": "2020-11-16",
+        "tested": 2034728,
+        "confirmed": 29510,
+        "dead": 294,
+        "admissions": 135,
+        "respiratory": 16
+      },
+      {
+        "date": "2020-11-17",
+        "tested": 2050737,
+        "confirmed": 30114,
+        "dead": 298,
+        "admissions": 139,
+        "respiratory": 15
+      },
+      {
+        "date": "2020-11-18",
+        "tested": 2050737,
+        "confirmed": 30114,
+        "dead": 298,
+        "admissions": 139,
+        "respiratory": 15
+      }
+    ]
+  }
+}

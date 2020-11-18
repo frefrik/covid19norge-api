@@ -1,0 +1,81 @@
+{
+  "area": {
+    "code": "00",
+    "name": "Norge",
+    "name_en": "Norway",
+    "population": 5367580
+  },
+  "data": {
+    "tested": {
+      "newToday": 0,
+      "newYesterday": 16009,
+      "newSince_d7": 126097,
+      "newSince_d8": 151794,
+      "newSince_d14": 296570,
+      "newSince_d15": 321036,
+      "newDaily_avg_7": 18013.86,
+      "newDaily_avg_14": 21183.57,
+      "total": 2050737,
+      "updated": {
+        "source": "fhi:web",
+        "timestamp": "2020-11-17 13:25:02+01:00"
+      }
+    },
+    "confirmed": {
+      "newToday": 0,
+      "newYesterday": 604,
+      "newSince_d7": 2631,
+      "newSince_d8": 3291,
+      "newSince_d14": 6620,
+      "newSince_d15": 7312,
+      "newDaily_avg_7": 375.86,
+      "newDaily_avg_14": 472.86,
+      "total": 30114,
+      "updated": {
+        "source": "msis:api",
+        "timestamp": "2020-11-18 00:22:25+01:00"
+      }
+    },
+    "dead": {
+      "newToday": 0,
+      "newYesterday": 4,
+      "newSince_d7": 13,
+      "newSince_d8": 13,
+      "newSince_d14": 16,
+      "newSince_d15": 16,
+      "newDaily_avg_7": 1.86,
+      "newDaily_avg_14": 1.14,
+      "total": 298,
+      "updated": {
+        "source": "fhi:git",
+        "timestamp": "2020-11-17 13:20:03+01:00"
+      }
+    },
+    "admissions": {
+      "changeToday": 0,
+      "changeYesterday": 4,
+      "change_d7": 44,
+      "change_d8": 35,
+      "change_d14": 69,
+      "change_d15": 78,
+      "total": 139,
+      "updated": {
+        "source": "helsedir:api",
+        "timestamp": "2020-11-17 12:40:02+01:00"
+      }
+    },
+    "respiratory": {
+      "changeToday": 0,
+      "changeYesterday": -1,
+      "change_d7": 3,
+      "change_d8": 3,
+      "change_d14": 12,
+      "change_d15": 12,
+      "total": 15,
+      "updated": {
+        "source": "helsedir:api",
+        "timestamp": "2020-11-17 12:40:02+01:00"
+      }
+    }
+  }
+}

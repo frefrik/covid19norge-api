@@ -1,0 +1,32 @@
+{
+    "confirmed": {
+        "sha": "b9d4bdf0cc35b1e3c2956a5b8c4c20d4bbd9ff05",
+        "updated": "2020-11-17T23:22:25Z",
+        "datafile": "confirmed.csv"
+    },
+    "dead": {
+        "sha": "0c3dcc746a129e15abc64f8987b396641727ff3b",
+        "updated": "2020-11-17T12:20:03Z",
+        "datafile": "dead.csv"
+    },
+    "hospitalized": {
+        "sha": "2b177876326c4d977e3801196603702503ddc4e3",
+        "updated": "2020-11-17T11:40:02Z",
+        "datafile": "hospitalized.csv"
+    },
+    "tested": {
+        "sha": "547e63cb57b076abca8b4d18e4ccd20560619d87",
+        "updated": "2020-11-17T12:25:02Z",
+        "datafile": "tested.csv"
+    },
+    "tested_lab": {
+        "sha": "610e06735df724a0ef10afb2d02838cea074241c",
+        "updated": "2020-11-17T12:25:03Z",
+        "datafile": "tested_lab.csv"
+    },
+    "transport": {
+        "sha": "e8da473738028669de012d2bebcfa8dea9027f9b",
+        "updated": "2020-11-17T16:01:06Z",
+        "datafile": "transport.csv"
+    }
+}

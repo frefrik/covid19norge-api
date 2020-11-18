@@ -1,0 +1,1069 @@
+{
+  "hospitalized": [
+    {
+      "date": "2020-03-08",
+      "admissions": 0,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-03-09",
+      "admissions": 2,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-03-10",
+      "admissions": 8,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-03-11",
+      "admissions": 13,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-03-12",
+      "admissions": 23,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-03-13",
+      "admissions": 27,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-03-14",
+      "admissions": 35,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-03-15",
+      "admissions": 41,
+      "respiratory": 6
+    },
+    {
+      "date": "2020-03-16",
+      "admissions": 50,
+      "respiratory": 10
+    },
+    {
+      "date": "2020-03-17",
+      "admissions": 68,
+      "respiratory": 13
+    },
+    {
+      "date": "2020-03-18",
+      "admissions": 82,
+      "respiratory": 16
+    },
+    {
+      "date": "2020-03-19",
+      "admissions": 102,
+      "respiratory": 19
+    },
+    {
+      "date": "2020-03-20",
+      "admissions": 130,
+      "respiratory": 26
+    },
+    {
+      "date": "2020-03-21",
+      "admissions": 148,
+      "respiratory": 28
+    },
+    {
+      "date": "2020-03-22",
+      "admissions": 169,
+      "respiratory": 32
+    },
+    {
+      "date": "2020-03-23",
+      "admissions": 193,
+      "respiratory": 41
+    },
+    {
+      "date": "2020-03-24",
+      "admissions": 212,
+      "respiratory": 44
+    },
+    {
+      "date": "2020-03-25",
+      "admissions": 237,
+      "respiratory": 57
+    },
+    {
+      "date": "2020-03-26",
+      "admissions": 266,
+      "respiratory": 70
+    },
+    {
+      "date": "2020-03-27",
+      "admissions": 303,
+      "respiratory": 77
+    },
+    {
+      "date": "2020-03-28",
+      "admissions": 291,
+      "respiratory": 84
+    },
+    {
+      "date": "2020-03-29",
+      "admissions": 317,
+      "respiratory": 91
+    },
+    {
+      "date": "2020-03-30",
+      "admissions": 321,
+      "respiratory": 97
+    },
+    {
+      "date": "2020-03-31",
+      "admissions": 317,
+      "respiratory": 97
+    },
+    {
+      "date": "2020-04-01",
+      "admissions": 325,
+      "respiratory": 99
+    },
+    {
+      "date": "2020-04-02",
+      "admissions": 318,
+      "respiratory": 96
+    },
+    {
+      "date": "2020-04-03",
+      "admissions": 318,
+      "respiratory": 96
+    },
+    {
+      "date": "2020-04-04",
+      "admissions": 306,
+      "respiratory": 98
+    },
+    {
+      "date": "2020-04-05",
+      "admissions": 310,
+      "respiratory": 89
+    },
+    {
+      "date": "2020-04-06",
+      "admissions": 314,
+      "respiratory": 83
+    },
+    {
+      "date": "2020-04-07",
+      "admissions": 277,
+      "respiratory": 78
+    },
+    {
+      "date": "2020-04-08",
+      "admissions": 250,
+      "respiratory": 70
+    },
+    {
+      "date": "2020-04-09",
+      "admissions": 252,
+      "respiratory": 70
+    },
+    {
+      "date": "2020-04-10",
+      "admissions": 234,
+      "respiratory": 67
+    },
+    {
+      "date": "2020-04-11",
+      "admissions": 214,
+      "respiratory": 64
+    },
+    {
+      "date": "2020-04-12",
+      "admissions": 214,
+      "respiratory": 59
+    },
+    {
+      "date": "2020-04-13",
+      "admissions": 204,
+      "respiratory": 58
+    },
+    {
+      "date": "2020-04-14",
+      "admissions": 201,
+      "respiratory": 53
+    },
+    {
+      "date": "2020-04-15",
+      "admissions": 190,
+      "respiratory": 52
+    },
+    {
+      "date": "2020-04-16",
+      "admissions": 175,
+      "respiratory": 52
+    },
+    {
+      "date": "2020-04-17",
+      "admissions": 165,
+      "respiratory": 51
+    },
+    {
+      "date": "2020-04-18",
+      "admissions": 148,
+      "respiratory": 47
+    },
+    {
+      "date": "2020-04-19",
+      "admissions": 153,
+      "respiratory": 48
+    },
+    {
+      "date": "2020-04-20",
+      "admissions": 160,
+      "respiratory": 43
+    },
+    {
+      "date": "2020-04-21",
+      "admissions": 144,
+      "respiratory": 40
+    },
+    {
+      "date": "2020-04-22",
+      "admissions": 129,
+      "respiratory": 33
+    },
+    {
+      "date": "2020-04-23",
+      "admissions": 123,
+      "respiratory": 33
+    },
+    {
+      "date": "2020-04-24",
+      "admissions": 120,
+      "respiratory": 32
+    },
+    {
+      "date": "2020-04-25",
+      "admissions": 114,
+      "respiratory": 33
+    },
+    {
+      "date": "2020-04-26",
+      "admissions": 122,
+      "respiratory": 31
+    },
+    {
+      "date": "2020-04-27",
+      "admissions": 125,
+      "respiratory": 32
+    },
+    {
+      "date": "2020-04-28",
+      "admissions": 119,
+      "respiratory": 32
+    },
+    {
+      "date": "2020-04-29",
+      "admissions": 114,
+      "respiratory": 31
+    },
+    {
+      "date": "2020-04-30",
+      "admissions": 98,
+      "respiratory": 29
+    },
+    {
+      "date": "2020-05-01",
+      "admissions": 82,
+      "respiratory": 30
+    },
+    {
+      "date": "2020-05-02",
+      "admissions": 81,
+      "respiratory": 29
+    },
+    {
+      "date": "2020-05-03",
+      "admissions": 80,
+      "respiratory": 28
+    },
+    {
+      "date": "2020-05-04",
+      "admissions": 82,
+      "respiratory": 27
+    },
+    {
+      "date": "2020-05-05",
+      "admissions": 71,
+      "respiratory": 27
+    },
+    {
+      "date": "2020-05-06",
+      "admissions": 62,
+      "respiratory": 20
+    },
+    {
+      "date": "2020-05-07",
+      "admissions": 63,
+      "respiratory": 18
+    },
+    {
+      "date": "2020-05-08",
+      "admissions": 61,
+      "respiratory": 16
+    },
+    {
+      "date": "2020-05-09",
+      "admissions": 59,
+      "respiratory": 16
+    },
+    {
+      "date": "2020-05-10",
+      "admissions": 60,
+      "respiratory": 16
+    },
+    {
+      "date": "2020-05-11",
+      "admissions": 59,
+      "respiratory": 17
+    },
+    {
+      "date": "2020-05-12",
+      "admissions": 59,
+      "respiratory": 16
+    },
+    {
+      "date": "2020-05-13",
+      "admissions": 61,
+      "respiratory": 15
+    },
+    {
+      "date": "2020-05-14",
+      "admissions": 61,
+      "respiratory": 13
+    },
+    {
+      "date": "2020-05-15",
+      "admissions": 58,
+      "respiratory": 12
+    },
+    {
+      "date": "2020-05-16",
+      "admissions": 52,
+      "respiratory": 11
+    },
+    {
+      "date": "2020-05-17",
+      "admissions": 52,
+      "respiratory": 11
+    },
+    {
+      "date": "2020-05-18",
+      "admissions": 52,
+      "respiratory": 11
+    },
+    {
+      "date": "2020-05-19",
+      "admissions": 51,
+      "respiratory": 11
+    },
+    {
+      "date": "2020-05-20",
+      "admissions": 51,
+      "respiratory": 11
+    },
+    {
+      "date": "2020-05-21",
+      "admissions": 41,
+      "respiratory": 9
+    },
+    {
+      "date": "2020-05-22",
+      "admissions": 45,
+      "respiratory": 8
+    },
+    {
+      "date": "2020-05-23",
+      "admissions": 35,
+      "respiratory": 7
+    },
+    {
+      "date": "2020-05-24",
+      "admissions": 38,
+      "respiratory": 7
+    },
+    {
+      "date": "2020-05-25",
+      "admissions": 40,
+      "respiratory": 8
+    },
+    {
+      "date": "2020-05-26",
+      "admissions": 37,
+      "respiratory": 7
+    },
+    {
+      "date": "2020-05-27",
+      "admissions": 36,
+      "respiratory": 7
+    },
+    {
+      "date": "2020-05-28",
+      "admissions": 36,
+      "respiratory": 8
+    },
+    {
+      "date": "2020-05-29",
+      "admissions": 30,
+      "respiratory": 5
+    },
+    {
+      "date": "2020-05-30",
+      "admissions": 28,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-05-31",
+      "admissions": 28,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-01",
+      "admissions": 29,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-02",
+      "admissions": 32,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-03",
+      "admissions": 27,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-04",
+      "admissions": 29,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-05",
+      "admissions": 22,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-08",
+      "admissions": 21,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-06-09",
+      "admissions": 21,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-06-10",
+      "admissions": 18,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-06-11",
+      "admissions": 16,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-06-12",
+      "admissions": 16,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-15",
+      "admissions": 18,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-06-16",
+      "admissions": 18,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-06-17",
+      "admissions": 18,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-06-18",
+      "admissions": 19,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-06-19",
+      "admissions": 17,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-06-22",
+      "admissions": 13,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-06-23",
+      "admissions": 12,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-24",
+      "admissions": 16,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-25",
+      "admissions": 18,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-06-26",
+      "admissions": 20,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-06-29",
+      "admissions": 18,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-06-30",
+      "admissions": 18,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-01",
+      "admissions": 17,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-02",
+      "admissions": 19,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-03",
+      "admissions": 15,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-07-06",
+      "admissions": 11,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-07-07",
+      "admissions": 9,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-07-08",
+      "admissions": 8,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-07-09",
+      "admissions": 8,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-10",
+      "admissions": 4,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-13",
+      "admissions": 7,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-07-14",
+      "admissions": 7,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-07-15",
+      "admissions": 5,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-07-16",
+      "admissions": 6,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-07-17",
+      "admissions": 8,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-07-20",
+      "admissions": 10,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-21",
+      "admissions": 7,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-22",
+      "admissions": 3,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-23",
+      "admissions": 3,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-24",
+      "admissions": 3,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-27",
+      "admissions": 7,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-28",
+      "admissions": 5,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-29",
+      "admissions": 6,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-30",
+      "admissions": 6,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-07-31",
+      "admissions": 3,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-03",
+      "admissions": 14,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-04",
+      "admissions": 12,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-05",
+      "admissions": 11,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-06",
+      "admissions": 14,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-08-07",
+      "admissions": 15,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-08-10",
+      "admissions": 16,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-08-11",
+      "admissions": 15,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-08-12",
+      "admissions": 15,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-08-13",
+      "admissions": 12,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-14",
+      "admissions": 8,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-17",
+      "admissions": 14,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-18",
+      "admissions": 12,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-19",
+      "admissions": 11,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-08-20",
+      "admissions": 10,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-08-21",
+      "admissions": 13,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-08-24",
+      "admissions": 17,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-25",
+      "admissions": 18,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-26",
+      "admissions": 17,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-08-27",
+      "admissions": 17,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-08-28",
+      "admissions": 16,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-08-31",
+      "admissions": 12,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-09-01",
+      "admissions": 11,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-09-02",
+      "admissions": 11,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-09-03",
+      "admissions": 13,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-09-04",
+      "admissions": 16,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-09-07",
+      "admissions": 15,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-08",
+      "admissions": 11,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-09",
+      "admissions": 14,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-10",
+      "admissions": 11,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-11",
+      "admissions": 16,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-14",
+      "admissions": 21,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-15",
+      "admissions": 18,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-16",
+      "admissions": 16,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-17",
+      "admissions": 20,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-18",
+      "admissions": 16,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-21",
+      "admissions": 23,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-22",
+      "admissions": 21,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-23",
+      "admissions": 19,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-24",
+      "admissions": 24,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-25",
+      "admissions": 19,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-28",
+      "admissions": 21,
+      "respiratory": 0
+    },
+    {
+      "date": "2020-09-29",
+      "admissions": 24,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-09-30",
+      "admissions": 28,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-01",
+      "admissions": 25,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-02",
+      "admissions": 27,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-05",
+      "admissions": 25,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-06",
+      "admissions": 22,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-07",
+      "admissions": 25,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-10-08",
+      "admissions": 27,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-09",
+      "admissions": 23,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-12",
+      "admissions": 31,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-13",
+      "admissions": 27,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-14",
+      "admissions": 23,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-15",
+      "admissions": 24,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-10-16",
+      "admissions": 28,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-10-19",
+      "admissions": 28,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-10-20",
+      "admissions": 29,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-10-21",
+      "admissions": 36,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-10-22",
+      "admissions": 44,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-10-23",
+      "admissions": 44,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-10-26",
+      "admissions": 54,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-10-27",
+      "admissions": 51,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-10-28",
+      "admissions": 49,
+      "respiratory": 1
+    },
+    {
+      "date": "2020-10-29",
+      "admissions": 47,
+      "respiratory": 2
+    },
+    {
+      "date": "2020-10-30",
+      "admissions": 60,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-10-31",
+      "admissions": 60,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-11-01",
+      "admissions": 63,
+      "respiratory": 4
+    },
+    {
+      "date": "2020-11-02",
+      "admissions": 64,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-11-03",
+      "admissions": 61,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-11-04",
+      "admissions": 70,
+      "respiratory": 3
+    },
+    {
+      "date": "2020-11-05",
+      "admissions": 72,
+      "respiratory": 5
+    },
+    {
+      "date": "2020-11-06",
+      "admissions": 88,
+      "respiratory": 8
+    },
+    {
+      "date": "2020-11-07",
+      "admissions": 92,
+      "respiratory": 11
+    },
+    {
+      "date": "2020-11-08",
+      "admissions": 96,
+      "respiratory": 11
+    },
+    {
+      "date": "2020-11-09",
+      "admissions": 97,
+      "respiratory": 15
+    },
+    {
+      "date": "2020-11-10",
+      "admissions": 104,
+      "respiratory": 12
+    },
+    {
+      "date": "2020-11-11",
+      "admissions": 95,
+      "respiratory": 12
+    },
+    {
+      "date": "2020-11-12",
+      "admissions": 110,
+      "respiratory": 12
+    },
+    {
+      "date": "2020-11-13",
+      "admissions": 109,
+      "respiratory": 13
+    },
+    {
+      "date": "2020-11-14",
+      "admissions": 117,
+      "respiratory": 13
+    },
+    {
+      "date": "2020-11-15",
+      "admissions": 127,
+      "respiratory": 13
+    },
+    {
+      "date": "2020-11-16",
+      "admissions": 135,
+      "respiratory": 16
+    },
+    {
+      "date": "2020-11-17",
+      "admissions": 139,
+      "respiratory": 15
+    }
+  ]
+}
