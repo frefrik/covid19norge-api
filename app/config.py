@@ -1,6 +1,17 @@
 # Settings
 UPDATE_INTERVAL = 300
 
+# Custom OpenAPI
+OPENAPI_TITLE = "COVID-19 Norway API"
+OPENAPI_API_VERSION = "1.0.0"
+OPENAPI_DESCRIPTION = "API for tracking the COVID-19 outbreak in Norway."
+OPENAPI_CONTACT = "api (at) c19norge.no"
+OPENAPI_HOST = "c19norge.no"
+OPENAPI_SERVER_URL = "https://c19norge.no"
+OPENAPI_SERVER_BASEPATH = "api"
+OPENAPI_EXTERNALDOCS_DESC = "Find out more about this project"
+OPENAPI_EXTERNALDOCS_URL = "https://github.com/frefrik/c19norge-api"
+
 # Output json path
 CURRENT_JSON_PATH = './created_json/current.json'
 TIMESERIES_JSON_PATH = './created_json/timeseries.json'
