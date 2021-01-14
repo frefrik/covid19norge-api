@@ -4,7 +4,8 @@ import pandas as pd
 from ..config import (
     CONFIRMED_CSV_PATH, DEAD_CSV_PATH,
     TESTED_CSV_PATH, TESTED_LAB_CSV_PATH,
-    HOSPITALIZED_CSV_PATH, TRANSPORT_CSV_PATH
+    HOSPITALIZED_CSV_PATH, TRANSPORT_CSV_PATH,
+    VACCINE_DOSES_CSV_PATH
 )
 
 
@@ -34,7 +35,8 @@ def get_timeseries_category(category):
         'tested_lab': TESTED_LAB_CSV_PATH,
         'confirmed': CONFIRMED_CSV_PATH,
         'dead': DEAD_CSV_PATH,
-        'hospitalized': HOSPITALIZED_CSV_PATH
+        'hospitalized': HOSPITALIZED_CSV_PATH,
+        'vaccine_doses': VACCINE_DOSES_CSV_PATH
     }
 
     try:
@@ -72,6 +74,10 @@ def get_meta(category):
         'hospitalized': {
             'url': HOSPITALIZED_CSV_PATH,
             'start_date': '2020-03-08'
+        },
+        'vaccine_doses': {
+            'url': VACCINE_DOSES_CSV_PATH,
+            'start_date': '2020-12-27'
         }
     }
 
@@ -97,6 +103,16 @@ def get_meta(category):
             df[cols_fffill] = df[cols_fffill].fillna(method='ffill')
             df[cols_int] = df[cols_int].astype('int')
             df['pr100_pos'] = df['pr100_pos'].astype('float')
+        elif category == 'vaccine_doses':
+            df = df.rename(
+                columns={
+                    'new_doses_administered': 'new',
+                    'total_doses_administered': 'total'
+                }
+            )
+            df = df.shift(1, fill_value=0)
+            df['new'] = df['new'].fillna(0).astype(int)
+            df['total'] = df['total'].fillna(method='ffill').astype(int)
         else:
             df['new'] = df['new'].fillna(0).astype('int')
             df['total'] = df['total'].fillna(method='ffill').astype('Int64')
@@ -119,22 +135,25 @@ def get_timeseries_new():
         TESTED_CSV_PATH,
         index_col=['date'],
         usecols=['date', 'new']
+    ).rename(
+        columns={'new': 'tested'}
     )
-    tested = tested.rename(columns={'new': 'tested'})
 
     confirmed = pd.read_csv(
         CONFIRMED_CSV_PATH,
         index_col=['date'],
         usecols=['date', 'new']
+    ).rename(
+        columns={'new': 'confirmed'}
     )
-    confirmed = confirmed.rename(columns={'new': 'confirmed'})
 
     dead = pd.read_csv(
         DEAD_CSV_PATH,
         index_col=['date'],
         usecols=['date', 'new']
+    ).rename(
+        columns={'new': 'dead'}
     )
-    dead = dead.rename(columns={'new': 'dead'})
 
     hospitalized = pd.read_csv(
         HOSPITALIZED_CSV_PATH,
@@ -143,7 +162,15 @@ def get_timeseries_new():
     )
     hospitalized = hospitalized.diff()
 
-    dfs = [df, tested, confirmed, dead, hospitalized]
+    vaccine_doses = pd.read_csv(
+        VACCINE_DOSES_CSV_PATH,
+        index_col=['date'],
+        usecols=['date', 'new_doses_administered']
+    ).rename(
+        columns={'new_doses_administered': 'vaccine_doses'}
+    )
+
+    dfs = [df, tested, confirmed, dead, hospitalized, vaccine_doses]
     merge = partial(pd.merge, left_index=True, right_index=True, how='outer')
     df = reduce(merge, dfs).fillna(0).reset_index()
     df = df.rename(columns={'index': 'date'})
@@ -163,19 +190,25 @@ def get_timeseries_total():
         TESTED_CSV_PATH,
         index_col=['date'],
         usecols=['date', 'total']
-    ).rename(columns={'total': 'tested'})
+    ).rename(
+        columns={'total': 'tested'}
+    )
 
     confirmed = pd.read_csv(
         CONFIRMED_CSV_PATH,
         index_col=['date'],
         usecols=['date', 'total']
-    ).rename(columns={'total': 'confirmed'})
+    ).rename(
+        columns={'total': 'confirmed'}
+    )
 
     dead = pd.read_csv(
         DEAD_CSV_PATH,
         index_col=['date'],
         usecols=['date', 'total']
-    ).rename(columns={'total': 'dead'})
+    ).rename(
+        columns={'total': 'dead'}
+    )
 
     hospitalized = pd.read_csv(
         HOSPITALIZED_CSV_PATH,
@@ -183,7 +216,15 @@ def get_timeseries_total():
         usecols=['date', 'admissions', 'respiratory']
     )
 
-    dfs = [df, tested, confirmed, dead, hospitalized]
+    vaccine_doses = pd.read_csv(
+        VACCINE_DOSES_CSV_PATH,
+        index_col=['date'],
+        usecols=['date', 'total_doses_administered']
+    ).rename(
+        columns={'total_doses_administered': 'vaccine_doses'}
+    )
+
+    dfs = [df, tested, confirmed, dead, hospitalized, vaccine_doses]
     merge = partial(pd.merge, left_index=True, right_index=True, how='outer')
     df = reduce(merge, dfs).fillna(method='ffill').reset_index()
     df = df.rename(columns={'index': 'date'}).fillna(0)

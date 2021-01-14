@@ -4,7 +4,8 @@ from ..config import (
     CURRENT_JSON_PATH, TIMESERIES_JSON_PATH,
     TIMESERIES_CONFIRMED_JSON_PATH, TIMESERIES_DEAD_JSON_PATH,
     TIMESERIES_TESTED_JSON_PATH, TIMESERIES_TESTED_LAB_JSON_PATH,
-    TIMESERIES_HOSPITALIZED_JSON_PATH, TRANSPORT_JSON_PATH
+    TIMESERIES_HOSPITALIZED_JSON_PATH, TRANSPORT_JSON_PATH,
+    TIMESERIES_VACCINE_DOSES_JSON_PATH
 )
 from ..config import (
     TIMESERIES_EXAMPLE, TIMESERIES_CATEGORY_EXAMPLE,
@@ -28,6 +29,7 @@ async def current():
     - **dead**: Dead cases
     - **admissions**: Admissions cases
     - **respiratory**: Respiratory cases
+    - **vaccine_doses**: Vaccine doses administered
     """
     return FileResponse(CURRENT_JSON_PATH)
 
@@ -60,13 +62,15 @@ async def timeseries_category(category: str):
     - **confirmed**
     - **dead**
     - **hospitalized**
+    - **vaccine_doses**
     """
     categories = {
         'tested': TIMESERIES_TESTED_JSON_PATH,
         'tested_lab': TIMESERIES_TESTED_LAB_JSON_PATH,
         'confirmed': TIMESERIES_CONFIRMED_JSON_PATH,
         'dead': TIMESERIES_DEAD_JSON_PATH,
-        'hospitalized': TIMESERIES_HOSPITALIZED_JSON_PATH
+        'hospitalized': TIMESERIES_HOSPITALIZED_JSON_PATH,
+        'vaccine_doses': TIMESERIES_VACCINE_DOSES_JSON_PATH
     }
 
     if category not in categories:

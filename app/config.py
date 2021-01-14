@@ -20,6 +20,7 @@ TIMESERIES_DEAD_JSON_PATH = './created_json/timeseries_dead.json'
 TIMESERIES_TESTED_JSON_PATH = './created_json/timeseries_tested.json'
 TIMESERIES_TESTED_LAB_JSON_PATH = './created_json/timeseries_tested_lab.json'
 TIMESERIES_HOSPITALIZED_JSON_PATH = './created_json/timeseries_hospitalized.json'
+TIMESERIES_VACCINE_DOSES_JSON_PATH = './created_json/timeseries_vaccine_doses.json'
 TRANSPORT_JSON_PATH = './created_json/transport.json'
 SOURCES_JSON_PATH = './created_json/sources.json'
 
@@ -30,6 +31,7 @@ TESTED_CSV_PATH = './data/tested.csv'
 TESTED_LAB_CSV_PATH = './data/tested_lab.csv'
 HOSPITALIZED_CSV_PATH = './data/hospitalized.csv'
 TRANSPORT_CSV_PATH = './data/transport.csv'
+VACCINE_DOSES_CSV_PATH = './data/vaccine_doses.csv'
 
 # Datasource - Github API
 REPO_URL = 'https://api.github.com/repos/frefrik/c19norge-data/'
@@ -45,7 +47,8 @@ TIMESERIES_EXAMPLE = {
         "confirmed": 1,
         "dead": 0,
         "admissions": 0,
-        "respiratory": 0
+        "respiratory": 0,
+        "vaccine_doses": 0
       },
       {
         "date": "2020-02-22",
@@ -53,7 +56,8 @@ TIMESERIES_EXAMPLE = {
         "confirmed": 0,
         "dead": 0,
         "admissions": 0,
-        "respiratory": 0
+        "respiratory": 0,
+        "vaccine_doses": 0
       }
     ],
     "total": [{
@@ -62,7 +66,8 @@ TIMESERIES_EXAMPLE = {
         "confirmed": 1,
         "dead": 0,
         "admissions": 0,
-        "respiratory": 0
+        "respiratory": 0,
+        "vaccine_doses": 0
       },
       {
         "date": "2020-02-22",
@@ -70,7 +75,8 @@ TIMESERIES_EXAMPLE = {
         "confirmed": 1,
         "dead": 0,
         "admissions": 0,
-        "respiratory": 0
+        "respiratory": 0,
+        "vaccine_doses": 0
       }
     ]
   }
@@ -109,74 +115,89 @@ CURRENT_EXAMPLE = {
   },
   "data": {
     "tested": {
-      "newToday": 16009,
-      "newYesterday": 55298,
-      "newSince_d7": 151794,
-      "newSince_d8": 170282,
-      "newSince_d14": 321036,
-      "newSince_d15": 338749,
-      "newDaily_avg_7": 21684.86,
-      "newDaily_avg_14": 22931.14,
-      "total": 2050737,
+      "newToday": 57967,
+      "newYesterday": 0,
+      "newSince_d7": 179550,
+      "newSince_d8": 245004,
+      "newSince_d14": 334086,
+      "newSince_d15": 334086,
+      "newDaily_avg_7": 25650.0,
+      "newDaily_avg_14": 23863.29,
+      "total": 3122606,
       "updated": {
         "source": "fhi:web",
-        "timestamp": "2020-11-17 13:25:02+01:00"
+        "timestamp": "2021-01-14 13:10:02+01:00"
       }
     },
     "confirmed": {
-      "newToday": 239,
-      "newYesterday": 78,
-      "newSince_d7": 2926,
-      "newSince_d8": 3525,
-      "newSince_d14": 6947,
-      "newSince_d15": 7627,
-      "newDaily_avg_7": 418.0,
-      "newDaily_avg_14": 496.21,
-      "total": 29749,
+      "newToday": 240,
+      "newYesterday": 81,
+      "newSince_d7": 2920,
+      "newSince_d8": 3654,
+      "newSince_d14": 7381,
+      "newSince_d15": 7816,
+      "newDaily_avg_7": 417.14,
+      "newDaily_avg_14": 527.21,
+      "total": 57522,
       "updated": {
         "source": "msis:api",
-        "timestamp": "2020-11-17 15:10:04+01:00"
+        "timestamp": "2021-01-14 15:10:05+01:00"
       }
     },
     "dead": {
-      "newToday": 4,
-      "newYesterday": 0,
-      "newSince_d7": 13,
-      "newSince_d8": 13,
-      "newSince_d14": 16,
-      "newSince_d15": 16,
-      "newDaily_avg_7": 1.86,
-      "newDaily_avg_14": 1.14,
-      "total": 298,
+      "newToday": 2,
+      "newYesterday": 27,
+      "newSince_d7": 44,
+      "newSince_d8": 46,
+      "newSince_d14": 75,
+      "newSince_d15": 75,
+      "newDaily_avg_7": 6.29,
+      "newDaily_avg_14": 5.36,
+      "total": 511,
       "updated": {
         "source": "fhi:git",
-        "timestamp": "2020-11-17 13:20:03+01:00"
+        "timestamp": "2021-01-14 13:25:04+01:00"
       }
     },
     "admissions": {
-      "changeToday": 4,
-      "changeYesterday": 8,
-      "change_d7": 35,
-      "change_d8": 42,
-      "change_d14": 78,
-      "change_d15": 75,
-      "total": 139,
+      "changeToday": 8,
+      "changeYesterday": 7,
+      "change_d7": 37,
+      "change_d8": 35,
+      "change_d14": 24,
+      "change_d15": 19,
+      "total": 164,
       "updated": {
         "source": "helsedir:api",
-        "timestamp": "2020-11-17 12:40:02+01:00"
+        "timestamp": "2021-01-14 12:00:04+01:00"
       }
     },
     "respiratory": {
       "changeToday": -1,
-      "changeYesterday": 3,
-      "change_d7": 3,
-      "change_d8": 0,
-      "change_d14": 12,
-      "change_d15": 12,
-      "total": 15,
+      "changeYesterday": 2,
+      "change_d7": 4,
+      "change_d8": 7,
+      "change_d14": 8,
+      "change_d15": 9,
+      "total": 23,
       "updated": {
         "source": "helsedir:api",
-        "timestamp": "2020-11-17 12:40:02+01:00"
+        "timestamp": "2021-01-14 12:00:04+01:00"
+      }
+    },
+    "vaccine_doses": {
+      "newToday": 7622,
+      "newYesterday": 3809,
+      "newSince_d7": 19549,
+      "newSince_d8": 28121,
+      "newSince_d14": 31529,
+      "newSince_d15": 31949,
+      "newDaily_avg_7": 2792.71,
+      "newDaily_avg_14": 2252.07,
+      "total": 33611,
+      "updated": {
+        "source": "fhi:web",
+        "timestamp": "2021-01-14 20:31:57+01:00"
       }
     }
   }

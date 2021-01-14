@@ -14,7 +14,8 @@ async def check_for_updates():
         'hospitalized',
         'tested',
         'tested_lab',
-        'transport'
+        'transport',
+        'vaccine_doses'
     ]
 
     with open('./created_json/sources.json') as f:
@@ -55,7 +56,8 @@ async def get_datafiles():
         'hospitalized',
         'tested',
         'tested_lab',
-        'transport'
+        'transport',
+        'vaccine_doses'
     ]
 
     for datafile in datafiles:
