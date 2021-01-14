@@ -8,7 +8,8 @@
       "new_total": 12,
       "total_neg": 12,
       "total_pos": 0,
-      "total": 12
+      "total": 12,
+      "source": "fhi:git"
     },
     {
       "date": "2020-02-25",
@@ -18,7 +19,8 @@
       "new_total": 62,
       "total_neg": 74,
       "total_pos": 0,
-      "total": 74
+      "total": 74,
+      "source": "fhi:git"
     },
     {
       "date": "2020-02-26",
@@ -28,7 +30,8 @@
       "new_total": 148,
       "total_neg": 220,
       "total_pos": 2,
-      "total": 222
+      "total": 222,
+      "source": "fhi:git"
     },
     {
       "date": "2020-02-27",
@@ -38,7 +41,8 @@
       "new_total": 249,
       "total_neg": 467,
       "total_pos": 4,
-      "total": 471
+      "total": 471,
+      "source": "fhi:git"
     },
     {
       "date": "2020-02-28",
@@ -48,7 +52,8 @@
       "new_total": 290,
       "total_neg": 754,
       "total_pos": 7,
-      "total": 761
+      "total": 761,
+      "source": "fhi:git"
     },
     {
       "date": "2020-02-29",
@@ -58,7 +63,8 @@
       "new_total": 209,
       "total_neg": 957,
       "total_pos": 13,
-      "total": 970
+      "total": 970,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-01",
@@ -68,7 +74,8 @@
       "new_total": 235,
       "total_neg": 1187,
       "total_pos": 18,
-      "total": 1205
+      "total": 1205,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-02",
@@ -78,7 +85,8 @@
       "new_total": 391,
       "total_neg": 1570,
       "total_pos": 26,
-      "total": 1596
+      "total": 1596,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-03",
@@ -88,7 +96,8 @@
       "new_total": 380,
       "total_neg": 1930,
       "total_pos": 46,
-      "total": 1976
+      "total": 1976,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-04",
@@ -98,7 +107,8 @@
       "new_total": 341,
       "total_neg": 2256,
       "total_pos": 61,
-      "total": 2317
+      "total": 2317,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-05",
@@ -108,7 +118,8 @@
       "new_total": 374,
       "total_neg": 2612,
       "total_pos": 79,
-      "total": 2691
+      "total": 2691,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-06",
@@ -118,7 +129,8 @@
       "new_total": 365,
       "total_neg": 2952,
       "total_pos": 104,
-      "total": 3056
+      "total": 3056,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-07",
@@ -128,7 +140,8 @@
       "new_total": 315,
       "total_neg": 3248,
       "total_pos": 123,
-      "total": 3371
+      "total": 3371,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-08",
@@ -138,7 +151,8 @@
       "new_total": 408,
       "total_neg": 3606,
       "total_pos": 173,
-      "total": 3779
+      "total": 3779,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-09",
@@ -148,7 +162,8 @@
       "new_total": 1484,
       "total_neg": 4837,
       "total_pos": 426,
-      "total": 5263
+      "total": 5263,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-10",
@@ -158,7 +173,8 @@
       "new_total": 1686,
       "total_neg": 6330,
       "total_pos": 619,
-      "total": 6949
+      "total": 6949,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-11",
@@ -168,7 +184,8 @@
       "new_total": 2085,
       "total_neg": 8267,
       "total_pos": 767,
-      "total": 9034
+      "total": 9034,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-12",
@@ -178,7 +195,8 @@
       "new_total": 3017,
       "total_neg": 11107,
       "total_pos": 944,
-      "total": 12051
+      "total": 12051,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-13",
@@ -188,7 +206,8 @@
       "new_total": 4054,
       "total_neg": 15009,
       "total_pos": 1096,
-      "total": 16105
+      "total": 16105,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-14",
@@ -198,7 +217,8 @@
       "new_total": 2761,
       "total_neg": 17681,
       "total_pos": 1185,
-      "total": 18866
+      "total": 18866,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-15",
@@ -208,7 +228,8 @@
       "new_total": 2870,
       "total_neg": 20475,
       "total_pos": 1261,
-      "total": 21736
+      "total": 21736,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-16",
@@ -218,7 +239,8 @@
       "new_total": 6263,
       "total_neg": 26606,
       "total_pos": 1393,
-      "total": 27999
+      "total": 27999,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-17",
@@ -228,7 +250,8 @@
       "new_total": 6586,
       "total_neg": 33039,
       "total_pos": 1546,
-      "total": 34585
+      "total": 34585,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-18",
@@ -238,7 +261,8 @@
       "new_total": 6827,
       "total_neg": 39680,
       "total_pos": 1732,
-      "total": 41412
+      "total": 41412,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-19",
@@ -248,7 +272,8 @@
       "new_total": 5983,
       "total_neg": 45459,
       "total_pos": 1936,
-      "total": 47395
+      "total": 47395,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-20",
@@ -258,7 +283,8 @@
       "new_total": 5119,
       "total_neg": 50315,
       "total_pos": 2199,
-      "total": 52514
+      "total": 52514,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-21",
@@ -268,7 +294,8 @@
       "new_total": 2507,
       "total_neg": 52639,
       "total_pos": 2382,
-      "total": 55021
+      "total": 55021,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-22",
@@ -278,7 +305,8 @@
       "new_total": 1288,
       "total_neg": 53795,
       "total_pos": 2514,
-      "total": 56309
+      "total": 56309,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-23",
@@ -288,7 +316,8 @@
       "new_total": 3564,
       "total_neg": 57107,
       "total_pos": 2766,
-      "total": 59873
+      "total": 59873,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-24",
@@ -298,7 +327,8 @@
       "new_total": 3528,
       "total_neg": 60351,
       "total_pos": 3050,
-      "total": 63401
+      "total": 63401,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-25",
@@ -308,7 +338,8 @@
       "new_total": 3344,
       "total_neg": 63444,
       "total_pos": 3301,
-      "total": 66745
+      "total": 66745,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-26",
@@ -318,7 +349,8 @@
       "new_total": 3185,
       "total_neg": 66359,
       "total_pos": 3571,
-      "total": 69930
+      "total": 69930,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-27",
@@ -328,7 +360,8 @@
       "new_total": 3291,
       "total_neg": 69390,
       "total_pos": 3831,
-      "total": 73221
+      "total": 73221,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-28",
@@ -338,7 +371,8 @@
       "new_total": 1801,
       "total_neg": 71013,
       "total_pos": 4009,
-      "total": 75022
+      "total": 75022,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-29",
@@ -348,7 +382,8 @@
       "new_total": 1243,
       "total_neg": 72130,
       "total_pos": 4135,
-      "total": 76265
+      "total": 76265,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-30",
@@ -358,7 +393,8 @@
       "new_total": 3172,
       "total_neg": 75061,
       "total_pos": 4376,
-      "total": 79437
+      "total": 79437,
+      "source": "fhi:git"
     },
     {
       "date": "2020-03-31",
@@ -368,17 +404,19 @@
       "new_total": 3446,
       "total_neg": 78261,
       "total_pos": 4622,
-      "total": 82883
+      "total": 82883,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-01",
-      "new_neg": 3718,
-      "new_pos": 219,
-      "pr100_pos": 5.6,
+      "new_neg": 3719,
+      "new_pos": 218,
+      "pr100_pos": 5.5,
       "new_total": 3937,
-      "total_neg": 81979,
-      "total_pos": 4841,
-      "total": 86820
+      "total_neg": 81980,
+      "total_pos": 4840,
+      "total": 86820,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-02",
@@ -386,9 +424,10 @@
       "new_pos": 216,
       "pr100_pos": 6.1,
       "new_total": 3560,
-      "total_neg": 85323,
-      "total_pos": 5057,
-      "total": 90380
+      "total_neg": 85324,
+      "total_pos": 5056,
+      "total": 90380,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-03",
@@ -396,29 +435,32 @@
       "new_pos": 185,
       "pr100_pos": 5.2,
       "new_total": 3557,
-      "total_neg": 88695,
-      "total_pos": 5242,
-      "total": 93937
+      "total_neg": 88696,
+      "total_pos": 5241,
+      "total": 93937,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-04",
-      "new_neg": 1292,
-      "new_pos": 94,
-      "pr100_pos": 6.8,
+      "new_neg": 1293,
+      "new_pos": 93,
+      "pr100_pos": 6.7,
       "new_total": 1386,
-      "total_neg": 89987,
-      "total_pos": 5336,
-      "total": 95323
+      "total_neg": 89989,
+      "total_pos": 5334,
+      "total": 95323,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-05",
-      "new_neg": 1043,
-      "new_pos": 75,
-      "pr100_pos": 6.7,
+      "new_neg": 1042,
+      "new_pos": 76,
+      "pr100_pos": 6.8,
       "new_total": 1118,
-      "total_neg": 91030,
-      "total_pos": 5411,
-      "total": 96441
+      "total_neg": 91031,
+      "total_pos": 5410,
+      "total": 96441,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-06",
@@ -426,9 +468,10 @@
       "new_pos": 176,
       "pr100_pos": 5.0,
       "new_total": 3530,
-      "total_neg": 94384,
-      "total_pos": 5587,
-      "total": 99971
+      "total_neg": 94385,
+      "total_pos": 5586,
+      "total": 99971,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-07",
@@ -436,9 +479,10 @@
       "new_pos": 154,
       "pr100_pos": 5.2,
       "new_total": 2969,
-      "total_neg": 97199,
-      "total_pos": 5741,
-      "total": 102940
+      "total_neg": 97200,
+      "total_pos": 5740,
+      "total": 102940,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-08",
@@ -446,19 +490,21 @@
       "new_pos": 115,
       "pr100_pos": 5.1,
       "new_total": 2276,
-      "total_neg": 99360,
-      "total_pos": 5856,
-      "total": 105216
+      "total_neg": 99361,
+      "total_pos": 5855,
+      "total": 105216,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-09",
-      "new_neg": 1225,
-      "new_pos": 113,
-      "pr100_pos": 8.4,
-      "new_total": 1338,
-      "total_neg": 100585,
-      "total_pos": 5969,
-      "total": 106554
+      "new_neg": 1222,
+      "new_pos": 108,
+      "pr100_pos": 8.1,
+      "new_total": 1330,
+      "total_neg": 100583,
+      "total_pos": 5963,
+      "total": 106546,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-10",
@@ -466,19 +512,21 @@
       "new_pos": 73,
       "pr100_pos": 5.4,
       "new_total": 1354,
-      "total_neg": 101866,
-      "total_pos": 6042,
-      "total": 107908
+      "total_neg": 101864,
+      "total_pos": 6036,
+      "total": 107900,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-11",
-      "new_neg": 1303,
-      "new_pos": 116,
+      "new_neg": 1302,
+      "new_pos": 117,
       "pr100_pos": 8.2,
       "new_total": 1419,
-      "total_neg": 103169,
-      "total_pos": 6158,
-      "total": 109327
+      "total_neg": 103166,
+      "total_pos": 6153,
+      "total": 109319,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-12",
@@ -486,9 +534,10 @@
       "new_pos": 81,
       "pr100_pos": 6.5,
       "new_total": 1245,
-      "total_neg": 104333,
-      "total_pos": 6239,
-      "total": 110572
+      "total_neg": 104330,
+      "total_pos": 6234,
+      "total": 110564,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-13",
@@ -496,19 +545,21 @@
       "new_pos": 81,
       "pr100_pos": 6.2,
       "new_total": 1317,
-      "total_neg": 105569,
-      "total_pos": 6320,
-      "total": 111889
+      "total_neg": 105566,
+      "total_pos": 6315,
+      "total": 111881,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-14",
-      "new_neg": 3214,
-      "new_pos": 154,
+      "new_neg": 3213,
+      "new_pos": 155,
       "pr100_pos": 4.6,
       "new_total": 3368,
-      "total_neg": 108783,
-      "total_pos": 6474,
-      "total": 115257
+      "total_neg": 108779,
+      "total_pos": 6470,
+      "total": 115249,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-15",
@@ -516,9 +567,10 @@
       "new_pos": 136,
       "pr100_pos": 4.0,
       "new_total": 3429,
-      "total_neg": 112076,
-      "total_pos": 6610,
-      "total": 118686
+      "total_neg": 112072,
+      "total_pos": 6606,
+      "total": 118678,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-16",
@@ -526,9 +578,10 @@
       "new_pos": 100,
       "pr100_pos": 3.2,
       "new_total": 3110,
-      "total_neg": 115086,
-      "total_pos": 6710,
-      "total": 121796
+      "total_neg": 115082,
+      "total_pos": 6706,
+      "total": 121788,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-17",
@@ -536,39 +589,43 @@
       "new_pos": 124,
       "pr100_pos": 4.0,
       "new_total": 3131,
-      "total_neg": 118093,
-      "total_pos": 6834,
-      "total": 124927
+      "total_neg": 118089,
+      "total_pos": 6830,
+      "total": 124919,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-18",
-      "new_neg": 1119,
+      "new_neg": 1120,
       "new_pos": 56,
       "pr100_pos": 4.8,
-      "new_total": 1175,
-      "total_neg": 119212,
-      "total_pos": 6890,
-      "total": 126102
+      "new_total": 1176,
+      "total_neg": 119209,
+      "total_pos": 6886,
+      "total": 126095,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-19",
-      "new_neg": 1106,
-      "new_pos": 37,
-      "pr100_pos": 3.2,
+      "new_neg": 1105,
+      "new_pos": 38,
+      "pr100_pos": 3.3,
       "new_total": 1143,
-      "total_neg": 120318,
-      "total_pos": 6927,
-      "total": 127245
+      "total_neg": 120314,
+      "total_pos": 6924,
+      "total": 127238,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-20",
-      "new_neg": 3665,
-      "new_pos": 111,
-      "pr100_pos": 2.9,
+      "new_neg": 3663,
+      "new_pos": 113,
+      "pr100_pos": 3.0,
       "new_total": 3776,
-      "total_neg": 123983,
-      "total_pos": 7038,
-      "total": 131021
+      "total_neg": 123977,
+      "total_pos": 7037,
+      "total": 131014,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-21",
@@ -576,9 +633,10 @@
       "new_pos": 91,
       "pr100_pos": 2.5,
       "new_total": 3581,
-      "total_neg": 127473,
-      "total_pos": 7129,
-      "total": 134602
+      "total_neg": 127467,
+      "total_pos": 7128,
+      "total": 134595,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-22",
@@ -586,9 +644,10 @@
       "new_pos": 102,
       "pr100_pos": 3.0,
       "new_total": 3346,
-      "total_neg": 130717,
-      "total_pos": 7231,
-      "total": 137948
+      "total_neg": 130711,
+      "total_pos": 7230,
+      "total": 137941,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-23",
@@ -596,19 +655,21 @@
       "new_pos": 86,
       "pr100_pos": 2.9,
       "new_total": 2975,
-      "total_neg": 133606,
-      "total_pos": 7317,
-      "total": 140923
+      "total_neg": 133600,
+      "total_pos": 7316,
+      "total": 140916,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-24",
-      "new_neg": 3212,
-      "new_pos": 69,
+      "new_neg": 3213,
+      "new_pos": 68,
       "pr100_pos": 2.1,
       "new_total": 3281,
-      "total_neg": 136818,
-      "total_pos": 7386,
-      "total": 144204
+      "total_neg": 136813,
+      "total_pos": 7384,
+      "total": 144197,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-25",
@@ -616,9 +677,10 @@
       "new_pos": 29,
       "pr100_pos": 2.6,
       "new_total": 1132,
-      "total_neg": 137921,
-      "total_pos": 7415,
-      "total": 145336
+      "total_neg": 137916,
+      "total_pos": 7413,
+      "total": 145329,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-26",
@@ -626,19 +688,21 @@
       "new_pos": 40,
       "pr100_pos": 4.1,
       "new_total": 973,
-      "total_neg": 138854,
-      "total_pos": 7455,
-      "total": 146309
+      "total_neg": 138849,
+      "total_pos": 7453,
+      "total": 146302,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-27",
-      "new_neg": 4010,
-      "new_pos": 94,
+      "new_neg": 4009,
+      "new_pos": 95,
       "pr100_pos": 2.3,
       "new_total": 4104,
-      "total_neg": 142864,
-      "total_pos": 7549,
-      "total": 150413
+      "total_neg": 142858,
+      "total_pos": 7548,
+      "total": 150406,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-28",
@@ -646,9 +710,10 @@
       "new_pos": 64,
       "pr100_pos": 1.6,
       "new_total": 4114,
-      "total_neg": 146914,
-      "total_pos": 7613,
-      "total": 154527
+      "total_neg": 146908,
+      "total_pos": 7612,
+      "total": 154520,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-29",
@@ -656,9 +721,10 @@
       "new_pos": 57,
       "pr100_pos": 1.4,
       "new_total": 3954,
-      "total_neg": 150811,
-      "total_pos": 7670,
-      "total": 158481
+      "total_neg": 150805,
+      "total_pos": 7669,
+      "total": 158474,
+      "source": "fhi:git"
     },
     {
       "date": "2020-04-30",
@@ -666,9 +732,10 @@
       "new_pos": 48,
       "pr100_pos": 1.1,
       "new_total": 4439,
-      "total_neg": 155202,
-      "total_pos": 7718,
-      "total": 162920
+      "total_neg": 155196,
+      "total_pos": 7717,
+      "total": 162913,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-01",
@@ -676,9 +743,10 @@
       "new_pos": 46,
       "pr100_pos": 3.0,
       "new_total": 1511,
-      "total_neg": 156667,
-      "total_pos": 7764,
-      "total": 164431
+      "total_neg": 156661,
+      "total_pos": 7763,
+      "total": 164424,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-02",
@@ -686,9 +754,10 @@
       "new_pos": 29,
       "pr100_pos": 1.9,
       "new_total": 1555,
-      "total_neg": 158193,
-      "total_pos": 7793,
-      "total": 165986
+      "total_neg": 158187,
+      "total_pos": 7792,
+      "total": 165979,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-03",
@@ -696,9 +765,10 @@
       "new_pos": 49,
       "pr100_pos": 3.9,
       "new_total": 1260,
-      "total_neg": 159404,
-      "total_pos": 7842,
-      "total": 167246
+      "total_neg": 159398,
+      "total_pos": 7841,
+      "total": 167239,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-04",
@@ -706,19 +776,21 @@
       "new_pos": 52,
       "pr100_pos": 1.1,
       "new_total": 4729,
-      "total_neg": 164081,
-      "total_pos": 7894,
-      "total": 171975
+      "total_neg": 164075,
+      "total_pos": 7893,
+      "total": 171968,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-05",
-      "new_neg": 4260,
-      "new_pos": 61,
-      "pr100_pos": 1.4,
-      "new_total": 4321,
-      "total_neg": 168341,
-      "total_pos": 7955,
-      "total": 176296
+      "new_neg": 4259,
+      "new_pos": 57,
+      "pr100_pos": 1.3,
+      "new_total": 4316,
+      "total_neg": 168334,
+      "total_pos": 7950,
+      "total": 176284,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-06",
@@ -726,39 +798,43 @@
       "new_pos": 42,
       "pr100_pos": 1.0,
       "new_total": 4284,
-      "total_neg": 172583,
-      "total_pos": 7997,
-      "total": 180580
+      "total_neg": 172576,
+      "total_pos": 7992,
+      "total": 180568,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-07",
-      "new_neg": 3718,
-      "new_pos": 40,
-      "pr100_pos": 1.1,
-      "new_total": 3758,
-      "total_neg": 176301,
-      "total_pos": 8037,
-      "total": 184338
+      "new_neg": 3717,
+      "new_pos": 35,
+      "pr100_pos": 0.9,
+      "new_total": 3752,
+      "total_neg": 176293,
+      "total_pos": 8027,
+      "total": 184320,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-08",
-      "new_neg": 3753,
-      "new_pos": 47,
+      "new_neg": 3754,
+      "new_pos": 46,
       "pr100_pos": 1.2,
       "new_total": 3800,
-      "total_neg": 180054,
-      "total_pos": 8084,
-      "total": 188138
+      "total_neg": 180047,
+      "total_pos": 8073,
+      "total": 188120,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-09",
       "new_neg": 1289,
-      "new_pos": 10,
+      "new_pos": 11,
       "pr100_pos": 0.8,
-      "new_total": 1299,
-      "total_neg": 181343,
-      "total_pos": 8094,
-      "total": 189437
+      "new_total": 1300,
+      "total_neg": 181336,
+      "total_pos": 8084,
+      "total": 189420,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-10",
@@ -766,9 +842,10 @@
       "new_pos": 14,
       "pr100_pos": 1.4,
       "new_total": 1001,
-      "total_neg": 182330,
-      "total_pos": 8108,
-      "total": 190438
+      "total_neg": 182323,
+      "total_pos": 8098,
+      "total": 190421,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-11",
@@ -776,9 +853,10 @@
       "new_pos": 33,
       "pr100_pos": 0.8,
       "new_total": 4397,
-      "total_neg": 186694,
-      "total_pos": 8141,
-      "total": 194835
+      "total_neg": 186687,
+      "total_pos": 8131,
+      "total": 194818,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-12",
@@ -786,9 +864,10 @@
       "new_pos": 23,
       "pr100_pos": 0.5,
       "new_total": 4794,
-      "total_neg": 191465,
-      "total_pos": 8164,
-      "total": 199629
+      "total_neg": 191458,
+      "total_pos": 8154,
+      "total": 199612,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-13",
@@ -796,29 +875,32 @@
       "new_pos": 24,
       "pr100_pos": 0.5,
       "new_total": 4468,
-      "total_neg": 195909,
-      "total_pos": 8188,
-      "total": 204097
+      "total_neg": 195902,
+      "total_pos": 8178,
+      "total": 204080,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-14",
-      "new_neg": 4170,
-      "new_pos": 32,
-      "pr100_pos": 0.8,
-      "new_total": 4202,
-      "total_neg": 200079,
-      "total_pos": 8220,
-      "total": 208299
+      "new_neg": 4169,
+      "new_pos": 28,
+      "pr100_pos": 0.7,
+      "new_total": 4197,
+      "total_neg": 200071,
+      "total_pos": 8206,
+      "total": 208277,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-15",
       "new_neg": 4147,
-      "new_pos": 25,
+      "new_pos": 24,
       "pr100_pos": 0.6,
-      "new_total": 4172,
-      "total_neg": 204226,
-      "total_pos": 8245,
-      "total": 212471
+      "new_total": 4171,
+      "total_neg": 204218,
+      "total_pos": 8230,
+      "total": 212448,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-16",
@@ -826,9 +908,10 @@
       "new_pos": 14,
       "pr100_pos": 1.1,
       "new_total": 1301,
-      "total_neg": 205513,
-      "total_pos": 8259,
-      "total": 213772
+      "total_neg": 205505,
+      "total_pos": 8244,
+      "total": 213749,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-17",
@@ -836,9 +919,10 @@
       "new_pos": 3,
       "pr100_pos": 0.5,
       "new_total": 663,
-      "total_neg": 206173,
-      "total_pos": 8262,
-      "total": 214435
+      "total_neg": 206165,
+      "total_pos": 8247,
+      "total": 214412,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-18",
@@ -846,9 +930,10 @@
       "new_pos": 24,
       "pr100_pos": 0.5,
       "new_total": 4405,
-      "total_neg": 210554,
-      "total_pos": 8286,
-      "total": 218840
+      "total_neg": 210546,
+      "total_pos": 8271,
+      "total": 218817,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-19",
@@ -856,9 +941,10 @@
       "new_pos": 20,
       "pr100_pos": 0.4,
       "new_total": 4656,
-      "total_neg": 215190,
-      "total_pos": 8306,
-      "total": 223496
+      "total_neg": 215182,
+      "total_pos": 8291,
+      "total": 223473,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-20",
@@ -866,9 +952,10 @@
       "new_pos": 24,
       "pr100_pos": 0.6,
       "new_total": 3947,
-      "total_neg": 219113,
-      "total_pos": 8330,
-      "total": 227443
+      "total_neg": 219105,
+      "total_pos": 8315,
+      "total": 227420,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-21",
@@ -876,9 +963,10 @@
       "new_pos": 13,
       "pr100_pos": 1.1,
       "new_total": 1144,
-      "total_neg": 220244,
-      "total_pos": 8343,
-      "total": 228587
+      "total_neg": 220236,
+      "total_pos": 8328,
+      "total": 228564,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-22",
@@ -886,9 +974,10 @@
       "new_pos": 30,
       "pr100_pos": 0.9,
       "new_total": 3342,
-      "total_neg": 223556,
-      "total_pos": 8373,
-      "total": 231929
+      "total_neg": 223548,
+      "total_pos": 8358,
+      "total": 231906,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-23",
@@ -896,9 +985,10 @@
       "new_pos": 7,
       "pr100_pos": 0.7,
       "new_total": 1039,
-      "total_neg": 224588,
-      "total_pos": 8380,
-      "total": 232968
+      "total_neg": 224580,
+      "total_pos": 8365,
+      "total": 232945,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-24",
@@ -906,9 +996,10 @@
       "new_pos": 9,
       "pr100_pos": 1.0,
       "new_total": 898,
-      "total_neg": 225477,
-      "total_pos": 8389,
-      "total": 233866
+      "total_neg": 225469,
+      "total_pos": 8374,
+      "total": 233843,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-25",
@@ -916,9 +1007,10 @@
       "new_pos": 19,
       "pr100_pos": 0.5,
       "new_total": 4070,
-      "total_neg": 229528,
-      "total_pos": 8408,
-      "total": 237936
+      "total_neg": 229520,
+      "total_pos": 8393,
+      "total": 237913,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-26",
@@ -926,9 +1018,10 @@
       "new_pos": 14,
       "pr100_pos": 0.4,
       "new_total": 3452,
-      "total_neg": 232966,
-      "total_pos": 8422,
-      "total": 241388
+      "total_neg": 232958,
+      "total_pos": 8407,
+      "total": 241365,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-27",
@@ -936,9 +1029,10 @@
       "new_pos": 19,
       "pr100_pos": 0.6,
       "new_total": 3278,
-      "total_neg": 236225,
-      "total_pos": 8441,
-      "total": 244666
+      "total_neg": 236217,
+      "total_pos": 8426,
+      "total": 244643,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-28",
@@ -946,9 +1040,10 @@
       "new_pos": 18,
       "pr100_pos": 0.6,
       "new_total": 2782,
-      "total_neg": 238989,
-      "total_pos": 8459,
-      "total": 247448
+      "total_neg": 238981,
+      "total_pos": 8444,
+      "total": 247425,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-29",
@@ -956,9 +1051,10 @@
       "new_pos": 17,
       "pr100_pos": 0.7,
       "new_total": 2589,
-      "total_neg": 241561,
-      "total_pos": 8476,
-      "total": 250037
+      "total_neg": 241553,
+      "total_pos": 8461,
+      "total": 250014,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-30",
@@ -966,9 +1062,10 @@
       "new_pos": 0,
       "pr100_pos": 0.0,
       "new_total": 813,
-      "total_neg": 242374,
-      "total_pos": 8476,
-      "total": 250850
+      "total_neg": 242366,
+      "total_pos": 8461,
+      "total": 250827,
+      "source": "fhi:git"
     },
     {
       "date": "2020-05-31",
@@ -976,9 +1073,10 @@
       "new_pos": 6,
       "pr100_pos": 0.9,
       "new_total": 638,
-      "total_neg": 243006,
-      "total_pos": 8482,
-      "total": 251488
+      "total_neg": 242998,
+      "total_pos": 8467,
+      "total": 251465,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-01",
@@ -986,29 +1084,32 @@
       "new_pos": 7,
       "pr100_pos": 0.9,
       "new_total": 743,
-      "total_neg": 243742,
-      "total_pos": 8489,
-      "total": 252231
+      "total_neg": 243734,
+      "total_pos": 8474,
+      "total": 252208,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-02",
-      "new_neg": 3808,
-      "new_pos": 36,
-      "pr100_pos": 0.9,
+      "new_neg": 3807,
+      "new_pos": 37,
+      "pr100_pos": 1.0,
       "new_total": 3844,
-      "total_neg": 247550,
-      "total_pos": 8525,
-      "total": 256075
+      "total_neg": 247541,
+      "total_pos": 8511,
+      "total": 256052,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-03",
-      "new_neg": 3115,
+      "new_neg": 3116,
       "new_pos": 14,
       "pr100_pos": 0.4,
-      "new_total": 3129,
-      "total_neg": 250665,
-      "total_pos": 8539,
-      "total": 259204
+      "new_total": 3130,
+      "total_neg": 250657,
+      "total_pos": 8525,
+      "total": 259182,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-04",
@@ -1016,9 +1117,10 @@
       "new_pos": 17,
       "pr100_pos": 0.6,
       "new_total": 2917,
-      "total_neg": 253565,
-      "total_pos": 8556,
-      "total": 262121
+      "total_neg": 253557,
+      "total_pos": 8542,
+      "total": 262099,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-05",
@@ -1026,9 +1128,10 @@
       "new_pos": 29,
       "pr100_pos": 1.0,
       "new_total": 2928,
-      "total_neg": 256464,
-      "total_pos": 8585,
-      "total": 265049
+      "total_neg": 256456,
+      "total_pos": 8571,
+      "total": 265027,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-06",
@@ -1036,9 +1139,10 @@
       "new_pos": 8,
       "pr100_pos": 0.8,
       "new_total": 947,
-      "total_neg": 257403,
-      "total_pos": 8593,
-      "total": 265996
+      "total_neg": 257395,
+      "total_pos": 8579,
+      "total": 265974,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-07",
@@ -1046,9 +1150,10 @@
       "new_pos": 10,
       "pr100_pos": 1.1,
       "new_total": 933,
-      "total_neg": 258326,
-      "total_pos": 8603,
-      "total": 266929
+      "total_neg": 258318,
+      "total_pos": 8589,
+      "total": 266907,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-08",
@@ -1056,9 +1161,10 @@
       "new_pos": 20,
       "pr100_pos": 0.3,
       "new_total": 5750,
-      "total_neg": 264056,
-      "total_pos": 8623,
-      "total": 272679
+      "total_neg": 264048,
+      "total_pos": 8609,
+      "total": 272657,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-09",
@@ -1066,19 +1172,21 @@
       "new_pos": 12,
       "pr100_pos": 0.2,
       "new_total": 5661,
-      "total_neg": 269705,
-      "total_pos": 8635,
-      "total": 278340
+      "total_neg": 269697,
+      "total_pos": 8621,
+      "total": 278318,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-10",
-      "new_neg": 4543,
+      "new_neg": 4542,
       "new_pos": 15,
       "pr100_pos": 0.3,
-      "new_total": 4558,
-      "total_neg": 274248,
-      "total_pos": 8650,
-      "total": 282898
+      "new_total": 4557,
+      "total_neg": 274239,
+      "total_pos": 8636,
+      "total": 282875,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-11",
@@ -1086,9 +1194,10 @@
       "new_pos": 13,
       "pr100_pos": 0.3,
       "new_total": 4868,
-      "total_neg": 279103,
-      "total_pos": 8663,
-      "total": 287766
+      "total_neg": 279094,
+      "total_pos": 8649,
+      "total": 287743,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-12",
@@ -1096,9 +1205,10 @@
       "new_pos": 15,
       "pr100_pos": 0.3,
       "new_total": 4628,
-      "total_neg": 283716,
-      "total_pos": 8678,
-      "total": 292394
+      "total_neg": 283707,
+      "total_pos": 8664,
+      "total": 292371,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-13",
@@ -1106,9 +1216,10 @@
       "new_pos": 8,
       "pr100_pos": 0.6,
       "new_total": 1244,
-      "total_neg": 284952,
-      "total_pos": 8686,
-      "total": 293638
+      "total_neg": 284943,
+      "total_pos": 8672,
+      "total": 293615,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-14",
@@ -1116,9 +1227,10 @@
       "new_pos": 6,
       "pr100_pos": 0.5,
       "new_total": 1133,
-      "total_neg": 286079,
-      "total_pos": 8692,
-      "total": 294771
+      "total_neg": 286070,
+      "total_pos": 8678,
+      "total": 294748,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-15",
@@ -1126,9 +1238,10 @@
       "new_pos": 18,
       "pr100_pos": 0.3,
       "new_total": 5846,
-      "total_neg": 291907,
-      "total_pos": 8710,
-      "total": 300617
+      "total_neg": 291898,
+      "total_pos": 8696,
+      "total": 300594,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-16",
@@ -1136,19 +1249,21 @@
       "new_pos": 39,
       "pr100_pos": 0.7,
       "new_total": 5449,
-      "total_neg": 297317,
-      "total_pos": 8749,
-      "total": 306066
+      "total_neg": 297308,
+      "total_pos": 8735,
+      "total": 306043,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-17",
-      "new_neg": 4961,
-      "new_pos": 19,
+      "new_neg": 4962,
+      "new_pos": 18,
       "pr100_pos": 0.4,
       "new_total": 4980,
-      "total_neg": 302278,
-      "total_pos": 8768,
-      "total": 311046
+      "total_neg": 302270,
+      "total_pos": 8753,
+      "total": 311023,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-18",
@@ -1156,9 +1271,10 @@
       "new_pos": 12,
       "pr100_pos": 0.3,
       "new_total": 4556,
-      "total_neg": 306822,
-      "total_pos": 8780,
-      "total": 315602
+      "total_neg": 306814,
+      "total_pos": 8765,
+      "total": 315579,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-19",
@@ -1166,9 +1282,10 @@
       "new_pos": 18,
       "pr100_pos": 0.5,
       "new_total": 3803,
-      "total_neg": 310607,
-      "total_pos": 8798,
-      "total": 319405
+      "total_neg": 310599,
+      "total_pos": 8783,
+      "total": 319382,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-20",
@@ -1176,9 +1293,10 @@
       "new_pos": 6,
       "pr100_pos": 0.6,
       "new_total": 1058,
-      "total_neg": 311659,
-      "total_pos": 8804,
-      "total": 320463
+      "total_neg": 311651,
+      "total_pos": 8789,
+      "total": 320440,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-21",
@@ -1186,9 +1304,10 @@
       "new_pos": 5,
       "pr100_pos": 0.5,
       "new_total": 1028,
-      "total_neg": 312682,
-      "total_pos": 8809,
-      "total": 321491
+      "total_neg": 312674,
+      "total_pos": 8794,
+      "total": 321468,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-22",
@@ -1196,9 +1315,10 @@
       "new_pos": 24,
       "pr100_pos": 0.5,
       "new_total": 5032,
-      "total_neg": 317690,
-      "total_pos": 8833,
-      "total": 326523
+      "total_neg": 317682,
+      "total_pos": 8818,
+      "total": 326500,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-23",
@@ -1206,9 +1326,10 @@
       "new_pos": 16,
       "pr100_pos": 0.3,
       "new_total": 4656,
-      "total_neg": 322330,
-      "total_pos": 8849,
-      "total": 331179
+      "total_neg": 322322,
+      "total_pos": 8834,
+      "total": 331156,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-24",
@@ -1216,9 +1337,10 @@
       "new_pos": 21,
       "pr100_pos": 0.5,
       "new_total": 4623,
-      "total_neg": 326932,
-      "total_pos": 8870,
-      "total": 335802
+      "total_neg": 326924,
+      "total_pos": 8855,
+      "total": 335779,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-25",
@@ -1226,19 +1348,21 @@
       "new_pos": 20,
       "pr100_pos": 0.5,
       "new_total": 4176,
-      "total_neg": 331088,
-      "total_pos": 8890,
-      "total": 339978
+      "total_neg": 331080,
+      "total_pos": 8875,
+      "total": 339955,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-26",
-      "new_neg": 3902,
-      "new_pos": 26,
-      "pr100_pos": 0.7,
-      "new_total": 3928,
-      "total_neg": 334990,
-      "total_pos": 8916,
-      "total": 343906
+      "new_neg": 3904,
+      "new_pos": 25,
+      "pr100_pos": 0.6,
+      "new_total": 3929,
+      "total_neg": 334984,
+      "total_pos": 8900,
+      "total": 343884,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-27",
@@ -1246,9 +1370,10 @@
       "new_pos": 10,
       "pr100_pos": 0.9,
       "new_total": 1110,
-      "total_neg": 336090,
-      "total_pos": 8926,
-      "total": 345016
+      "total_neg": 336084,
+      "total_pos": 8910,
+      "total": 344994,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-28",
@@ -1256,19 +1381,21 @@
       "new_pos": 2,
       "pr100_pos": 0.2,
       "new_total": 986,
-      "total_neg": 337074,
-      "total_pos": 8928,
-      "total": 346002
+      "total_neg": 337068,
+      "total_pos": 8912,
+      "total": 345980,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-29",
-      "new_neg": 5911,
-      "new_pos": 24,
+      "new_neg": 5912,
+      "new_pos": 23,
       "pr100_pos": 0.4,
       "new_total": 5935,
-      "total_neg": 342985,
-      "total_pos": 8952,
-      "total": 351937
+      "total_neg": 342980,
+      "total_pos": 8935,
+      "total": 351915,
+      "source": "fhi:git"
     },
     {
       "date": "2020-06-30",
@@ -1276,19 +1403,21 @@
       "new_pos": 12,
       "pr100_pos": 0.2,
       "new_total": 5024,
-      "total_neg": 347997,
-      "total_pos": 8964,
-      "total": 356961
+      "total_neg": 347992,
+      "total_pos": 8947,
+      "total": 356939,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-01",
-      "new_neg": 5108,
-      "new_pos": 11,
+      "new_neg": 5109,
+      "new_pos": 10,
       "pr100_pos": 0.2,
       "new_total": 5119,
-      "total_neg": 353105,
-      "total_pos": 8975,
-      "total": 362080
+      "total_neg": 353101,
+      "total_pos": 8957,
+      "total": 362058,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-02",
@@ -1296,9 +1425,10 @@
       "new_pos": 8,
       "pr100_pos": 0.2,
       "new_total": 4743,
-      "total_neg": 357840,
-      "total_pos": 8983,
-      "total": 366823
+      "total_neg": 357836,
+      "total_pos": 8965,
+      "total": 366801,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-03",
@@ -1306,9 +1436,10 @@
       "new_pos": 13,
       "pr100_pos": 0.3,
       "new_total": 4536,
-      "total_neg": 362363,
-      "total_pos": 8996,
-      "total": 371359
+      "total_neg": 362359,
+      "total_pos": 8978,
+      "total": 371337,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-04",
@@ -1316,9 +1447,10 @@
       "new_pos": 2,
       "pr100_pos": 0.1,
       "new_total": 1425,
-      "total_neg": 363786,
-      "total_pos": 8998,
-      "total": 372784
+      "total_neg": 363782,
+      "total_pos": 8980,
+      "total": 372762,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-05",
@@ -1326,9 +1458,10 @@
       "new_pos": 2,
       "pr100_pos": 0.2,
       "new_total": 1192,
-      "total_neg": 364976,
-      "total_pos": 9000,
-      "total": 373976
+      "total_neg": 364972,
+      "total_pos": 8982,
+      "total": 373954,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-06",
@@ -1336,9 +1469,10 @@
       "new_pos": 19,
       "pr100_pos": 0.3,
       "new_total": 6333,
-      "total_neg": 371290,
-      "total_pos": 9019,
-      "total": 380309
+      "total_neg": 371286,
+      "total_pos": 9001,
+      "total": 380287,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-07",
@@ -1346,9 +1480,10 @@
       "new_pos": 10,
       "pr100_pos": 0.2,
       "new_total": 5338,
-      "total_neg": 376618,
-      "total_pos": 9029,
-      "total": 385647
+      "total_neg": 376614,
+      "total_pos": 9011,
+      "total": 385625,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-08",
@@ -1356,9 +1491,10 @@
       "new_pos": 13,
       "pr100_pos": 0.2,
       "new_total": 5300,
-      "total_neg": 381905,
-      "total_pos": 9042,
-      "total": 390947
+      "total_neg": 381901,
+      "total_pos": 9024,
+      "total": 390925,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-09",
@@ -1366,9 +1502,10 @@
       "new_pos": 10,
       "pr100_pos": 0.2,
       "new_total": 4811,
-      "total_neg": 386706,
-      "total_pos": 9052,
-      "total": 395758
+      "total_neg": 386702,
+      "total_pos": 9034,
+      "total": 395736,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-10",
@@ -1376,19 +1513,21 @@
       "new_pos": 11,
       "pr100_pos": 0.2,
       "new_total": 4693,
-      "total_neg": 391388,
-      "total_pos": 9063,
-      "total": 400451
+      "total_neg": 391384,
+      "total_pos": 9045,
+      "total": 400429,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-11",
-      "new_neg": 1389,
+      "new_neg": 1390,
       "new_pos": 4,
       "pr100_pos": 0.3,
-      "new_total": 1393,
-      "total_neg": 392777,
-      "total_pos": 9067,
-      "total": 401844
+      "new_total": 1394,
+      "total_neg": 392774,
+      "total_pos": 9049,
+      "total": 401823,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-12",
@@ -1396,19 +1535,21 @@
       "new_pos": 7,
       "pr100_pos": 0.6,
       "new_total": 1196,
-      "total_neg": 393966,
-      "total_pos": 9074,
-      "total": 403040
+      "total_neg": 393963,
+      "total_pos": 9056,
+      "total": 403019,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-13",
       "new_neg": 6345,
-      "new_pos": 18,
+      "new_pos": 19,
       "pr100_pos": 0.3,
-      "new_total": 6363,
-      "total_neg": 400311,
-      "total_pos": 9092,
-      "total": 409403
+      "new_total": 6364,
+      "total_neg": 400308,
+      "total_pos": 9075,
+      "total": 409383,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-14",
@@ -1416,9 +1557,10 @@
       "new_pos": 7,
       "pr100_pos": 0.1,
       "new_total": 5261,
-      "total_neg": 405565,
-      "total_pos": 9099,
-      "total": 414664
+      "total_neg": 405562,
+      "total_pos": 9082,
+      "total": 414644,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-15",
@@ -1426,9 +1568,10 @@
       "new_pos": 7,
       "pr100_pos": 0.1,
       "new_total": 5408,
-      "total_neg": 410966,
-      "total_pos": 9106,
-      "total": 420072
+      "total_neg": 410963,
+      "total_pos": 9089,
+      "total": 420052,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-16",
@@ -1436,9 +1579,10 @@
       "new_pos": 3,
       "pr100_pos": 0.1,
       "new_total": 4551,
-      "total_neg": 415514,
-      "total_pos": 9109,
-      "total": 424623
+      "total_neg": 415511,
+      "total_pos": 9092,
+      "total": 424603,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-17",
@@ -1446,9 +1590,10 @@
       "new_pos": 11,
       "pr100_pos": 0.3,
       "new_total": 4139,
-      "total_neg": 419642,
-      "total_pos": 9120,
-      "total": 428762
+      "total_neg": 419639,
+      "total_pos": 9103,
+      "total": 428742,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-18",
@@ -1456,9 +1601,10 @@
       "new_pos": 1,
       "pr100_pos": 0.1,
       "new_total": 1414,
-      "total_neg": 421055,
-      "total_pos": 9121,
-      "total": 430176
+      "total_neg": 421052,
+      "total_pos": 9104,
+      "total": 430156,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-19",
@@ -1466,9 +1612,10 @@
       "new_pos": 3,
       "pr100_pos": 0.2,
       "new_total": 1345,
-      "total_neg": 422397,
-      "total_pos": 9124,
-      "total": 431521
+      "total_neg": 422394,
+      "total_pos": 9107,
+      "total": 431501,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-20",
@@ -1476,9 +1623,10 @@
       "new_pos": 24,
       "pr100_pos": 0.4,
       "new_total": 6013,
-      "total_neg": 428386,
-      "total_pos": 9148,
-      "total": 437534
+      "total_neg": 428383,
+      "total_pos": 9131,
+      "total": 437514,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-21",
@@ -1486,9 +1634,10 @@
       "new_pos": 6,
       "pr100_pos": 0.1,
       "new_total": 4818,
-      "total_neg": 433198,
-      "total_pos": 9154,
-      "total": 442352
+      "total_neg": 433195,
+      "total_pos": 9137,
+      "total": 442332,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-22",
@@ -1496,9 +1645,10 @@
       "new_pos": 25,
       "pr100_pos": 0.5,
       "new_total": 4929,
-      "total_neg": 438102,
-      "total_pos": 9179,
-      "total": 447281
+      "total_neg": 438099,
+      "total_pos": 9162,
+      "total": 447261,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-23",
@@ -1506,9 +1656,10 @@
       "new_pos": 6,
       "pr100_pos": 0.1,
       "new_total": 4479,
-      "total_neg": 442575,
-      "total_pos": 9185,
-      "total": 451760
+      "total_neg": 442572,
+      "total_pos": 9168,
+      "total": 451740,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-24",
@@ -1516,9 +1667,10 @@
       "new_pos": 29,
       "pr100_pos": 0.6,
       "new_total": 4517,
-      "total_neg": 447063,
-      "total_pos": 9214,
-      "total": 456277
+      "total_neg": 447060,
+      "total_pos": 9197,
+      "total": 456257,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-25",
@@ -1526,9 +1678,10 @@
       "new_pos": 7,
       "pr100_pos": 0.4,
       "new_total": 1702,
-      "total_neg": 448758,
-      "total_pos": 9221,
-      "total": 457979
+      "total_neg": 448755,
+      "total_pos": 9204,
+      "total": 457959,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-26",
@@ -1536,9 +1689,10 @@
       "new_pos": 9,
       "pr100_pos": 0.6,
       "new_total": 1470,
-      "total_neg": 450219,
-      "total_pos": 9230,
-      "total": 459449
+      "total_neg": 450216,
+      "total_pos": 9213,
+      "total": 459429,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-27",
@@ -1546,9 +1700,10 @@
       "new_pos": 22,
       "pr100_pos": 0.3,
       "new_total": 6870,
-      "total_neg": 457067,
-      "total_pos": 9252,
-      "total": 466319
+      "total_neg": 457064,
+      "total_pos": 9235,
+      "total": 466299,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-28",
@@ -1556,9 +1711,10 @@
       "new_pos": 15,
       "pr100_pos": 0.3,
       "new_total": 5885,
-      "total_neg": 462937,
-      "total_pos": 9267,
-      "total": 472204
+      "total_neg": 462934,
+      "total_pos": 9250,
+      "total": 472184,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-29",
@@ -1566,9 +1722,10 @@
       "new_pos": 38,
       "pr100_pos": 0.6,
       "new_total": 5893,
-      "total_neg": 468792,
-      "total_pos": 9305,
-      "total": 478097
+      "total_neg": 468789,
+      "total_pos": 9288,
+      "total": 478077,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-30",
@@ -1576,9 +1733,10 @@
       "new_pos": 24,
       "pr100_pos": 0.4,
       "new_total": 5564,
-      "total_neg": 474332,
-      "total_pos": 9329,
-      "total": 483661
+      "total_neg": 474329,
+      "total_pos": 9312,
+      "total": 483641,
+      "source": "fhi:git"
     },
     {
       "date": "2020-07-31",
@@ -1586,9 +1744,10 @@
       "new_pos": 73,
       "pr100_pos": 1.3,
       "new_total": 5467,
-      "total_neg": 479726,
-      "total_pos": 9402,
-      "total": 489128
+      "total_neg": 479723,
+      "total_pos": 9385,
+      "total": 489108,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-01",
@@ -1596,9 +1755,10 @@
       "new_pos": 13,
       "pr100_pos": 0.6,
       "new_total": 2110,
-      "total_neg": 481823,
-      "total_pos": 9415,
-      "total": 491238
+      "total_neg": 481820,
+      "total_pos": 9398,
+      "total": 491218,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-02",
@@ -1606,9 +1766,10 @@
       "new_pos": 14,
       "pr100_pos": 0.7,
       "new_total": 1899,
-      "total_neg": 483708,
-      "total_pos": 9429,
-      "total": 493137
+      "total_neg": 483705,
+      "total_pos": 9412,
+      "total": 493117,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-03",
@@ -1616,9 +1777,10 @@
       "new_pos": 37,
       "pr100_pos": 0.4,
       "new_total": 9320,
-      "total_neg": 492991,
-      "total_pos": 9466,
-      "total": 502457
+      "total_neg": 492988,
+      "total_pos": 9449,
+      "total": 502437,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-04",
@@ -1626,9 +1788,10 @@
       "new_pos": 40,
       "pr100_pos": 0.5,
       "new_total": 8439,
-      "total_neg": 501390,
-      "total_pos": 9506,
-      "total": 510896
+      "total_neg": 501387,
+      "total_pos": 9489,
+      "total": 510876,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-05",
@@ -1636,9 +1799,10 @@
       "new_pos": 68,
       "pr100_pos": 0.8,
       "new_total": 8762,
-      "total_neg": 510084,
-      "total_pos": 9574,
-      "total": 519658
+      "total_neg": 510081,
+      "total_pos": 9557,
+      "total": 519638,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-06",
@@ -1646,9 +1810,10 @@
       "new_pos": 75,
       "pr100_pos": 0.9,
       "new_total": 8686,
-      "total_neg": 518695,
-      "total_pos": 9649,
-      "total": 528344
+      "total_neg": 518692,
+      "total_pos": 9632,
+      "total": 528324,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-07",
@@ -1656,9 +1821,10 @@
       "new_pos": 76,
       "pr100_pos": 0.9,
       "new_total": 8441,
-      "total_neg": 527060,
-      "total_pos": 9725,
-      "total": 536785
+      "total_neg": 527057,
+      "total_pos": 9708,
+      "total": 536765,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-08",
@@ -1666,9 +1832,10 @@
       "new_pos": 34,
       "pr100_pos": 1.0,
       "new_total": 3297,
-      "total_neg": 530323,
-      "total_pos": 9759,
-      "total": 540082
+      "total_neg": 530320,
+      "total_pos": 9742,
+      "total": 540062,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-09",
@@ -1676,9 +1843,10 @@
       "new_pos": 37,
       "pr100_pos": 1.2,
       "new_total": 3165,
-      "total_neg": 533451,
-      "total_pos": 9796,
-      "total": 543247
+      "total_neg": 533448,
+      "total_pos": 9779,
+      "total": 543227,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-10",
@@ -1686,19 +1854,21 @@
       "new_pos": 64,
       "pr100_pos": 0.5,
       "new_total": 13497,
-      "total_neg": 546884,
-      "total_pos": 9860,
-      "total": 556744
+      "total_neg": 546881,
+      "total_pos": 9843,
+      "total": 556724,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-11",
-      "new_neg": 12925,
+      "new_neg": 12926,
       "new_pos": 45,
       "pr100_pos": 0.3,
-      "new_total": 12970,
-      "total_neg": 559809,
-      "total_pos": 9905,
-      "total": 569714
+      "new_total": 12971,
+      "total_neg": 559807,
+      "total_pos": 9888,
+      "total": 569695,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-12",
@@ -1706,9 +1876,10 @@
       "new_pos": 66,
       "pr100_pos": 0.5,
       "new_total": 13439,
-      "total_neg": 573182,
-      "total_pos": 9971,
-      "total": 583153
+      "total_neg": 573180,
+      "total_pos": 9954,
+      "total": 583134,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-13",
@@ -1716,9 +1887,10 @@
       "new_pos": 50,
       "pr100_pos": 0.4,
       "new_total": 13263,
-      "total_neg": 586395,
-      "total_pos": 10021,
-      "total": 596416
+      "total_neg": 586393,
+      "total_pos": 10004,
+      "total": 596397,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-14",
@@ -1726,9 +1898,10 @@
       "new_pos": 74,
       "pr100_pos": 0.5,
       "new_total": 13766,
-      "total_neg": 600087,
-      "total_pos": 10095,
-      "total": 610182
+      "total_neg": 600085,
+      "total_pos": 10078,
+      "total": 610163,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-15",
@@ -1736,9 +1909,10 @@
       "new_pos": 42,
       "pr100_pos": 0.7,
       "new_total": 6025,
-      "total_neg": 606070,
-      "total_pos": 10137,
-      "total": 616207
+      "total_neg": 606068,
+      "total_pos": 10120,
+      "total": 616188,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-16",
@@ -1746,9 +1920,10 @@
       "new_pos": 29,
       "pr100_pos": 0.5,
       "new_total": 5296,
-      "total_neg": 611337,
-      "total_pos": 10166,
-      "total": 621503
+      "total_neg": 611335,
+      "total_pos": 10149,
+      "total": 621484,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-17",
@@ -1756,9 +1931,10 @@
       "new_pos": 75,
       "pr100_pos": 0.4,
       "new_total": 18268,
-      "total_neg": 629530,
-      "total_pos": 10241,
-      "total": 639771
+      "total_neg": 629528,
+      "total_pos": 10224,
+      "total": 639752,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-18",
@@ -1766,9 +1942,10 @@
       "new_pos": 55,
       "pr100_pos": 0.3,
       "new_total": 16987,
-      "total_neg": 646462,
-      "total_pos": 10296,
-      "total": 656758
+      "total_neg": 646460,
+      "total_pos": 10279,
+      "total": 656739,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-19",
@@ -1776,19 +1953,21 @@
       "new_pos": 63,
       "pr100_pos": 0.4,
       "new_total": 16535,
-      "total_neg": 662934,
-      "total_pos": 10359,
-      "total": 673293
+      "total_neg": 662932,
+      "total_pos": 10342,
+      "total": 673274,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-20",
       "new_neg": 15608,
-      "new_pos": 50,
+      "new_pos": 51,
       "pr100_pos": 0.3,
-      "new_total": 15658,
-      "total_neg": 678542,
-      "total_pos": 10409,
-      "total": 688951
+      "new_total": 15659,
+      "total_neg": 678540,
+      "total_pos": 10393,
+      "total": 688933,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-21",
@@ -1796,19 +1975,21 @@
       "new_pos": 59,
       "pr100_pos": 0.4,
       "new_total": 15269,
-      "total_neg": 693752,
-      "total_pos": 10468,
-      "total": 704220
+      "total_neg": 693750,
+      "total_pos": 10452,
+      "total": 704202,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-22",
-      "new_neg": 6755,
-      "new_pos": 48,
+      "new_neg": 6756,
+      "new_pos": 47,
       "pr100_pos": 0.7,
       "new_total": 6803,
-      "total_neg": 700507,
-      "total_pos": 10516,
-      "total": 711023
+      "total_neg": 700506,
+      "total_pos": 10499,
+      "total": 711005,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-23",
@@ -1816,9 +1997,10 @@
       "new_pos": 21,
       "pr100_pos": 0.3,
       "new_total": 6964,
-      "total_neg": 707450,
-      "total_pos": 10537,
-      "total": 717987
+      "total_neg": 707449,
+      "total_pos": 10520,
+      "total": 717969,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-24",
@@ -1826,9 +2008,10 @@
       "new_pos": 76,
       "pr100_pos": 0.4,
       "new_total": 21192,
-      "total_neg": 728566,
-      "total_pos": 10613,
-      "total": 739179
+      "total_neg": 728565,
+      "total_pos": 10596,
+      "total": 739161,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-25",
@@ -1836,19 +2019,21 @@
       "new_pos": 38,
       "pr100_pos": 0.2,
       "new_total": 19384,
-      "total_neg": 747912,
-      "total_pos": 10651,
-      "total": 758563
+      "total_neg": 747911,
+      "total_pos": 10634,
+      "total": 758545,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-26",
-      "new_neg": 18811,
+      "new_neg": 18812,
       "new_pos": 46,
       "pr100_pos": 0.2,
-      "new_total": 18857,
+      "new_total": 18858,
       "total_neg": 766723,
-      "total_pos": 10697,
-      "total": 777420
+      "total_pos": 10680,
+      "total": 777403,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-27",
@@ -1857,28 +2042,31 @@
       "pr100_pos": 0.3,
       "new_total": 17334,
       "total_neg": 784001,
-      "total_pos": 10753,
-      "total": 794754
+      "total_pos": 10736,
+      "total": 794737,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-28",
-      "new_neg": 16420,
+      "new_neg": 16419,
       "new_pos": 90,
       "pr100_pos": 0.5,
-      "new_total": 16510,
-      "total_neg": 800421,
-      "total_pos": 10843,
-      "total": 811264
+      "new_total": 16509,
+      "total_neg": 800420,
+      "total_pos": 10826,
+      "total": 811246,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-29",
-      "new_neg": 6352,
-      "new_pos": 40,
+      "new_neg": 6351,
+      "new_pos": 41,
       "pr100_pos": 0.6,
       "new_total": 6392,
-      "total_neg": 806773,
-      "total_pos": 10883,
-      "total": 817656
+      "total_neg": 806771,
+      "total_pos": 10867,
+      "total": 817638,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-30",
@@ -1886,9 +2074,10 @@
       "new_pos": 47,
       "pr100_pos": 0.7,
       "new_total": 6794,
-      "total_neg": 813520,
-      "total_pos": 10930,
-      "total": 824450
+      "total_neg": 813518,
+      "total_pos": 10914,
+      "total": 824432,
+      "source": "fhi:git"
     },
     {
       "date": "2020-08-31",
@@ -1896,9 +2085,10 @@
       "new_pos": 141,
       "pr100_pos": 0.6,
       "new_total": 22733,
-      "total_neg": 836112,
-      "total_pos": 11071,
-      "total": 847183
+      "total_neg": 836110,
+      "total_pos": 11055,
+      "total": 847165,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-01",
@@ -1906,9 +2096,10 @@
       "new_pos": 107,
       "pr100_pos": 0.5,
       "new_total": 20443,
-      "total_neg": 856448,
-      "total_pos": 11178,
-      "total": 867626
+      "total_neg": 856446,
+      "total_pos": 11162,
+      "total": 867608,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-02",
@@ -1916,9 +2107,10 @@
       "new_pos": 98,
       "pr100_pos": 0.5,
       "new_total": 19191,
-      "total_neg": 875541,
-      "total_pos": 11276,
-      "total": 886817
+      "total_neg": 875539,
+      "total_pos": 11260,
+      "total": 886799,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-03",
@@ -1926,29 +2118,32 @@
       "new_pos": 121,
       "pr100_pos": 0.7,
       "new_total": 17740,
-      "total_neg": 893160,
-      "total_pos": 11397,
-      "total": 904557
+      "total_neg": 893158,
+      "total_pos": 11381,
+      "total": 904539,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-04",
-      "new_neg": 15485,
+      "new_neg": 15484,
       "new_pos": 124,
       "pr100_pos": 0.8,
-      "new_total": 15609,
-      "total_neg": 908645,
-      "total_pos": 11521,
-      "total": 920166
+      "new_total": 15608,
+      "total_neg": 908642,
+      "total_pos": 11505,
+      "total": 920147,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-05",
-      "new_neg": 5946,
-      "new_pos": 71,
+      "new_neg": 5947,
+      "new_pos": 70,
       "pr100_pos": 1.2,
       "new_total": 6017,
-      "total_neg": 914591,
-      "total_pos": 11592,
-      "total": 926183
+      "total_neg": 914589,
+      "total_pos": 11575,
+      "total": 926164,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-06",
@@ -1956,9 +2151,10 @@
       "new_pos": 54,
       "pr100_pos": 0.8,
       "new_total": 6428,
-      "total_neg": 920965,
-      "total_pos": 11646,
-      "total": 932611
+      "total_neg": 920963,
+      "total_pos": 11629,
+      "total": 932592,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-07",
@@ -1966,9 +2162,10 @@
       "new_pos": 129,
       "pr100_pos": 0.6,
       "new_total": 21031,
-      "total_neg": 941867,
-      "total_pos": 11775,
-      "total": 953642
+      "total_neg": 941865,
+      "total_pos": 11758,
+      "total": 953623,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-08",
@@ -1976,9 +2173,10 @@
       "new_pos": 107,
       "pr100_pos": 0.6,
       "new_total": 18884,
-      "total_neg": 960644,
-      "total_pos": 11882,
-      "total": 972526
+      "total_neg": 960642,
+      "total_pos": 11865,
+      "total": 972507,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-09",
@@ -1986,9 +2184,10 @@
       "new_pos": 126,
       "pr100_pos": 0.7,
       "new_total": 17954,
-      "total_neg": 978472,
-      "total_pos": 12008,
-      "total": 990480
+      "total_neg": 978470,
+      "total_pos": 11991,
+      "total": 990461,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-10",
@@ -1996,49 +2195,54 @@
       "new_pos": 123,
       "pr100_pos": 0.8,
       "new_total": 15694,
-      "total_neg": 994043,
-      "total_pos": 12131,
-      "total": 1006174
+      "total_neg": 994041,
+      "total_pos": 12114,
+      "total": 1006155,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-11",
-      "new_neg": 14864,
+      "new_neg": 14863,
       "new_pos": 120,
       "pr100_pos": 0.8,
-      "new_total": 14984,
-      "total_neg": 1008907,
-      "total_pos": 12251,
-      "total": 1021158
+      "new_total": 14983,
+      "total_neg": 1008904,
+      "total_pos": 12234,
+      "total": 1021138,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-12",
-      "new_neg": 7047,
+      "new_neg": 7049,
       "new_pos": 62,
       "pr100_pos": 0.9,
-      "new_total": 7109,
-      "total_neg": 1015954,
-      "total_pos": 12313,
-      "total": 1028267
+      "new_total": 7111,
+      "total_neg": 1015953,
+      "total_pos": 12296,
+      "total": 1028249,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-13",
-      "new_neg": 6700,
+      "new_neg": 6699,
       "new_pos": 72,
       "pr100_pos": 1.1,
-      "new_total": 6772,
-      "total_neg": 1022654,
-      "total_pos": 12385,
-      "total": 1035039
+      "new_total": 6771,
+      "total_neg": 1022652,
+      "total_pos": 12368,
+      "total": 1035020,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-14",
-      "new_neg": 21442,
+      "new_neg": 21441,
       "new_pos": 102,
       "pr100_pos": 0.5,
-      "new_total": 21544,
-      "total_neg": 1044096,
-      "total_pos": 12487,
-      "total": 1056583
+      "new_total": 21543,
+      "total_neg": 1044093,
+      "total_pos": 12470,
+      "total": 1056563,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-15",
@@ -2046,39 +2250,43 @@
       "new_pos": 135,
       "pr100_pos": 0.7,
       "new_total": 19022,
-      "total_neg": 1062983,
-      "total_pos": 12622,
-      "total": 1075605
+      "total_neg": 1062980,
+      "total_pos": 12605,
+      "total": 1075585,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-16",
-      "new_neg": 17572,
+      "new_neg": 17570,
       "new_pos": 139,
       "pr100_pos": 0.8,
-      "new_total": 17711,
-      "total_neg": 1080555,
-      "total_pos": 12761,
-      "total": 1093316
+      "new_total": 17709,
+      "total_neg": 1080550,
+      "total_pos": 12744,
+      "total": 1093294,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-17",
-      "new_neg": 15178,
+      "new_neg": 15177,
       "new_pos": 113,
       "pr100_pos": 0.7,
-      "new_total": 15291,
-      "total_neg": 1095733,
-      "total_pos": 12874,
-      "total": 1108607
+      "new_total": 15290,
+      "total_neg": 1095727,
+      "total_pos": 12857,
+      "total": 1108584,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-18",
-      "new_neg": 14054,
+      "new_neg": 14057,
       "new_pos": 95,
       "pr100_pos": 0.7,
-      "new_total": 14149,
-      "total_neg": 1109787,
-      "total_pos": 12969,
-      "total": 1122756
+      "new_total": 14152,
+      "total_neg": 1109784,
+      "total_pos": 12952,
+      "total": 1122736,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-19",
@@ -2086,59 +2294,65 @@
       "new_pos": 59,
       "pr100_pos": 1.0,
       "new_total": 5846,
-      "total_neg": 1115574,
-      "total_pos": 13028,
-      "total": 1128602
+      "total_neg": 1115571,
+      "total_pos": 13011,
+      "total": 1128582,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-20",
-      "new_neg": 5737,
+      "new_neg": 5735,
       "new_pos": 77,
       "pr100_pos": 1.3,
-      "new_total": 5814,
-      "total_neg": 1121311,
-      "total_pos": 13105,
-      "total": 1134416
+      "new_total": 5812,
+      "total_neg": 1121306,
+      "total_pos": 13088,
+      "total": 1134394,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-21",
-      "new_neg": 20660,
+      "new_neg": 20659,
       "new_pos": 152,
       "pr100_pos": 0.7,
-      "new_total": 20812,
-      "total_neg": 1141971,
-      "total_pos": 13257,
-      "total": 1155228
+      "new_total": 20811,
+      "total_neg": 1141965,
+      "total_pos": 13240,
+      "total": 1155205,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-22",
-      "new_neg": 16713,
+      "new_neg": 16712,
       "new_pos": 101,
       "pr100_pos": 0.6,
-      "new_total": 16814,
-      "total_neg": 1158684,
-      "total_pos": 13358,
-      "total": 1172042
+      "new_total": 16813,
+      "total_neg": 1158677,
+      "total_pos": 13341,
+      "total": 1172018,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-23",
       "new_neg": 16229,
-      "new_pos": 143,
+      "new_pos": 142,
       "pr100_pos": 0.9,
-      "new_total": 16372,
-      "total_neg": 1174913,
-      "total_pos": 13501,
-      "total": 1188414
+      "new_total": 16371,
+      "total_neg": 1174906,
+      "total_pos": 13483,
+      "total": 1188389,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-24",
-      "new_neg": 14375,
+      "new_neg": 14373,
       "new_pos": 125,
       "pr100_pos": 0.9,
-      "new_total": 14500,
-      "total_neg": 1189288,
-      "total_pos": 13626,
-      "total": 1202914
+      "new_total": 14498,
+      "total_neg": 1189279,
+      "total_pos": 13608,
+      "total": 1202887,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-25",
@@ -2146,49 +2360,54 @@
       "new_pos": 136,
       "pr100_pos": 1.0,
       "new_total": 13911,
-      "total_neg": 1203063,
-      "total_pos": 13762,
-      "total": 1216825
+      "total_neg": 1203054,
+      "total_pos": 13744,
+      "total": 1216798,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-26",
-      "new_neg": 5973,
+      "new_neg": 5976,
       "new_pos": 64,
       "pr100_pos": 1.1,
-      "new_total": 6037,
-      "total_neg": 1209036,
-      "total_pos": 13826,
-      "total": 1222862
+      "new_total": 6040,
+      "total_neg": 1209030,
+      "total_pos": 13808,
+      "total": 1222838,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-27",
-      "new_neg": 5942,
+      "new_neg": 5937,
       "new_pos": 52,
       "pr100_pos": 0.9,
-      "new_total": 5994,
-      "total_neg": 1214978,
-      "total_pos": 13878,
-      "total": 1228856
+      "new_total": 5989,
+      "total_neg": 1214967,
+      "total_pos": 13860,
+      "total": 1228827,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-28",
-      "new_neg": 19130,
+      "new_neg": 19127,
       "new_pos": 125,
       "pr100_pos": 0.6,
-      "new_total": 19255,
-      "total_neg": 1234108,
-      "total_pos": 14003,
-      "total": 1248111
+      "new_total": 19252,
+      "total_neg": 1234094,
+      "total_pos": 13985,
+      "total": 1248079,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-29",
-      "new_neg": 15430,
+      "new_neg": 15431,
       "new_pos": 110,
       "pr100_pos": 0.7,
-      "new_total": 15540,
-      "total_neg": 1249538,
-      "total_pos": 14113,
-      "total": 1263651
+      "new_total": 15541,
+      "total_neg": 1249525,
+      "total_pos": 14095,
+      "total": 1263620,
+      "source": "fhi:git"
     },
     {
       "date": "2020-09-30",
@@ -2196,29 +2415,32 @@
       "new_pos": 124,
       "pr100_pos": 0.8,
       "new_total": 14996,
-      "total_neg": 1264410,
-      "total_pos": 14237,
-      "total": 1278647
+      "total_neg": 1264397,
+      "total_pos": 14219,
+      "total": 1278616,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-01",
-      "new_neg": 12827,
+      "new_neg": 12829,
       "new_pos": 128,
       "pr100_pos": 1.0,
-      "new_total": 12955,
-      "total_neg": 1277237,
-      "total_pos": 14365,
-      "total": 1291602
+      "new_total": 12957,
+      "total_neg": 1277226,
+      "total_pos": 14347,
+      "total": 1291573,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-02",
-      "new_neg": 13064,
+      "new_neg": 13068,
       "new_pos": 123,
       "pr100_pos": 0.9,
-      "new_total": 13187,
-      "total_neg": 1290301,
-      "total_pos": 14488,
-      "total": 1304789
+      "new_total": 13191,
+      "total_neg": 1290294,
+      "total_pos": 14470,
+      "total": 1304764,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-03",
@@ -2226,29 +2448,32 @@
       "new_pos": 105,
       "pr100_pos": 1.8,
       "new_total": 5826,
-      "total_neg": 1296022,
-      "total_pos": 14593,
-      "total": 1310615
+      "total_neg": 1296015,
+      "total_pos": 14575,
+      "total": 1310590,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-04",
-      "new_neg": 5962,
+      "new_neg": 5961,
       "new_pos": 82,
       "pr100_pos": 1.4,
-      "new_total": 6044,
-      "total_neg": 1301984,
-      "total_pos": 14675,
-      "total": 1316659
+      "new_total": 6043,
+      "total_neg": 1301976,
+      "total_pos": 14657,
+      "total": 1316633,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-05",
-      "new_neg": 19147,
+      "new_neg": 19143,
       "new_pos": 198,
       "pr100_pos": 1.0,
-      "new_total": 19345,
-      "total_neg": 1321131,
-      "total_pos": 14873,
-      "total": 1336004
+      "new_total": 19341,
+      "total_neg": 1321119,
+      "total_pos": 14855,
+      "total": 1335974,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-06",
@@ -2256,19 +2481,21 @@
       "new_pos": 199,
       "pr100_pos": 1.3,
       "new_total": 15017,
-      "total_neg": 1335949,
-      "total_pos": 15072,
-      "total": 1351021
+      "total_neg": 1335937,
+      "total_pos": 15054,
+      "total": 1350991,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-07",
       "new_neg": 14165,
-      "new_pos": 204,
+      "new_pos": 205,
       "pr100_pos": 1.4,
-      "new_total": 14369,
-      "total_neg": 1350114,
-      "total_pos": 15276,
-      "total": 1365390
+      "new_total": 14370,
+      "total_neg": 1350102,
+      "total_pos": 15259,
+      "total": 1365361,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-08",
@@ -2276,49 +2503,54 @@
       "new_pos": 158,
       "pr100_pos": 1.2,
       "new_total": 13131,
-      "total_neg": 1363087,
-      "total_pos": 15434,
-      "total": 1378521
+      "total_neg": 1363075,
+      "total_pos": 15417,
+      "total": 1378492,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-09",
-      "new_neg": 12673,
-      "new_pos": 138,
+      "new_neg": 12675,
+      "new_pos": 139,
       "pr100_pos": 1.1,
-      "new_total": 12811,
-      "total_neg": 1375760,
-      "total_pos": 15572,
-      "total": 1391332
+      "new_total": 12814,
+      "total_neg": 1375750,
+      "total_pos": 15556,
+      "total": 1391306,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-10",
-      "new_neg": 5869,
+      "new_neg": 5868,
       "new_pos": 62,
       "pr100_pos": 1.0,
-      "new_total": 5931,
-      "total_neg": 1381629,
-      "total_pos": 15634,
-      "total": 1397263
+      "new_total": 5930,
+      "total_neg": 1381618,
+      "total_pos": 15618,
+      "total": 1397236,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-11",
-      "new_neg": 6427,
+      "new_neg": 6424,
       "new_pos": 77,
       "pr100_pos": 1.2,
-      "new_total": 6504,
-      "total_neg": 1388056,
-      "total_pos": 15711,
-      "total": 1403767
+      "new_total": 6501,
+      "total_neg": 1388042,
+      "total_pos": 15695,
+      "total": 1403737,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-12",
-      "new_neg": 19774,
-      "new_pos": 155,
+      "new_neg": 19768,
+      "new_pos": 151,
       "pr100_pos": 0.8,
-      "new_total": 19929,
-      "total_neg": 1407830,
-      "total_pos": 15866,
-      "total": 1423696
+      "new_total": 19919,
+      "total_neg": 1407810,
+      "total_pos": 15846,
+      "total": 1423656,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-13",
@@ -2326,19 +2558,21 @@
       "new_pos": 146,
       "pr100_pos": 0.9,
       "new_total": 15833,
-      "total_neg": 1423517,
-      "total_pos": 16012,
-      "total": 1439529
+      "total_neg": 1423497,
+      "total_pos": 15992,
+      "total": 1439489,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-14",
       "new_neg": 15173,
-      "new_pos": 164,
+      "new_pos": 162,
       "pr100_pos": 1.1,
-      "new_total": 15337,
-      "total_neg": 1438690,
-      "total_pos": 16176,
-      "total": 1454866
+      "new_total": 15335,
+      "total_neg": 1438670,
+      "total_pos": 16154,
+      "total": 1454824,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-15",
@@ -2346,19 +2580,21 @@
       "new_pos": 137,
       "pr100_pos": 1.0,
       "new_total": 13856,
-      "total_neg": 1452409,
-      "total_pos": 16313,
-      "total": 1468722
+      "total_neg": 1452389,
+      "total_pos": 16291,
+      "total": 1468680,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-16",
-      "new_neg": 12997,
+      "new_neg": 13001,
       "new_pos": 133,
       "pr100_pos": 1.0,
-      "new_total": 13130,
-      "total_neg": 1465406,
-      "total_pos": 16446,
-      "total": 1481852
+      "new_total": 13134,
+      "total_neg": 1465390,
+      "total_pos": 16424,
+      "total": 1481814,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-17",
@@ -2366,69 +2602,76 @@
       "new_pos": 81,
       "pr100_pos": 1.4,
       "new_total": 5970,
-      "total_neg": 1471295,
-      "total_pos": 16527,
-      "total": 1487822
+      "total_neg": 1471279,
+      "total_pos": 16505,
+      "total": 1487784,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-18",
-      "new_neg": 6360,
+      "new_neg": 6358,
       "new_pos": 90,
       "pr100_pos": 1.4,
-      "new_total": 6450,
-      "total_neg": 1477655,
-      "total_pos": 16617,
-      "total": 1494272
+      "new_total": 6448,
+      "total_neg": 1477637,
+      "total_pos": 16595,
+      "total": 1494232,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-19",
-      "new_neg": 20527,
-      "new_pos": 207,
+      "new_neg": 20525,
+      "new_pos": 210,
       "pr100_pos": 1.0,
-      "new_total": 20734,
-      "total_neg": 1498182,
-      "total_pos": 16824,
-      "total": 1515006
+      "new_total": 20735,
+      "total_neg": 1498162,
+      "total_pos": 16805,
+      "total": 1514967,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-20",
-      "new_neg": 16895,
+      "new_neg": 16896,
       "new_pos": 180,
       "pr100_pos": 1.1,
-      "new_total": 17075,
-      "total_neg": 1515077,
-      "total_pos": 17004,
-      "total": 1532081
+      "new_total": 17076,
+      "total_neg": 1515058,
+      "total_pos": 16985,
+      "total": 1532043,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-21",
-      "new_neg": 16034,
+      "new_neg": 16032,
       "new_pos": 225,
       "pr100_pos": 1.4,
-      "new_total": 16259,
-      "total_neg": 1531111,
-      "total_pos": 17229,
-      "total": 1548340
+      "new_total": 16257,
+      "total_neg": 1531090,
+      "total_pos": 17210,
+      "total": 1548300,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-22",
-      "new_neg": 15396,
-      "new_pos": 267,
+      "new_neg": 15395,
+      "new_pos": 269,
       "pr100_pos": 1.7,
-      "new_total": 15663,
-      "total_neg": 1546507,
-      "total_pos": 17496,
-      "total": 1564003
+      "new_total": 15664,
+      "total_neg": 1546485,
+      "total_pos": 17479,
+      "total": 1563964,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-23",
-      "new_neg": 15133,
+      "new_neg": 15135,
       "new_pos": 362,
       "pr100_pos": 2.3,
-      "new_total": 15495,
-      "total_neg": 1561640,
-      "total_pos": 17858,
-      "total": 1579498
+      "new_total": 15497,
+      "total_neg": 1561620,
+      "total_pos": 17841,
+      "total": 1579461,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-24",
@@ -2436,69 +2679,76 @@
       "new_pos": 229,
       "pr100_pos": 3.0,
       "new_total": 7549,
-      "total_neg": 1568960,
-      "total_pos": 18087,
-      "total": 1587047
+      "total_neg": 1568940,
+      "total_pos": 18070,
+      "total": 1587010,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-25",
-      "new_neg": 7640,
+      "new_neg": 7634,
       "new_pos": 189,
       "pr100_pos": 2.4,
-      "new_total": 7829,
-      "total_neg": 1576600,
-      "total_pos": 18276,
-      "total": 1594876
+      "new_total": 7823,
+      "total_neg": 1576574,
+      "total_pos": 18259,
+      "total": 1594833,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-26",
-      "new_neg": 23181,
+      "new_neg": 23179,
       "new_pos": 457,
       "pr100_pos": 1.9,
-      "new_total": 23638,
-      "total_neg": 1599781,
-      "total_pos": 18733,
-      "total": 1618514
+      "new_total": 23636,
+      "total_neg": 1599753,
+      "total_pos": 18716,
+      "total": 1618469,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-27",
-      "new_neg": 20702,
+      "new_neg": 20704,
       "new_pos": 378,
       "pr100_pos": 1.8,
-      "new_total": 21080,
-      "total_neg": 1620483,
-      "total_pos": 19111,
-      "total": 1639594
+      "new_total": 21082,
+      "total_neg": 1620457,
+      "total_pos": 19094,
+      "total": 1639551,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-28",
       "new_neg": 20844,
-      "new_pos": 521,
+      "new_pos": 522,
       "pr100_pos": 2.4,
-      "new_total": 21365,
-      "total_neg": 1641327,
-      "total_pos": 19632,
-      "total": 1660959
+      "new_total": 21366,
+      "total_neg": 1641301,
+      "total_pos": 19616,
+      "total": 1660917,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-29",
-      "new_neg": 20689,
-      "new_pos": 423,
+      "new_neg": 20691,
+      "new_pos": 421,
       "pr100_pos": 2.0,
       "new_total": 21112,
-      "total_neg": 1662016,
-      "total_pos": 20055,
-      "total": 1682071
+      "total_neg": 1661992,
+      "total_pos": 20037,
+      "total": 1682029,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-30",
-      "new_neg": 20119,
+      "new_neg": 20125,
       "new_pos": 606,
       "pr100_pos": 2.9,
-      "new_total": 20725,
-      "total_neg": 1682135,
-      "total_pos": 20661,
-      "total": 1702796
+      "new_total": 20731,
+      "total_neg": 1682117,
+      "total_pos": 20643,
+      "total": 1702760,
+      "source": "fhi:git"
     },
     {
       "date": "2020-10-31",
@@ -2506,169 +2756,824 @@
       "new_pos": 378,
       "pr100_pos": 3.9,
       "new_total": 9663,
-      "total_neg": 1691420,
-      "total_pos": 21039,
-      "total": 1712459
+      "total_neg": 1691402,
+      "total_pos": 21021,
+      "total": 1712423,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-01",
-      "new_neg": 9477,
+      "new_neg": 9474,
       "new_pos": 315,
       "pr100_pos": 3.2,
-      "new_total": 9792,
-      "total_neg": 1700897,
-      "total_pos": 21354,
-      "total": 1722251
+      "new_total": 9789,
+      "total_neg": 1700876,
+      "total_pos": 21336,
+      "total": 1722212,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-02",
-      "new_neg": 27399,
+      "new_neg": 27402,
       "new_pos": 634,
       "pr100_pos": 2.3,
-      "new_total": 28033,
-      "total_neg": 1728296,
-      "total_pos": 21988,
-      "total": 1750284
+      "new_total": 28036,
+      "total_neg": 1728278,
+      "total_pos": 21970,
+      "total": 1750248,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-03",
-      "new_neg": 26700,
-      "new_pos": 645,
+      "new_neg": 26702,
+      "new_pos": 643,
       "pr100_pos": 2.4,
       "new_total": 27345,
-      "total_neg": 1754996,
-      "total_pos": 22633,
-      "total": 1777629
+      "total_neg": 1754980,
+      "total_pos": 22613,
+      "total": 1777593,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-04",
-      "new_neg": 25223,
+      "new_neg": 25229,
       "new_pos": 655,
       "pr100_pos": 2.5,
-      "new_total": 25878,
-      "total_neg": 1780219,
-      "total_pos": 23288,
-      "total": 1803507
+      "new_total": 25884,
+      "total_neg": 1780209,
+      "total_pos": 23268,
+      "total": 1803477,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-05",
-      "new_neg": 27309,
+      "new_neg": 27311,
       "new_pos": 553,
       "pr100_pos": 2.0,
-      "new_total": 27862,
-      "total_neg": 1807528,
-      "total_pos": 23841,
-      "total": 1831369
+      "new_total": 27864,
+      "total_neg": 1807520,
+      "total_pos": 23821,
+      "total": 1831341,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-06",
-      "new_neg": 26762,
+      "new_neg": 26765,
       "new_pos": 618,
       "pr100_pos": 2.3,
-      "new_total": 27380,
-      "total_neg": 1834290,
-      "total_pos": 24459,
-      "total": 1858749
+      "new_total": 27383,
+      "total_neg": 1834285,
+      "total_pos": 24439,
+      "total": 1858724,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-07",
-      "new_neg": 12202,
+      "new_neg": 12203,
       "new_pos": 369,
       "pr100_pos": 2.9,
-      "new_total": 12571,
-      "total_neg": 1846492,
-      "total_pos": 24828,
-      "total": 1871320
+      "new_total": 12572,
+      "total_neg": 1846488,
+      "total_pos": 24808,
+      "total": 1871296,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-08",
-      "new_neg": 11397,
+      "new_neg": 11395,
       "new_pos": 360,
       "pr100_pos": 3.1,
-      "new_total": 11757,
-      "total_neg": 1857889,
-      "total_pos": 25188,
-      "total": 1883077
+      "new_total": 11755,
+      "total_neg": 1857883,
+      "total_pos": 25168,
+      "total": 1883051,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-09",
-      "new_neg": 30474,
+      "new_neg": 30473,
       "new_pos": 659,
       "pr100_pos": 2.1,
-      "new_total": 31133,
-      "total_neg": 1888363,
-      "total_pos": 25847,
-      "total": 1914210
+      "new_total": 31132,
+      "total_neg": 1888356,
+      "total_pos": 25827,
+      "total": 1914183,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-10",
-      "new_neg": 25136,
-      "new_pos": 574,
+      "new_neg": 25138,
+      "new_pos": 577,
       "pr100_pos": 2.2,
-      "new_total": 25710,
-      "total_neg": 1913499,
-      "total_pos": 26421,
-      "total": 1939920
+      "new_total": 25715,
+      "total_neg": 1913494,
+      "total_pos": 26404,
+      "total": 1939898,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-11",
-      "new_neg": 23220,
-      "new_pos": 629,
+      "new_neg": 23237,
+      "new_pos": 631,
       "pr100_pos": 2.6,
-      "new_total": 23849,
-      "total_neg": 1936719,
-      "total_pos": 27050,
-      "total": 1963769
+      "new_total": 23868,
+      "total_neg": 1936731,
+      "total_pos": 27035,
+      "total": 1963766,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-12",
-      "new_neg": 22854,
-      "new_pos": 607,
+      "new_neg": 23072,
+      "new_pos": 608,
       "pr100_pos": 2.6,
-      "new_total": 23461,
-      "total_neg": 1959573,
-      "total_pos": 27657,
-      "total": 1987230
+      "new_total": 23680,
+      "total_neg": 1959803,
+      "total_pos": 27643,
+      "total": 1987446,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-13",
-      "new_neg": 20850,
-      "new_pos": 656,
-      "pr100_pos": 3.1,
-      "new_total": 21506,
-      "total_neg": 1980423,
-      "total_pos": 28313,
-      "total": 2008736
+      "new_neg": 21511,
+      "new_pos": 663,
+      "pr100_pos": 3.0,
+      "new_total": 22174,
+      "total_neg": 1981314,
+      "total_pos": 28306,
+      "total": 2009620,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-14",
-      "new_neg": 9213,
-      "new_pos": 350,
-      "pr100_pos": 3.7,
-      "new_total": 9563,
-      "total_neg": 1989636,
-      "total_pos": 28663,
-      "total": 2018299
+      "new_neg": 9558,
+      "new_pos": 360,
+      "pr100_pos": 3.6,
+      "new_total": 9918,
+      "total_neg": 1990872,
+      "total_pos": 28666,
+      "total": 2019538,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-15",
-      "new_neg": 8284,
-      "new_pos": 262,
-      "pr100_pos": 3.1,
-      "new_total": 8546,
-      "total_neg": 1997920,
-      "total_pos": 28925,
-      "total": 2026845
+      "new_neg": 10581,
+      "new_pos": 385,
+      "pr100_pos": 3.5,
+      "new_total": 10966,
+      "total_neg": 2001453,
+      "total_pos": 29051,
+      "total": 2030504,
+      "source": "fhi:git"
     },
     {
       "date": "2020-11-16",
-      "new_neg": 4143,
-      "new_pos": 72,
+      "new_neg": 27842,
+      "new_pos": 659,
+      "pr100_pos": 2.3,
+      "new_total": 28501,
+      "total_neg": 2029295,
+      "total_pos": 29710,
+      "total": 2059005,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-17",
+      "new_neg": 21235,
+      "new_pos": 588,
+      "pr100_pos": 2.7,
+      "new_total": 21823,
+      "total_neg": 2050530,
+      "total_pos": 30298,
+      "total": 2080828,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-18",
+      "new_neg": 20989,
+      "new_pos": 615,
+      "pr100_pos": 2.8,
+      "new_total": 21604,
+      "total_neg": 2071519,
+      "total_pos": 30913,
+      "total": 2102432,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-19",
+      "new_neg": 18855,
+      "new_pos": 540,
+      "pr100_pos": 2.8,
+      "new_total": 19395,
+      "total_neg": 2090374,
+      "total_pos": 31453,
+      "total": 2121827,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-20",
+      "new_neg": 17657,
+      "new_pos": 496,
+      "pr100_pos": 2.7,
+      "new_total": 18153,
+      "total_neg": 2108031,
+      "total_pos": 31949,
+      "total": 2139980,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-21",
+      "new_neg": 8030,
+      "new_pos": 279,
+      "pr100_pos": 3.4,
+      "new_total": 8309,
+      "total_neg": 2116061,
+      "total_pos": 32228,
+      "total": 2148289,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-22",
+      "new_neg": 8123,
+      "new_pos": 260,
+      "pr100_pos": 3.1,
+      "new_total": 8383,
+      "total_neg": 2124184,
+      "total_pos": 32488,
+      "total": 2156672,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-23",
+      "new_neg": 25210,
+      "new_pos": 567,
+      "pr100_pos": 2.2,
+      "new_total": 25777,
+      "total_neg": 2149394,
+      "total_pos": 33055,
+      "total": 2182449,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-24",
+      "new_neg": 19144,
+      "new_pos": 382,
+      "pr100_pos": 2.0,
+      "new_total": 19526,
+      "total_neg": 2168538,
+      "total_pos": 33437,
+      "total": 2201975,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-25",
+      "new_neg": 18944,
+      "new_pos": 486,
+      "pr100_pos": 2.5,
+      "new_total": 19430,
+      "total_neg": 2187482,
+      "total_pos": 33923,
+      "total": 2221405,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-26",
+      "new_neg": 18168,
+      "new_pos": 441,
+      "pr100_pos": 2.4,
+      "new_total": 18609,
+      "total_neg": 2205650,
+      "total_pos": 34364,
+      "total": 2240014,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-27",
+      "new_neg": 15524,
+      "new_pos": 423,
+      "pr100_pos": 2.7,
+      "new_total": 15947,
+      "total_neg": 2221174,
+      "total_pos": 34787,
+      "total": 2255961,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-28",
+      "new_neg": 6814,
+      "new_pos": 207,
+      "pr100_pos": 2.9,
+      "new_total": 7021,
+      "total_neg": 2227988,
+      "total_pos": 34994,
+      "total": 2262982,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-29",
+      "new_neg": 6898,
+      "new_pos": 210,
+      "pr100_pos": 3.0,
+      "new_total": 7108,
+      "total_neg": 2234886,
+      "total_pos": 35204,
+      "total": 2270090,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-11-30",
+      "new_neg": 22589,
+      "new_pos": 410,
+      "pr100_pos": 1.8,
+      "new_total": 22999,
+      "total_neg": 2257475,
+      "total_pos": 35614,
+      "total": 2293089,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-01",
+      "new_neg": 18031,
+      "new_pos": 326,
+      "pr100_pos": 1.8,
+      "new_total": 18357,
+      "total_neg": 2275506,
+      "total_pos": 35940,
+      "total": 2311446,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-02",
+      "new_neg": 17264,
+      "new_pos": 377,
+      "pr100_pos": 2.1,
+      "new_total": 17641,
+      "total_neg": 2292770,
+      "total_pos": 36317,
+      "total": 2329087,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-03",
+      "new_neg": 17210,
+      "new_pos": 377,
+      "pr100_pos": 2.1,
+      "new_total": 17587,
+      "total_neg": 2309980,
+      "total_pos": 36694,
+      "total": 2346674,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-04",
+      "new_neg": 15353,
+      "new_pos": 358,
+      "pr100_pos": 2.3,
+      "new_total": 15711,
+      "total_neg": 2325333,
+      "total_pos": 37052,
+      "total": 2362385,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-05",
+      "new_neg": 6573,
+      "new_pos": 228,
+      "pr100_pos": 3.4,
+      "new_total": 6801,
+      "total_neg": 2331906,
+      "total_pos": 37280,
+      "total": 2369186,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-06",
+      "new_neg": 7133,
+      "new_pos": 262,
+      "pr100_pos": 3.5,
+      "new_total": 7395,
+      "total_neg": 2339039,
+      "total_pos": 37542,
+      "total": 2376581,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-07",
+      "new_neg": 23237,
+      "new_pos": 465,
+      "pr100_pos": 2.0,
+      "new_total": 23702,
+      "total_neg": 2362276,
+      "total_pos": 38007,
+      "total": 2400283,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-08",
+      "new_neg": 18681,
+      "new_pos": 360,
+      "pr100_pos": 1.9,
+      "new_total": 19041,
+      "total_neg": 2380957,
+      "total_pos": 38367,
+      "total": 2419324,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-09",
+      "new_neg": 18477,
+      "new_pos": 429,
+      "pr100_pos": 2.3,
+      "new_total": 18906,
+      "total_neg": 2399434,
+      "total_pos": 38796,
+      "total": 2438230,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-10",
+      "new_neg": 18928,
+      "new_pos": 410,
+      "pr100_pos": 2.1,
+      "new_total": 19338,
+      "total_neg": 2418362,
+      "total_pos": 39206,
+      "total": 2457568,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-11",
+      "new_neg": 17471,
+      "new_pos": 371,
+      "pr100_pos": 2.1,
+      "new_total": 17842,
+      "total_neg": 2435833,
+      "total_pos": 39577,
+      "total": 2475410,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-12",
+      "new_neg": 8763,
+      "new_pos": 239,
+      "pr100_pos": 2.7,
+      "new_total": 9002,
+      "total_neg": 2444596,
+      "total_pos": 39816,
+      "total": 2484412,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-13",
+      "new_neg": 8881,
+      "new_pos": 256,
+      "pr100_pos": 2.8,
+      "new_total": 9137,
+      "total_neg": 2453477,
+      "total_pos": 40072,
+      "total": 2493549,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-14",
+      "new_neg": 25624,
+      "new_pos": 461,
+      "pr100_pos": 1.8,
+      "new_total": 26085,
+      "total_neg": 2479101,
+      "total_pos": 40533,
+      "total": 2519634,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-15",
+      "new_neg": 22236,
+      "new_pos": 381,
       "pr100_pos": 1.7,
-      "new_total": 4215,
-      "total_neg": 2002063,
-      "total_pos": 28997,
-      "total": 2031060
+      "new_total": 22617,
+      "total_neg": 2501337,
+      "total_pos": 40914,
+      "total": 2542251,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-16",
+      "new_neg": 22730,
+      "new_pos": 430,
+      "pr100_pos": 1.9,
+      "new_total": 23160,
+      "total_neg": 2524067,
+      "total_pos": 41344,
+      "total": 2565411,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-17",
+      "new_neg": 23577,
+      "new_pos": 377,
+      "pr100_pos": 1.6,
+      "new_total": 23954,
+      "total_neg": 2547644,
+      "total_pos": 41721,
+      "total": 2589365,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-18",
+      "new_neg": 23839,
+      "new_pos": 432,
+      "pr100_pos": 1.8,
+      "new_total": 24271,
+      "total_neg": 2571483,
+      "total_pos": 42153,
+      "total": 2613636,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-19",
+      "new_neg": 13036,
+      "new_pos": 292,
+      "pr100_pos": 2.2,
+      "new_total": 13328,
+      "total_neg": 2584519,
+      "total_pos": 42445,
+      "total": 2626964,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-20",
+      "new_neg": 12447,
+      "new_pos": 268,
+      "pr100_pos": 2.1,
+      "new_total": 12715,
+      "total_neg": 2596966,
+      "total_pos": 42713,
+      "total": 2639679,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-21",
+      "new_neg": 31266,
+      "new_pos": 537,
+      "pr100_pos": 1.7,
+      "new_total": 31803,
+      "total_neg": 2628232,
+      "total_pos": 43250,
+      "total": 2671482,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-22",
+      "new_neg": 26058,
+      "new_pos": 504,
+      "pr100_pos": 1.9,
+      "new_total": 26562,
+      "total_neg": 2654290,
+      "total_pos": 43754,
+      "total": 2698044,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-23",
+      "new_neg": 17838,
+      "new_pos": 541,
+      "pr100_pos": 2.9,
+      "new_total": 18379,
+      "total_neg": 2672128,
+      "total_pos": 44295,
+      "total": 2716423,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-24",
+      "new_neg": 5832,
+      "new_pos": 274,
+      "pr100_pos": 4.5,
+      "new_total": 6106,
+      "total_neg": 2677960,
+      "total_pos": 44569,
+      "total": 2722529,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-25",
+      "new_neg": 6333,
+      "new_pos": 257,
+      "pr100_pos": 3.9,
+      "new_total": 6590,
+      "total_neg": 2684293,
+      "total_pos": 44826,
+      "total": 2729119,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-26",
+      "new_neg": 10505,
+      "new_pos": 419,
+      "pr100_pos": 3.8,
+      "new_total": 10924,
+      "total_neg": 2694798,
+      "total_pos": 45245,
+      "total": 2740043,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-27",
+      "new_neg": 9923,
+      "new_pos": 380,
+      "pr100_pos": 3.7,
+      "new_total": 10303,
+      "total_neg": 2704721,
+      "total_pos": 45625,
+      "total": 2750346,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-28",
+      "new_neg": 21065,
+      "new_pos": 712,
+      "pr100_pos": 3.3,
+      "new_total": 21777,
+      "total_neg": 2725786,
+      "total_pos": 46337,
+      "total": 2772123,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-29",
+      "new_neg": 18699,
+      "new_pos": 655,
+      "pr100_pos": 3.4,
+      "new_total": 19354,
+      "total_neg": 2744485,
+      "total_pos": 46992,
+      "total": 2791477,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-30",
+      "new_neg": 18557,
+      "new_pos": 590,
+      "pr100_pos": 3.1,
+      "new_total": 19147,
+      "total_neg": 2763042,
+      "total_pos": 47582,
+      "total": 2810624,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2020-12-31",
+      "new_neg": 8687,
+      "new_pos": 384,
+      "pr100_pos": 4.2,
+      "new_total": 9071,
+      "total_neg": 2771729,
+      "total_pos": 47966,
+      "total": 2819695,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-01",
+      "new_neg": 6956,
+      "new_pos": 312,
+      "pr100_pos": 4.3,
+      "new_total": 7268,
+      "total_neg": 2778685,
+      "total_pos": 48278,
+      "total": 2826963,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-02",
+      "new_neg": 14847,
+      "new_pos": 467,
+      "pr100_pos": 3.0,
+      "new_total": 15314,
+      "total_neg": 2793532,
+      "total_pos": 48745,
+      "total": 2842277,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-03",
+      "new_neg": 14904,
+      "new_pos": 400,
+      "pr100_pos": 2.6,
+      "new_total": 15304,
+      "total_neg": 2808436,
+      "total_pos": 49145,
+      "total": 2857581,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-04",
+      "new_neg": 37073,
+      "new_pos": 868,
+      "pr100_pos": 2.3,
+      "new_total": 37941,
+      "total_neg": 2845509,
+      "total_pos": 50013,
+      "total": 2895522,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-05",
+      "new_neg": 30983,
+      "new_pos": 736,
+      "pr100_pos": 2.3,
+      "new_total": 31719,
+      "total_neg": 2876492,
+      "total_pos": 50749,
+      "total": 2927241,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-06",
+      "new_neg": 29178,
+      "new_pos": 648,
+      "pr100_pos": 2.2,
+      "new_total": 29826,
+      "total_neg": 2905670,
+      "total_pos": 51397,
+      "total": 2957067,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-07",
+      "new_neg": 28545,
+      "new_pos": 657,
+      "pr100_pos": 2.2,
+      "new_total": 29202,
+      "total_neg": 2934215,
+      "total_pos": 52054,
+      "total": 2986269,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-08",
+      "new_neg": 27003,
+      "new_pos": 583,
+      "pr100_pos": 2.1,
+      "new_total": 27586,
+      "total_neg": 2961218,
+      "total_pos": 52637,
+      "total": 3013855,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-09",
+      "new_neg": 15019,
+      "new_pos": 353,
+      "pr100_pos": 2.3,
+      "new_total": 15372,
+      "total_neg": 2976237,
+      "total_pos": 52990,
+      "total": 3029227,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-10",
+      "new_neg": 14249,
+      "new_pos": 380,
+      "pr100_pos": 2.6,
+      "new_total": 14629,
+      "total_neg": 2990486,
+      "total_pos": 53370,
+      "total": 3043856,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-11",
+      "new_neg": 31864,
+      "new_pos": 548,
+      "pr100_pos": 1.7,
+      "new_total": 32412,
+      "total_neg": 3022350,
+      "total_pos": 53918,
+      "total": 3076268,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-12",
+      "new_neg": 20865,
+      "new_pos": 421,
+      "pr100_pos": 2.0,
+      "new_total": 21286,
+      "total_neg": 3043215,
+      "total_pos": 54339,
+      "total": 3097554,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-13",
+      "new_neg": 5315,
+      "new_pos": 60,
+      "pr100_pos": 1.1,
+      "new_total": 5375,
+      "total_neg": 3048530,
+      "total_pos": 54399,
+      "total": 3102929,
+      "source": "fhi:git"
     }
   ]
 }

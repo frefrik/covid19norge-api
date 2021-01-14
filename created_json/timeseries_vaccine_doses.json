@@ -1,0 +1,112 @@
+{
+  "vaccine_doses": [
+    {
+      "date": "2020-12-27",
+      "new_doses_administered": 5,
+      "total_doses_administered": 5,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2020-12-28",
+      "new_doses_administered": 591,
+      "total_doses_administered": 596,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2020-12-29",
+      "new_doses_administered": 1066,
+      "total_doses_administered": 1662,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2020-12-30",
+      "new_doses_administered": 420,
+      "total_doses_administered": 2082,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2020-12-31",
+      "new_doses_administered": 72,
+      "total_doses_administered": 2154,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-01",
+      "new_doses_administered": 5,
+      "total_doses_administered": 2159,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-02",
+      "new_doses_administered": 0,
+      "total_doses_administered": 2159,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-03",
+      "new_doses_administered": 0,
+      "total_doses_administered": 2159,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-04",
+      "new_doses_administered": 0,
+      "total_doses_administered": 2159,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-05",
+      "new_doses_administered": 3331,
+      "total_doses_administered": 5490,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-06",
+      "new_doses_administered": 8572,
+      "total_doses_administered": 14062,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-07",
+      "new_doses_administered": 6188,
+      "total_doses_administered": 20250,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-08",
+      "new_doses_administered": 1357,
+      "total_doses_administered": 21607,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-09",
+      "new_doses_administered": 128,
+      "total_doses_administered": 21735,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-10",
+      "new_doses_administered": 104,
+      "total_doses_administered": 21839,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-11",
+      "new_doses_administered": 341,
+      "total_doses_administered": 22180,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-12",
+      "new_doses_administered": 3809,
+      "total_doses_administered": 25989,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-13",
+      "new_doses_administered": 7622,
+      "total_doses_administered": 33611,
+      "source": "fhi:web"
+    }
+  ]
+}
