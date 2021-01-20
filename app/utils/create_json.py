@@ -36,6 +36,11 @@ def current():
     except KeyError:
         vaccine_newToday = 0
 
+    try:
+        vaccine_newYesterday = vaccine_doses.new.at[yesterday]
+    except KeyError:
+        vaccine_newYesterday = 0
+
     r = {
         'area': {
             'code': '00',
@@ -117,7 +122,7 @@ def current():
             },
             'vaccine_doses': {
                 'newToday': int(vaccine_newToday),
-                'newYesterday': int(vaccine_doses.new.at[yesterday]),
+                'newYesterday': int(vaccine_newYesterday),
                 'newSince_d7': int(vaccine_doses.new.tail(7).sum()),
                 'newSince_d8': int(vaccine_doses.new.tail(8).sum()),
                 'newSince_d14': int(vaccine_doses.new.tail(14).sum()),
