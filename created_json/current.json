@@ -7,89 +7,89 @@
   },
   "data": {
     "tested": {
-      "newToday": 57967,
-      "newYesterday": 0,
-      "newSince_d7": 179550,
-      "newSince_d8": 245004,
-      "newSince_d14": 334086,
-      "newSince_d15": 334086,
-      "newDaily_avg_7": 25650.0,
-      "newDaily_avg_14": 23863.29,
-      "total": 3122606,
+      "newToday": 21406,
+      "newYesterday": 13648,
+      "newSince_d7": 158400,
+      "newSince_d8": 158400,
+      "newSince_d14": 345437,
+      "newSince_d15": 345437,
+      "newDaily_avg_7": 22628.57,
+      "newDaily_avg_14": 24674.07,
+      "total": 3223039,
       "updated": {
         "source": "fhi:web",
-        "timestamp": "2021-01-14 13:10:02+01:00"
+        "timestamp": "2021-01-20 13:05:04+01:00"
       }
     },
     "confirmed": {
-      "newToday": 240,
-      "newYesterday": 81,
-      "newSince_d7": 2920,
-      "newSince_d8": 3654,
-      "newSince_d14": 7381,
-      "newSince_d15": 7816,
-      "newDaily_avg_7": 417.14,
-      "newDaily_avg_14": 527.21,
-      "total": 57522,
+      "newToday": 213,
+      "newYesterday": 44,
+      "newSince_d7": 1923,
+      "newSince_d8": 2375,
+      "newSince_d14": 5802,
+      "newSince_d15": 6503,
+      "newDaily_avg_7": 274.71,
+      "newDaily_avg_14": 414.43,
+      "total": 59669,
       "updated": {
         "source": "msis:api",
-        "timestamp": "2021-01-14 15:10:05+01:00"
+        "timestamp": "2021-01-20 15:10:05+01:00"
       }
     },
     "dead": {
-      "newToday": 2,
-      "newYesterday": 27,
-      "newSince_d7": 44,
-      "newSince_d8": 46,
-      "newSince_d14": 75,
-      "newSince_d15": 75,
-      "newDaily_avg_7": 6.29,
-      "newDaily_avg_14": 5.36,
-      "total": 511,
+      "newToday": 18,
+      "newYesterday": 4,
+      "newSince_d7": 34,
+      "newSince_d8": 61,
+      "newSince_d14": 78,
+      "newSince_d15": 91,
+      "newDaily_avg_7": 4.86,
+      "newDaily_avg_14": 5.57,
+      "total": 543,
       "updated": {
         "source": "fhi:git",
-        "timestamp": "2021-01-14 13:25:04+01:00"
+        "timestamp": "2021-01-20 13:20:03+01:00"
       }
     },
     "admissions": {
-      "changeToday": 8,
-      "changeYesterday": 7,
-      "change_d7": 37,
-      "change_d8": 35,
-      "change_d14": 24,
-      "change_d15": 19,
-      "total": 164,
+      "changeToday": -8,
+      "changeYesterday": -20,
+      "change_d7": -32,
+      "change_d8": -25,
+      "change_d14": -5,
+      "change_d15": -9,
+      "total": 124,
       "updated": {
         "source": "helsedir:api",
-        "timestamp": "2021-01-14 12:00:04+01:00"
+        "timestamp": "2021-01-20 12:50:03+01:00"
       }
     },
     "respiratory": {
-      "changeToday": -1,
-      "changeYesterday": 2,
-      "change_d7": 4,
-      "change_d8": 7,
-      "change_d14": 8,
-      "change_d15": 9,
-      "total": 23,
+      "changeToday": 1,
+      "changeYesterday": 0,
+      "change_d7": -3,
+      "change_d8": -1,
+      "change_d14": 5,
+      "change_d15": 7,
+      "total": 21,
       "updated": {
         "source": "helsedir:api",
-        "timestamp": "2021-01-14 12:00:04+01:00"
+        "timestamp": "2021-01-20 12:50:03+01:00"
       }
     },
     "vaccine_doses": {
-      "newToday": 7622,
-      "newYesterday": 3809,
-      "newSince_d7": 19549,
-      "newSince_d8": 28121,
-      "newSince_d14": 31529,
-      "newSince_d15": 31949,
-      "newDaily_avg_7": 2792.71,
-      "newDaily_avg_14": 2252.07,
-      "total": 33611,
+      "newToday": 0,
+      "newYesterday": 4743,
+      "newSince_d7": 28752,
+      "newSince_d8": 32822,
+      "newSince_d14": 50097,
+      "newSince_d15": 53489,
+      "newDaily_avg_7": 4107.43,
+      "newDaily_avg_14": 3578.36,
+      "total": 55662,
       "updated": {
-        "source": "fhi:web",
-        "timestamp": "2021-01-14 20:31:57+01:00"
+        "source": "fhi:git",
+        "timestamp": "2021-01-20 22:39:34+01:00"
       }
     }
   }

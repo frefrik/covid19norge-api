@@ -1319,6 +1319,30 @@
       "new": 57967,
       "total": 3122606,
       "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-15",
+      "new": 22116,
+      "total": 3144722,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-18",
+      "new": 43263,
+      "total": 3187985,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-19",
+      "new": 13648,
+      "total": 3201633,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-20",
+      "new": 21406,
+      "total": 3223039,
+      "source": "fhi:web"
     }
   ]
 }

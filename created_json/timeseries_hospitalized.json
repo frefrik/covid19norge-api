@@ -1625,6 +1625,42 @@
       "admissions": 164,
       "respiratory": 23,
       "source": "helsedir:api"
+    },
+    {
+      "date": "2021-01-15",
+      "admissions": 158,
+      "respiratory": 23,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-01-16",
+      "admissions": 150,
+      "respiratory": 24,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-01-17",
+      "admissions": 158,
+      "respiratory": 24,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-01-18",
+      "admissions": 152,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-01-19",
+      "admissions": 132,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-01-20",
+      "admissions": 124,
+      "respiratory": 21,
+      "source": "helsedir:api"
     }
   ]
 }

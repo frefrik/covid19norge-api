@@ -2182,7 +2182,7 @@
       {
         "date": "2020-10-20",
         "tested": 10362,
-        "confirmed": 184,
+        "confirmed": 183,
         "dead": 0,
         "admissions": 1,
         "respiratory": 0,
@@ -2227,7 +2227,7 @@
       {
         "date": "2020-10-25",
         "tested": 0,
-        "confirmed": 203,
+        "confirmed": 202,
         "dead": 0,
         "admissions": 0,
         "respiratory": 0,
@@ -2272,7 +2272,7 @@
       {
         "date": "2020-10-30",
         "tested": 20713,
-        "confirmed": 616,
+        "confirmed": 615,
         "dead": 1,
         "admissions": 13,
         "respiratory": 1,
@@ -2776,7 +2776,7 @@
       {
         "date": "2020-12-25",
         "tested": 0,
-        "confirmed": 291,
+        "confirmed": 292,
         "dead": 0,
         "admissions": -10,
         "respiratory": -3,
@@ -2801,13 +2801,211 @@
         "vaccine_doses": 5
       },
       {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 0,
+        "confirmed": 423,
+        "dead": 0,
+        "admissions": 17,
+        "respiratory": 0,
+        "vaccine_doses": 5
+      },
+      {
         "date": "2020-12-28",
         "tested": 66221,
-        "confirmed": 776,
+        "confirmed": 777,
         "dead": 8,
         "admissions": 12,
         "respiratory": 0,
-        "vaccine_doses": 591
+        "vaccine_doses": 264
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 64
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 271
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 66221,
+        "confirmed": 777,
+        "dead": 8,
+        "admissions": 12,
+        "respiratory": 0,
+        "vaccine_doses": 600
       },
       {
         "date": "2020-12-29",
@@ -2816,16 +3014,313 @@
         "dead": 4,
         "admissions": 10,
         "respiratory": 1,
-        "vaccine_doses": 1066
+        "vaccine_doses": 118
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 690
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 260
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 14147,
+        "confirmed": 693,
+        "dead": 4,
+        "admissions": 10,
+        "respiratory": 1,
+        "vaccine_doses": 1068
       },
       {
         "date": "2020-12-30",
         "tested": 19764,
-        "confirmed": 639,
+        "confirmed": 640,
         "dead": 3,
         "admissions": -6,
         "respiratory": -1,
-        "vaccine_doses": 420
+        "vaccine_doses": 58
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 214
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 149
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 19764,
+        "confirmed": 640,
+        "dead": 3,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 421
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 5
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 67
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 0,
+        "confirmed": 435,
+        "dead": 0,
+        "admissions": -5,
+        "respiratory": 1,
+        "vaccine_doses": 0
       },
       {
         "date": "2020-12-31",
@@ -2839,19 +3334,316 @@
       {
         "date": "2021-01-01",
         "tested": 0,
-        "confirmed": 343,
+        "confirmed": 344,
         "dead": 0,
         "admissions": -14,
         "respiratory": -1,
-        "vaccine_doses": 5
+        "vaccine_doses": 6
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 0,
+        "confirmed": 344,
+        "dead": 0,
+        "admissions": -14,
+        "respiratory": -1,
+        "vaccine_doses": 6
       },
       {
         "date": "2021-01-02",
         "tested": 0,
-        "confirmed": 523,
+        "confirmed": 522,
         "dead": 0,
         "admissions": 1,
         "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 0,
+        "confirmed": 522,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 0,
+        "confirmed": 442,
+        "dead": 0,
+        "admissions": 1,
+        "respiratory": -1,
         "vaccine_doses": 0
       },
       {
@@ -2873,22 +3665,319 @@
         "vaccine_doses": 0
       },
       {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 69288,
+        "confirmed": 936,
+        "dead": 13,
+        "admissions": 1,
+        "respiratory": 1,
+        "vaccine_doses": 1
+      },
+      {
         "date": "2021-01-05",
         "tested": 19794,
         "confirmed": 784,
         "dead": 3,
         "admissions": 4,
         "respiratory": 0,
-        "vaccine_doses": 3331
+        "vaccine_doses": 479
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 548
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 171
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 200
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 496
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 321
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 218
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 79
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 414
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 411
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 53
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 19794,
+        "confirmed": 784,
+        "dead": 3,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 3392
       },
       {
         "date": "2021-01-06",
         "tested": 0,
-        "confirmed": 699,
+        "confirmed": 701,
         "dead": 13,
         "admissions": -4,
         "respiratory": 2,
-        "vaccine_doses": 8572
+        "vaccine_doses": 599
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 640
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 497
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 581
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 1631
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 586
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 1020
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 792
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 1239
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 673
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 527
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 0,
+        "confirmed": 701,
+        "dead": 13,
+        "admissions": -4,
+        "respiratory": 2,
+        "vaccine_doses": 8795
       },
       {
         "date": "2021-01-07",
@@ -2897,7 +3986,106 @@
         "dead": 2,
         "admissions": -2,
         "respiratory": 3,
-        "vaccine_doses": 6188
+        "vaccine_doses": 964
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 207
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 457
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 147
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 1909
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 644
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 442
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 230
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 717
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 470
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 187
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 65454,
+        "confirmed": 734,
+        "dead": 2,
+        "admissions": -2,
+        "respiratory": 3,
+        "vaccine_doses": 6376
       },
       {
         "date": "2021-01-08",
@@ -2906,12 +4094,210 @@
         "dead": 5,
         "admissions": 4,
         "respiratory": 2,
-        "vaccine_doses": 1357
+        "vaccine_doses": 453
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 21
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 35
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 43
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 265
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 76
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 64
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 49
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 138
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 140
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 245
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 32740,
+        "confirmed": 646,
+        "dead": 5,
+        "admissions": 4,
+        "respiratory": 2,
+        "vaccine_doses": 1529
       },
       {
         "date": "2021-01-09",
         "tested": 0,
-        "confirmed": 409,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 122
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 6
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
+        "dead": 0,
+        "admissions": -6,
+        "respiratory": -1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 0,
+        "confirmed": 411,
         "dead": 0,
         "admissions": -6,
         "respiratory": -1,
@@ -2920,16 +4306,214 @@
       {
         "date": "2021-01-10",
         "tested": 0,
-        "confirmed": 432,
+        "confirmed": 434,
         "dead": 0,
         "admissions": 18,
         "respiratory": 0,
-        "vaccine_doses": 104
+        "vaccine_doses": 100
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 4
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 2
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 0,
+        "confirmed": 434,
+        "dead": 0,
+        "admissions": 18,
+        "respiratory": 0,
+        "vaccine_doses": 106
       },
       {
         "date": "2021-01-11",
         "tested": 68220,
-        "confirmed": 633,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 76
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 55
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 51
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 2
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 59
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 95
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
+        "dead": 6,
+        "admissions": 4,
+        "respiratory": 0,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 68220,
+        "confirmed": 638,
         "dead": 6,
         "admissions": 4,
         "respiratory": 0,
@@ -2938,28 +4522,874 @@
       {
         "date": "2021-01-12",
         "tested": 20623,
-        "confirmed": 479,
+        "confirmed": 564,
         "dead": 4,
         "admissions": 2,
         "respiratory": 2,
-        "vaccine_doses": 3809
+        "vaccine_doses": 180
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 127
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 223
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 292
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 664
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 440
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 401
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 224
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 829
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 498
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 191
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 20623,
+        "confirmed": 564,
+        "dead": 4,
+        "admissions": 2,
+        "respiratory": 2,
+        "vaccine_doses": 4070
       },
       {
         "date": "2021-01-13",
         "tested": 0,
-        "confirmed": 81,
+        "confirmed": 452,
         "dead": 27,
         "admissions": 7,
         "respiratory": 2,
-        "vaccine_doses": 7622
+        "vaccine_doses": 430
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 744
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 385
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 596
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 1916
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 832
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 1153
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 843
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 1111
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 845
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 556
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 0,
+        "confirmed": 452,
+        "dead": 27,
+        "admissions": 7,
+        "respiratory": 2,
+        "vaccine_doses": 9416
       },
       {
         "date": "2021-01-14",
         "tested": 57967,
-        "confirmed": 240,
+        "confirmed": 454,
         "dead": 2,
         "admissions": 8,
         "respiratory": -1,
+        "vaccine_doses": 1124
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 511
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 403
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 255
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 1862
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 877
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 571
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 478
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 938
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 638
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 315
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 57967,
+        "confirmed": 454,
+        "dead": 2,
+        "admissions": 8,
+        "respiratory": -1,
+        "vaccine_doses": 7981
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 1499
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 282
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 152
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 16
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 988
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 246
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 157
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 112
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 421
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 253
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 36
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 22116,
+        "confirmed": 390,
+        "dead": 6,
+        "admissions": -6,
+        "respiratory": 0,
+        "vaccine_doses": 4172
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 614
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 79
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 4
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 3
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 2
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 2
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 0,
+        "confirmed": 267,
+        "dead": 0,
+        "admissions": -8,
+        "respiratory": 1,
+        "vaccine_doses": 705
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 214
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 12
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 38
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 0,
+        "confirmed": 217,
+        "dead": 0,
+        "admissions": 8,
+        "respiratory": 0,
+        "vaccine_doses": 266
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 896
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 71
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 11
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 192
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 67
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 6
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 15
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 55
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 154
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 43263,
+        "confirmed": 338,
+        "dead": 4,
+        "admissions": -6,
+        "respiratory": -4,
+        "vaccine_doses": 1469
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 814
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 407
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 169
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 267
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 869
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 618
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 202
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 293
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 344
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 542
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 214
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 13648,
+        "confirmed": 44,
+        "dead": 4,
+        "admissions": -20,
+        "respiratory": 0,
+        "vaccine_doses": 4743
+      },
+      {
+        "date": "2021-01-20",
+        "tested": 21406,
+        "confirmed": 213,
+        "dead": 18,
+        "admissions": -8,
+        "respiratory": 1,
         "vaccine_doses": 0
       }
     ],
@@ -5145,7 +7575,7 @@
       {
         "date": "2020-10-20",
         "tested": 1505650,
-        "confirmed": 17018,
+        "confirmed": 17017,
         "dead": 278,
         "admissions": 29,
         "respiratory": 3,
@@ -5154,7 +7584,7 @@
       {
         "date": "2020-10-21",
         "tested": 1522163,
-        "confirmed": 17239,
+        "confirmed": 17238,
         "dead": 279,
         "admissions": 36,
         "respiratory": 2,
@@ -5163,7 +7593,7 @@
       {
         "date": "2020-10-22",
         "tested": 1541547,
-        "confirmed": 17524,
+        "confirmed": 17523,
         "dead": 279,
         "admissions": 44,
         "respiratory": 4,
@@ -5172,7 +7602,7 @@
       {
         "date": "2020-10-23",
         "tested": 1558161,
-        "confirmed": 17892,
+        "confirmed": 17891,
         "dead": 279,
         "admissions": 44,
         "respiratory": 3,
@@ -5181,7 +7611,7 @@
       {
         "date": "2020-10-24",
         "tested": 1558161,
-        "confirmed": 18123,
+        "confirmed": 18122,
         "dead": 279,
         "admissions": 44,
         "respiratory": 3,
@@ -5190,7 +7620,7 @@
       {
         "date": "2020-10-25",
         "tested": 1558161,
-        "confirmed": 18326,
+        "confirmed": 18324,
         "dead": 279,
         "admissions": 44,
         "respiratory": 3,
@@ -5199,7 +7629,7 @@
       {
         "date": "2020-10-26",
         "tested": 1592076,
-        "confirmed": 18810,
+        "confirmed": 18808,
         "dead": 279,
         "admissions": 54,
         "respiratory": 3,
@@ -5208,7 +7638,7 @@
       {
         "date": "2020-10-27",
         "tested": 1605142,
-        "confirmed": 19201,
+        "confirmed": 19199,
         "dead": 280,
         "admissions": 51,
         "respiratory": 3,
@@ -5217,7 +7647,7 @@
       {
         "date": "2020-10-28",
         "tested": 1625553,
-        "confirmed": 19715,
+        "confirmed": 19713,
         "dead": 280,
         "admissions": 49,
         "respiratory": 1,
@@ -5226,7 +7656,7 @@
       {
         "date": "2020-10-29",
         "tested": 1646752,
-        "confirmed": 20146,
+        "confirmed": 20144,
         "dead": 281,
         "admissions": 47,
         "respiratory": 2,
@@ -5235,7 +7665,7 @@
       {
         "date": "2020-10-30",
         "tested": 1667465,
-        "confirmed": 20762,
+        "confirmed": 20759,
         "dead": 282,
         "admissions": 60,
         "respiratory": 3,
@@ -5244,7 +7674,7 @@
       {
         "date": "2020-10-31",
         "tested": 1667465,
-        "confirmed": 21146,
+        "confirmed": 21143,
         "dead": 282,
         "admissions": 60,
         "respiratory": 4,
@@ -5253,7 +7683,7 @@
       {
         "date": "2020-11-01",
         "tested": 1667465,
-        "confirmed": 21469,
+        "confirmed": 21466,
         "dead": 282,
         "admissions": 63,
         "respiratory": 4,
@@ -5262,7 +7692,7 @@
       {
         "date": "2020-11-02",
         "tested": 1711988,
-        "confirmed": 22115,
+        "confirmed": 22112,
         "dead": 282,
         "admissions": 64,
         "respiratory": 3,
@@ -5271,7 +7701,7 @@
       {
         "date": "2020-11-03",
         "tested": 1729701,
-        "confirmed": 22798,
+        "confirmed": 22795,
         "dead": 282,
         "admissions": 61,
         "respiratory": 3,
@@ -5280,7 +7710,7 @@
       {
         "date": "2020-11-04",
         "tested": 1754167,
-        "confirmed": 23489,
+        "confirmed": 23486,
         "dead": 282,
         "admissions": 70,
         "respiratory": 3,
@@ -5289,7 +7719,7 @@
       {
         "date": "2020-11-05",
         "tested": 1780099,
-        "confirmed": 24092,
+        "confirmed": 24089,
         "dead": 284,
         "admissions": 72,
         "respiratory": 5,
@@ -5298,7 +7728,7 @@
       {
         "date": "2020-11-06",
         "tested": 1805998,
-        "confirmed": 24744,
+        "confirmed": 24741,
         "dead": 285,
         "admissions": 88,
         "respiratory": 8,
@@ -5307,7 +7737,7 @@
       {
         "date": "2020-11-07",
         "tested": 1805998,
-        "confirmed": 25133,
+        "confirmed": 25130,
         "dead": 285,
         "admissions": 92,
         "respiratory": 11,
@@ -5316,7 +7746,7 @@
       {
         "date": "2020-11-08",
         "tested": 1805998,
-        "confirmed": 25517,
+        "confirmed": 25514,
         "dead": 285,
         "admissions": 96,
         "respiratory": 11,
@@ -5325,7 +7755,7 @@
       {
         "date": "2020-11-09",
         "tested": 1880455,
-        "confirmed": 26223,
+        "confirmed": 26220,
         "dead": 285,
         "admissions": 97,
         "respiratory": 15,
@@ -5334,7 +7764,7 @@
       {
         "date": "2020-11-10",
         "tested": 1898943,
-        "confirmed": 26824,
+        "confirmed": 26821,
         "dead": 285,
         "admissions": 104,
         "respiratory": 12,
@@ -5343,7 +7773,7 @@
       {
         "date": "2020-11-11",
         "tested": 1924640,
-        "confirmed": 27486,
+        "confirmed": 27483,
         "dead": 285,
         "admissions": 95,
         "respiratory": 12,
@@ -5352,7 +7782,7 @@
       {
         "date": "2020-11-12",
         "tested": 1952285,
-        "confirmed": 28123,
+        "confirmed": 28120,
         "dead": 291,
         "admissions": 110,
         "respiratory": 12,
@@ -5361,7 +7791,7 @@
       {
         "date": "2020-11-13",
         "tested": 1979430,
-        "confirmed": 28820,
+        "confirmed": 28817,
         "dead": 294,
         "admissions": 109,
         "respiratory": 13,
@@ -5370,7 +7800,7 @@
       {
         "date": "2020-11-14",
         "tested": 1979430,
-        "confirmed": 29199,
+        "confirmed": 29196,
         "dead": 294,
         "admissions": 117,
         "respiratory": 13,
@@ -5379,7 +7809,7 @@
       {
         "date": "2020-11-15",
         "tested": 1979430,
-        "confirmed": 29605,
+        "confirmed": 29602,
         "dead": 294,
         "admissions": 127,
         "respiratory": 13,
@@ -5388,7 +7818,7 @@
       {
         "date": "2020-11-16",
         "tested": 2034728,
-        "confirmed": 30325,
+        "confirmed": 30322,
         "dead": 294,
         "admissions": 135,
         "respiratory": 16,
@@ -5397,7 +7827,7 @@
       {
         "date": "2020-11-17",
         "tested": 2050737,
-        "confirmed": 30959,
+        "confirmed": 30956,
         "dead": 298,
         "admissions": 139,
         "respiratory": 15,
@@ -5406,7 +7836,7 @@
       {
         "date": "2020-11-18",
         "tested": 2075858,
-        "confirmed": 31612,
+        "confirmed": 31609,
         "dead": 299,
         "admissions": 143,
         "respiratory": 15,
@@ -5415,7 +7845,7 @@
       {
         "date": "2020-11-19",
         "tested": 2098290,
-        "confirmed": 32174,
+        "confirmed": 32171,
         "dead": 305,
         "admissions": 138,
         "respiratory": 15,
@@ -5424,7 +7854,7 @@
       {
         "date": "2020-11-20",
         "tested": 2121951,
-        "confirmed": 32692,
+        "confirmed": 32689,
         "dead": 306,
         "admissions": 127,
         "respiratory": 16,
@@ -5433,7 +7863,7 @@
       {
         "date": "2020-11-21",
         "tested": 2121951,
-        "confirmed": 32980,
+        "confirmed": 32977,
         "dead": 306,
         "admissions": 124,
         "respiratory": 18,
@@ -5442,7 +7872,7 @@
       {
         "date": "2020-11-22",
         "tested": 2121951,
-        "confirmed": 33258,
+        "confirmed": 33255,
         "dead": 306,
         "admissions": 129,
         "respiratory": 21,
@@ -5451,7 +7881,7 @@
       {
         "date": "2020-11-23",
         "tested": 2164720,
-        "confirmed": 33867,
+        "confirmed": 33864,
         "dead": 311,
         "admissions": 138,
         "respiratory": 22,
@@ -5460,7 +7890,7 @@
       {
         "date": "2020-11-24",
         "tested": 2178355,
-        "confirmed": 34281,
+        "confirmed": 34278,
         "dead": 314,
         "admissions": 128,
         "respiratory": 23,
@@ -5469,7 +7899,7 @@
       {
         "date": "2020-11-25",
         "tested": 2201799,
-        "confirmed": 34794,
+        "confirmed": 34791,
         "dead": 316,
         "admissions": 116,
         "respiratory": 22,
@@ -5478,7 +7908,7 @@
       {
         "date": "2020-11-26",
         "tested": 2224045,
-        "confirmed": 35272,
+        "confirmed": 35269,
         "dead": 316,
         "admissions": 123,
         "respiratory": 22,
@@ -5487,7 +7917,7 @@
       {
         "date": "2020-11-27",
         "tested": 2242810,
-        "confirmed": 35717,
+        "confirmed": 35714,
         "dead": 328,
         "admissions": 121,
         "respiratory": 20,
@@ -5496,7 +7926,7 @@
       {
         "date": "2020-11-28",
         "tested": 2242810,
-        "confirmed": 35953,
+        "confirmed": 35950,
         "dead": 328,
         "admissions": 118,
         "respiratory": 20,
@@ -5505,7 +7935,7 @@
       {
         "date": "2020-11-29",
         "tested": 2242810,
-        "confirmed": 36182,
+        "confirmed": 36179,
         "dead": 328,
         "admissions": 123,
         "respiratory": 19,
@@ -5514,7 +7944,7 @@
       {
         "date": "2020-11-30",
         "tested": 2278914,
-        "confirmed": 36631,
+        "confirmed": 36628,
         "dead": 332,
         "admissions": 129,
         "respiratory": 19,
@@ -5523,7 +7953,7 @@
       {
         "date": "2020-12-01",
         "tested": 2292559,
-        "confirmed": 36993,
+        "confirmed": 36990,
         "dead": 334,
         "admissions": 128,
         "respiratory": 17,
@@ -5532,7 +7962,7 @@
       {
         "date": "2020-12-02",
         "tested": 2314328,
-        "confirmed": 37413,
+        "confirmed": 37410,
         "dead": 351,
         "admissions": 128,
         "respiratory": 17,
@@ -5541,7 +7971,7 @@
       {
         "date": "2020-12-03",
         "tested": 2333109,
-        "confirmed": 37812,
+        "confirmed": 37809,
         "dead": 353,
         "admissions": 111,
         "respiratory": 17,
@@ -5550,7 +7980,7 @@
       {
         "date": "2020-12-04",
         "tested": 2350736,
-        "confirmed": 38191,
+        "confirmed": 38188,
         "dead": 354,
         "admissions": 128,
         "respiratory": 19,
@@ -5559,7 +7989,7 @@
       {
         "date": "2020-12-05",
         "tested": 2350736,
-        "confirmed": 38443,
+        "confirmed": 38440,
         "dead": 354,
         "admissions": 131,
         "respiratory": 19,
@@ -5568,7 +7998,7 @@
       {
         "date": "2020-12-06",
         "tested": 2350736,
-        "confirmed": 38705,
+        "confirmed": 38702,
         "dead": 354,
         "admissions": 132,
         "respiratory": 19,
@@ -5577,7 +8007,7 @@
       {
         "date": "2020-12-07",
         "tested": 2387044,
-        "confirmed": 39203,
+        "confirmed": 39200,
         "dead": 359,
         "admissions": 151,
         "respiratory": 20,
@@ -5586,7 +8016,7 @@
       {
         "date": "2020-12-08",
         "tested": 2400288,
-        "confirmed": 39595,
+        "confirmed": 39592,
         "dead": 361,
         "admissions": 139,
         "respiratory": 22,
@@ -5595,7 +8025,7 @@
       {
         "date": "2020-12-09",
         "tested": 2421445,
-        "confirmed": 40047,
+        "confirmed": 40044,
         "dead": 361,
         "admissions": 132,
         "respiratory": 22,
@@ -5604,7 +8034,7 @@
       {
         "date": "2020-12-10",
         "tested": 2421445,
-        "confirmed": 40482,
+        "confirmed": 40479,
         "dead": 382,
         "admissions": 136,
         "respiratory": 22,
@@ -5613,7 +8043,7 @@
       {
         "date": "2020-12-11",
         "tested": 2460288,
-        "confirmed": 40884,
+        "confirmed": 40881,
         "dead": 387,
         "admissions": 132,
         "respiratory": 24,
@@ -5622,7 +8052,7 @@
       {
         "date": "2020-12-12",
         "tested": 2460288,
-        "confirmed": 41139,
+        "confirmed": 41136,
         "dead": 387,
         "admissions": 118,
         "respiratory": 22,
@@ -5631,7 +8061,7 @@
       {
         "date": "2020-12-13",
         "tested": 2460288,
-        "confirmed": 41420,
+        "confirmed": 41417,
         "dead": 387,
         "admissions": 121,
         "respiratory": 21,
@@ -5640,7 +8070,7 @@
       {
         "date": "2020-12-14",
         "tested": 2500706,
-        "confirmed": 41964,
+        "confirmed": 41961,
         "dead": 393,
         "admissions": 133,
         "respiratory": 22,
@@ -5649,7 +8079,7 @@
       {
         "date": "2020-12-15",
         "tested": 2515206,
-        "confirmed": 42404,
+        "confirmed": 42401,
         "dead": 395,
         "admissions": 126,
         "respiratory": 22,
@@ -5658,7 +8088,7 @@
       {
         "date": "2020-12-16",
         "tested": 2538782,
-        "confirmed": 42854,
+        "confirmed": 42851,
         "dead": 402,
         "admissions": 133,
         "respiratory": 21,
@@ -5667,7 +8097,7 @@
       {
         "date": "2020-12-17",
         "tested": 2562209,
-        "confirmed": 43280,
+        "confirmed": 43277,
         "dead": 404,
         "admissions": 121,
         "respiratory": 23,
@@ -5676,7 +8106,7 @@
       {
         "date": "2020-12-18",
         "tested": 2584584,
-        "confirmed": 43753,
+        "confirmed": 43750,
         "dead": 404,
         "admissions": 122,
         "respiratory": 20,
@@ -5685,7 +8115,7 @@
       {
         "date": "2020-12-19",
         "tested": 2584584,
-        "confirmed": 44061,
+        "confirmed": 44058,
         "dead": 404,
         "admissions": 136,
         "respiratory": 22,
@@ -5694,7 +8124,7 @@
       {
         "date": "2020-12-20",
         "tested": 2584584,
-        "confirmed": 44361,
+        "confirmed": 44358,
         "dead": 404,
         "admissions": 138,
         "respiratory": 22,
@@ -5703,7 +8133,7 @@
       {
         "date": "2020-12-21",
         "tested": 2641470,
-        "confirmed": 44979,
+        "confirmed": 44976,
         "dead": 405,
         "admissions": 146,
         "respiratory": 22,
@@ -5712,7 +8142,7 @@
       {
         "date": "2020-12-22",
         "tested": 2660983,
-        "confirmed": 45540,
+        "confirmed": 45537,
         "dead": 405,
         "admissions": 138,
         "respiratory": 22,
@@ -5721,7 +8151,7 @@
       {
         "date": "2020-12-23",
         "tested": 2688388,
-        "confirmed": 46127,
+        "confirmed": 46124,
         "dead": 421,
         "admissions": 129,
         "respiratory": 20,
@@ -5730,7 +8160,7 @@
       {
         "date": "2020-12-24",
         "tested": 2688388,
-        "confirmed": 46417,
+        "confirmed": 46414,
         "dead": 421,
         "admissions": 123,
         "respiratory": 18,
@@ -5739,7 +8169,7 @@
       {
         "date": "2020-12-25",
         "tested": 2688388,
-        "confirmed": 46708,
+        "confirmed": 46706,
         "dead": 421,
         "admissions": 113,
         "respiratory": 15,
@@ -5748,7 +8178,7 @@
       {
         "date": "2020-12-26",
         "tested": 2688388,
-        "confirmed": 47172,
+        "confirmed": 47170,
         "dead": 421,
         "admissions": 112,
         "respiratory": 14,
@@ -5757,7 +8187,106 @@
       {
         "date": "2020-12-27",
         "tested": 2688388,
-        "confirmed": 47595,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 5
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
+        "dead": 421,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-27",
+        "tested": 2688388,
+        "confirmed": 47593,
         "dead": 421,
         "admissions": 129,
         "respiratory": 14,
@@ -5766,20 +8295,218 @@
       {
         "date": "2020-12-28",
         "tested": 2754609,
-        "confirmed": 48371,
+        "confirmed": 48370,
         "dead": 429,
         "admissions": 141,
         "respiratory": 14,
-        "vaccine_doses": 596
+        "vaccine_doses": 269
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 64
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 271
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2020-12-28",
+        "tested": 2754609,
+        "confirmed": 48370,
+        "dead": 429,
+        "admissions": 141,
+        "respiratory": 14,
+        "vaccine_doses": 605
       },
       {
         "date": "2020-12-29",
         "tested": 2768756,
-        "confirmed": 49064,
+        "confirmed": 49063,
         "dead": 433,
         "admissions": 151,
         "respiratory": 15,
-        "vaccine_doses": 1662
+        "vaccine_doses": 387
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 754
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 531
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2020-12-29",
+        "tested": 2768756,
+        "confirmed": 49063,
+        "dead": 433,
+        "admissions": 151,
+        "respiratory": 15,
+        "vaccine_doses": 1673
       },
       {
         "date": "2020-12-30",
@@ -5788,7 +8515,106 @@
         "dead": 436,
         "admissions": 145,
         "respiratory": 14,
-        "vaccine_doses": 2082
+        "vaccine_doses": 445
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 968
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 680
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2020-12-30",
+        "tested": 2788520,
+        "confirmed": 49703,
+        "dead": 436,
+        "admissions": 145,
+        "respiratory": 14,
+        "vaccine_doses": 2094
       },
       {
         "date": "2020-12-31",
@@ -5797,16 +8623,214 @@
         "dead": 436,
         "admissions": 140,
         "respiratory": 15,
-        "vaccine_doses": 2154
+        "vaccine_doses": 450
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 1035
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 680
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2020-12-31",
+        "tested": 2788520,
+        "confirmed": 50138,
+        "dead": 436,
+        "admissions": 140,
+        "respiratory": 15,
+        "vaccine_doses": 2166
       },
       {
         "date": "2021-01-01",
         "tested": 2788520,
-        "confirmed": 50481,
+        "confirmed": 50482,
         "dead": 436,
         "admissions": 126,
         "respiratory": 14,
-        "vaccine_doses": 2159
+        "vaccine_doses": 456
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 1035
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 680
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-01",
+        "tested": 2788520,
+        "confirmed": 50482,
+        "dead": 436,
+        "admissions": 126,
+        "respiratory": 14,
+        "vaccine_doses": 2172
       },
       {
         "date": "2021-01-02",
@@ -5815,7 +8839,106 @@
         "dead": 436,
         "admissions": 127,
         "respiratory": 14,
-        "vaccine_doses": 2159
+        "vaccine_doses": 456
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 1035
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 680
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-02",
+        "tested": 2788520,
+        "confirmed": 51004,
+        "dead": 436,
+        "admissions": 127,
+        "respiratory": 14,
+        "vaccine_doses": 2172
       },
       {
         "date": "2021-01-03",
@@ -5824,7 +8947,106 @@
         "dead": 436,
         "admissions": 128,
         "respiratory": 13,
-        "vaccine_doses": 2159
+        "vaccine_doses": 456
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 1035
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 680
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-03",
+        "tested": 2788520,
+        "confirmed": 51446,
+        "dead": 436,
+        "admissions": 128,
+        "respiratory": 13,
+        "vaccine_doses": 2172
       },
       {
         "date": "2021-01-04",
@@ -5833,7 +9055,106 @@
         "dead": 449,
         "admissions": 129,
         "respiratory": 14,
-        "vaccine_doses": 2159
+        "vaccine_doses": 456
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 1035
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 680
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 0
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 1
+      },
+      {
+        "date": "2021-01-04",
+        "tested": 2857808,
+        "confirmed": 52382,
+        "dead": 449,
+        "admissions": 129,
+        "respiratory": 14,
+        "vaccine_doses": 2173
       },
       {
         "date": "2021-01-05",
@@ -5842,88 +9163,1627 @@
         "dead": 452,
         "admissions": 133,
         "respiratory": 14,
-        "vaccine_doses": 5490
+        "vaccine_doses": 935
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 548
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 171
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 200
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 1531
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 1001
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 218
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 79
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 415
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 411
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 54
+      },
+      {
+        "date": "2021-01-05",
+        "tested": 2877602,
+        "confirmed": 53166,
+        "dead": 452,
+        "admissions": 133,
+        "respiratory": 14,
+        "vaccine_doses": 5565
       },
       {
         "date": "2021-01-06",
         "tested": 2877602,
-        "confirmed": 53865,
+        "confirmed": 53867,
         "dead": 465,
         "admissions": 129,
         "respiratory": 16,
-        "vaccine_doses": 14062
+        "vaccine_doses": 1534
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 1188
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 668
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 781
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 3162
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 1587
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 1238
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 871
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 1654
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 1084
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 581
+      },
+      {
+        "date": "2021-01-06",
+        "tested": 2877602,
+        "confirmed": 53867,
+        "dead": 465,
+        "admissions": 129,
+        "respiratory": 16,
+        "vaccine_doses": 14360
       },
       {
         "date": "2021-01-07",
         "tested": 2943056,
-        "confirmed": 54599,
+        "confirmed": 54601,
         "dead": 467,
         "admissions": 127,
         "respiratory": 19,
-        "vaccine_doses": 20250
+        "vaccine_doses": 2498
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 1395
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 1125
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 928
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 5071
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 2231
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 1680
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 1101
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 2371
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 1554
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 768
+      },
+      {
+        "date": "2021-01-07",
+        "tested": 2943056,
+        "confirmed": 54601,
+        "dead": 467,
+        "admissions": 127,
+        "respiratory": 19,
+        "vaccine_doses": 20736
       },
       {
         "date": "2021-01-08",
         "tested": 2975796,
-        "confirmed": 55245,
+        "confirmed": 55247,
         "dead": 472,
         "admissions": 131,
         "respiratory": 21,
-        "vaccine_doses": 21607
+        "vaccine_doses": 2951
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 1416
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 1160
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 971
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 5336
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 2307
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 1744
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 1150
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 2509
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 1694
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 1013
+      },
+      {
+        "date": "2021-01-08",
+        "tested": 2975796,
+        "confirmed": 55247,
+        "dead": 472,
+        "admissions": 131,
+        "respiratory": 21,
+        "vaccine_doses": 22265
       },
       {
         "date": "2021-01-09",
         "tested": 2975796,
-        "confirmed": 55654,
+        "confirmed": 55658,
         "dead": 472,
         "admissions": 125,
         "respiratory": 20,
-        "vaccine_doses": 21735
+        "vaccine_doses": 3073
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 1416
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 1160
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 971
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 5342
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 2307
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 1744
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 1150
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 2509
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 1694
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 1013
+      },
+      {
+        "date": "2021-01-09",
+        "tested": 2975796,
+        "confirmed": 55658,
+        "dead": 472,
+        "admissions": 125,
+        "respiratory": 20,
+        "vaccine_doses": 22393
       },
       {
         "date": "2021-01-10",
         "tested": 2975796,
-        "confirmed": 56086,
+        "confirmed": 56092,
         "dead": 472,
         "admissions": 143,
         "respiratory": 20,
-        "vaccine_doses": 21839
+        "vaccine_doses": 3173
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 1416
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 1160
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 971
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 5346
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 2307
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 1746
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 1150
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 2509
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 1694
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 1013
+      },
+      {
+        "date": "2021-01-10",
+        "tested": 2975796,
+        "confirmed": 56092,
+        "dead": 472,
+        "admissions": 143,
+        "respiratory": 20,
+        "vaccine_doses": 22499
       },
       {
         "date": "2021-01-11",
         "tested": 3044016,
-        "confirmed": 56719,
+        "confirmed": 56730,
         "dead": 478,
         "admissions": 147,
         "respiratory": 20,
-        "vaccine_doses": 22180
+        "vaccine_doses": 3249
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 1417
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 1160
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 971
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 5401
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 2358
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 1748
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 1150
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 2568
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 1789
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 1014
+      },
+      {
+        "date": "2021-01-11",
+        "tested": 3044016,
+        "confirmed": 56730,
+        "dead": 478,
+        "admissions": 147,
+        "respiratory": 20,
+        "vaccine_doses": 22840
       },
       {
         "date": "2021-01-12",
         "tested": 3064639,
-        "confirmed": 57198,
+        "confirmed": 57294,
         "dead": 482,
         "admissions": 149,
         "respiratory": 22,
-        "vaccine_doses": 25989
+        "vaccine_doses": 3429
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 1544
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 1383
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 1263
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 6065
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 2798
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 2149
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 1374
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 3397
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 2287
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 1205
+      },
+      {
+        "date": "2021-01-12",
+        "tested": 3064639,
+        "confirmed": 57294,
+        "dead": 482,
+        "admissions": 149,
+        "respiratory": 22,
+        "vaccine_doses": 26910
       },
       {
         "date": "2021-01-13",
         "tested": 3064639,
-        "confirmed": 57279,
+        "confirmed": 57746,
         "dead": 509,
         "admissions": 156,
         "respiratory": 24,
-        "vaccine_doses": 33611
+        "vaccine_doses": 3859
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 2288
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 1768
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 1859
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 7981
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 3630
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 3302
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 2217
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 4508
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 3132
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 1761
+      },
+      {
+        "date": "2021-01-13",
+        "tested": 3064639,
+        "confirmed": 57746,
+        "dead": 509,
+        "admissions": 156,
+        "respiratory": 24,
+        "vaccine_doses": 36326
       },
       {
         "date": "2021-01-14",
         "tested": 3122606,
-        "confirmed": 57522,
+        "confirmed": 58200,
         "dead": 511,
         "admissions": 164,
         "respiratory": 23,
-        "vaccine_doses": 33611
+        "vaccine_doses": 4983
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 2799
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 2171
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 2114
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 9843
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 4507
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 3873
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 2695
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 5446
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 3770
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 2076
+      },
+      {
+        "date": "2021-01-14",
+        "tested": 3122606,
+        "confirmed": 58200,
+        "dead": 511,
+        "admissions": 164,
+        "respiratory": 23,
+        "vaccine_doses": 44307
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 6482
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 3081
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 2323
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 2130
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 10831
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 4753
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 4030
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 2807
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 5867
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 4023
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 2112
+      },
+      {
+        "date": "2021-01-15",
+        "tested": 3144722,
+        "confirmed": 58590,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 23,
+        "vaccine_doses": 48479
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 7096
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 3081
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 2324
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 2130
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 10910
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 4757
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 4033
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 2807
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 5869
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 4023
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 2114
+      },
+      {
+        "date": "2021-01-16",
+        "tested": 3144722,
+        "confirmed": 58857,
+        "dead": 517,
+        "admissions": 150,
+        "respiratory": 24,
+        "vaccine_doses": 49184
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 7310
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 3081
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 2325
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 2130
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 10922
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 4757
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 4071
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 2807
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 5869
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 4023
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 2114
+      },
+      {
+        "date": "2021-01-17",
+        "tested": 3144722,
+        "confirmed": 59074,
+        "dead": 517,
+        "admissions": 158,
+        "respiratory": 24,
+        "vaccine_doses": 49450
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 8206
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 3152
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 2336
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 2130
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 11114
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 4824
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 4077
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 2822
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 5924
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 4177
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 2115
+      },
+      {
+        "date": "2021-01-18",
+        "tested": 3187985,
+        "confirmed": 59412,
+        "dead": 521,
+        "admissions": 152,
+        "respiratory": 20,
+        "vaccine_doses": 50919
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 9020
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 3559
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 2505
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 2397
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 11983
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 5442
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 4279
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 3115
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 6268
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 4719
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 2329
+      },
+      {
+        "date": "2021-01-19",
+        "tested": 3201633,
+        "confirmed": 59456,
+        "dead": 525,
+        "admissions": 132,
+        "respiratory": 20,
+        "vaccine_doses": 55662
+      },
+      {
+        "date": "2021-01-20",
+        "tested": 3223039,
+        "confirmed": 59669,
+        "dead": 543,
+        "admissions": 124,
+        "respiratory": 21,
+        "vaccine_doses": 55662
       }
     ]
   }

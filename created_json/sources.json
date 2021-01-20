@@ -1,37 +1,37 @@
 {
     "confirmed": {
-        "sha": "fdcbcfb479f1e9be32c697cebacfc618c93f0e79",
-        "updated": "2021-01-14T14:10:05Z",
+        "sha": "0040cd0dcc7ceb9a44f86ca21dda768665945def",
+        "updated": "2021-01-20T14:10:05Z",
         "datafile": "confirmed.csv"
     },
     "dead": {
-        "sha": "b6fa84e738731a3419a10c813b3317d6d26ee142",
-        "updated": "2021-01-14T12:25:04Z",
+        "sha": "4335bf3ac175854c09f128d03f6b3b77d4c1adc1",
+        "updated": "2021-01-20T12:20:03Z",
         "datafile": "dead.csv"
     },
     "hospitalized": {
-        "sha": "c30977717ff0ef0cd5442dbb4fcb0c4072791329",
-        "updated": "2021-01-14T11:00:04Z",
+        "sha": "73be4bcadc5c0ebd7091d3a71ccfa0453a161870",
+        "updated": "2021-01-20T11:50:03Z",
         "datafile": "hospitalized.csv"
     },
     "tested": {
-        "sha": "e4649533fadfbd452c35a2ee838d1668571c1b2c",
-        "updated": "2021-01-14T12:10:02Z",
+        "sha": "5143255135b82278674e0f040d9f7cea3fa0fd1c",
+        "updated": "2021-01-20T12:05:04Z",
         "datafile": "tested.csv"
     },
     "tested_lab": {
-        "sha": "6f73ca61bea927ff2a33abc5a5f9663e505a951a",
-        "updated": "2021-01-14T12:30:03Z",
+        "sha": "13d0f68c243867234a2aa7dc46ea69c71c574dbf",
+        "updated": "2021-01-20T12:20:04Z",
         "datafile": "tested_lab.csv"
     },
     "transport": {
-        "sha": "7f4036cbb6c87a27a66340724c719a3a17cd0f12",
-        "updated": "2021-01-11T12:00:16Z",
+        "sha": "3ea02a40fb5d6c07cef2f5ca7582de0ceab6ac7e",
+        "updated": "2021-01-20T00:50:07Z",
         "datafile": "transport.csv"
     },
     "vaccine_doses": {
-        "sha": "3562fe43c86a433432df6e3187a0be8772726949",
-        "updated": "2021-01-14T19:31:56Z",
+        "sha": "3947f27462ab7ad20aa54c9bc8014382d5ba5445",
+        "updated": "2021-01-20T21:39:34Z",
         "datafile": "vaccine_doses.csv"
     }
 }

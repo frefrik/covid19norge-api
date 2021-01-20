@@ -1331,6 +1331,30 @@
       "new": 2,
       "total": 511,
       "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-15",
+      "new": 6,
+      "total": 517,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-18",
+      "new": 4,
+      "total": 521,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-19",
+      "new": 4,
+      "total": 525,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-20",
+      "new": 18,
+      "total": 543,
+      "source": "fhi:git"
     }
   ]
 }
