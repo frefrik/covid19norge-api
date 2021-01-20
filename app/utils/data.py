@@ -104,15 +104,14 @@ def get_meta(category):
             df[cols_int] = df[cols_int].astype('int')
             df['pr100_pos'] = df['pr100_pos'].astype('float')
         elif category == 'vaccine_doses':
+            df = df[df['granularity_geo'] == 'nation']
+            df = df[['new_doses', 'total_doses', 'source']]
             df = df.rename(
                 columns={
-                    'new_doses_administered': 'new',
-                    'total_doses_administered': 'total'
+                    'new_doses': 'new',
+                    'total_doses': 'total'
                 }
             )
-            df = df.shift(1, fill_value=0)
-            df['new'] = df['new'].fillna(0).astype(int)
-            df['total'] = df['total'].fillna(method='ffill').astype(int)
         else:
             df['new'] = df['new'].fillna(0).astype('int')
             df['total'] = df['total'].fillna(method='ffill').astype('Int64')
@@ -165,9 +164,9 @@ def get_timeseries_new():
     vaccine_doses = pd.read_csv(
         VACCINE_DOSES_CSV_PATH,
         index_col=['date'],
-        usecols=['date', 'new_doses_administered']
+        usecols=['date', 'new_doses']
     ).rename(
-        columns={'new_doses_administered': 'vaccine_doses'}
+        columns={'new_doses': 'vaccine_doses'}
     )
 
     dfs = [df, tested, confirmed, dead, hospitalized, vaccine_doses]
@@ -219,9 +218,9 @@ def get_timeseries_total():
     vaccine_doses = pd.read_csv(
         VACCINE_DOSES_CSV_PATH,
         index_col=['date'],
-        usecols=['date', 'total_doses_administered']
+        usecols=['date', 'total_doses']
     ).rename(
-        columns={'total_doses_administered': 'vaccine_doses'}
+        columns={'total_doses': 'vaccine_doses'}
     )
 
     dfs = [df, tested, confirmed, dead, hospitalized, vaccine_doses]

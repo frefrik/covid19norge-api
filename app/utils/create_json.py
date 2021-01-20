@@ -31,6 +31,11 @@ def current():
     hospitalized['adm_sma7'] = hospitalized.adm_new.rolling(window=7).mean()
     hospitalized['resp_sma7'] = hospitalized.resp_new.rolling(window=7).mean()
 
+    try:
+        vaccine_newToday = vaccine_doses.new.at[today]
+    except KeyError:
+        vaccine_newToday = 0
+
     r = {
         'area': {
             'code': '00',
@@ -111,7 +116,7 @@ def current():
                 }
             },
             'vaccine_doses': {
-                'newToday': int(vaccine_doses.new.at[today]),
+                'newToday': int(vaccine_newToday),
                 'newYesterday': int(vaccine_doses.new.at[yesterday]),
                 'newSince_d7': int(vaccine_doses.new.tail(7).sum()),
                 'newSince_d8': int(vaccine_doses.new.tail(8).sum()),
@@ -119,9 +124,9 @@ def current():
                 'newSince_d15': int(vaccine_doses.new.tail(15).sum()),
                 'newDaily_avg_7': round(float(vaccine_doses.new.tail(7).mean()), 2),
                 'newDaily_avg_14': round(float(vaccine_doses.new.tail(14).mean()), 2),
-                'total': int(vaccine_doses.total.at[today]),
+                'total': int(vaccine_doses.total.iloc[-1:].values[0]),
                 'updated': {
-                    'source': str(vaccine_doses.source.at[today]),
+                    'source': str(vaccine_doses.source.iloc[-1:].values[0]),
                     'timestamp': str(get_commit_date('vaccine_doses'))
                 }
             }
