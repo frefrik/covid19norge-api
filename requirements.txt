@@ -5,6 +5,6 @@ fastapi-utils==0.2.1
 pandas==1.2.0
 pydantic==1.7.3
 python-dotenv==0.15.0
-pytz==2020.5
+pytz==2021.1
 requests==2.25.1
 uvicorn==0.13.3
