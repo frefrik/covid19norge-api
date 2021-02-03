@@ -33,5 +33,10 @@
         "sha": "17a89a82c2d4dc49f73b20903d2494514c63d584",
         "updated": "2021-02-03T14:00:06Z",
         "datafile": "vaccine_doses.csv"
+    },
+    "smittestopp": {
+        "sha": "1bbf184af9a78fe3b7833d8bc3347b003fd0f8fa",
+        "updated": "2021-02-03T20:47:15Z",
+        "datafile": "smittestopp.csv"
     }
 }
