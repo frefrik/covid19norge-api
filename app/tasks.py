@@ -13,6 +13,7 @@ async def check_for_updates():
         "tested_lab",
         "transport",
         "vaccine_doses",
+        "smittestopp",
     ]
 
     with open("./created_json/sources.json") as f:
@@ -55,6 +56,7 @@ async def get_datafiles():
         "tested_lab",
         "transport",
         "vaccine_doses",
+        "smittestopp",
     ]
 
     for datafile in datafiles:

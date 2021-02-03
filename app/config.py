@@ -21,6 +21,7 @@ TIMESERIES_TESTED_JSON_PATH = "./created_json/timeseries_tested.json"
 TIMESERIES_TESTED_LAB_JSON_PATH = "./created_json/timeseries_tested_lab.json"
 TIMESERIES_HOSPITALIZED_JSON_PATH = "./created_json/timeseries_hospitalized.json"
 TIMESERIES_VACCINE_DOSES_JSON_PATH = "./created_json/timeseries_vaccine_doses.json"
+TIMESERIES_SMITTESTOPP_JSON_PATH = "./created_json/timeseries_smittestopp.json"
 TRANSPORT_JSON_PATH = "./created_json/transport.json"
 SOURCES_JSON_PATH = "./created_json/sources.json"
 
@@ -32,6 +33,7 @@ TESTED_LAB_CSV_PATH = "./data/tested_lab.csv"
 HOSPITALIZED_CSV_PATH = "./data/hospitalized.csv"
 TRANSPORT_CSV_PATH = "./data/transport.csv"
 VACCINE_DOSES_CSV_PATH = "./data/vaccine_doses.csv"
+SMITTESTOPP_CSV_PATH = "./data/smittestopp.csv"
 
 # Datasource - Github API
 REPO_URL = "https://api.github.com/repos/frefrik/c19norge-data/"

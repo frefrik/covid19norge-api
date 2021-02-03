@@ -9,6 +9,7 @@ from ..config import (
     HOSPITALIZED_CSV_PATH,
     TRANSPORT_CSV_PATH,
     VACCINE_DOSES_CSV_PATH,
+    SMITTESTOPP_CSV_PATH,
 )
 
 
@@ -41,6 +42,7 @@ def get_timeseries_category(category):
         "dead": DEAD_CSV_PATH,
         "hospitalized": HOSPITALIZED_CSV_PATH,
         "vaccine_doses": VACCINE_DOSES_CSV_PATH,
+        "smittestopp": SMITTESTOPP_CSV_PATH,
     }
 
     try:

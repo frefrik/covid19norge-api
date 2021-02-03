@@ -15,6 +15,7 @@ from app.config import (
     TIMESERIES_JSON_PATH,
     TIMESERIES_CONFIRMED_JSON_PATH,
     TIMESERIES_DEAD_JSON_PATH,
+    TIMESERIES_SMITTESTOPP_JSON_PATH,
     TIMESERIES_TESTED_JSON_PATH,
     TIMESERIES_TESTED_LAB_JSON_PATH,
     TIMESERIES_HOSPITALIZED_JSON_PATH,
@@ -170,6 +171,7 @@ def timeseries_categories():
         "dead": TIMESERIES_DEAD_JSON_PATH,
         "hospitalized": TIMESERIES_HOSPITALIZED_JSON_PATH,
         "vaccine_doses": TIMESERIES_VACCINE_DOSES_JSON_PATH,
+        "smittestopp": TIMESERIES_SMITTESTOPP_JSON_PATH,
     }
 
     for category in categories:
