@@ -1343,6 +1343,66 @@
       "new": 21406,
       "total": 3223039,
       "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-21",
+      "new": 19769,
+      "total": 3242808,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-22",
+      "new": 16870,
+      "total": 3259678,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-25",
+      "new": 35174,
+      "total": 3294852,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-26",
+      "new": 14274,
+      "total": 3309126,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-27",
+      "new": 25773,
+      "total": 3334899,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-28",
+      "new": 22501,
+      "total": 3357400,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-01-29",
+      "new": 20587,
+      "total": 3377987,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-01",
+      "new": 41115,
+      "total": 3419102,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-02",
+      "new": 14383,
+      "total": 3433485,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-03",
+      "new": 20820,
+      "total": 3454305,
+      "source": "fhi:web"
     }
   ]
 }

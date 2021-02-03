@@ -1532,25 +1532,25 @@
     },
     {
       "date": "2020-11-02",
-      "new": 646,
-      "total": 22112,
+      "new": 647,
+      "total": 22113,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-03",
       "new": 683,
-      "total": 22795,
+      "total": 22796,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-04",
       "new": 691,
-      "total": 23486,
+      "total": 23487,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-05",
-      "new": 603,
+      "new": 602,
       "total": 24089,
       "source": "fhi:git"
     },
@@ -1658,127 +1658,127 @@
     },
     {
       "date": "2020-11-23",
-      "new": 609,
-      "total": 33864,
+      "new": 608,
+      "total": 33863,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-24",
       "new": 414,
-      "total": 34278,
+      "total": 34277,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-25",
       "new": 513,
-      "total": 34791,
+      "total": 34790,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-26",
       "new": 478,
-      "total": 35269,
+      "total": 35268,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-27",
       "new": 445,
-      "total": 35714,
+      "total": 35713,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-28",
       "new": 236,
-      "total": 35950,
+      "total": 35949,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-29",
       "new": 229,
-      "total": 36179,
+      "total": 36178,
       "source": "fhi:git"
     },
     {
       "date": "2020-11-30",
       "new": 449,
-      "total": 36628,
+      "total": 36627,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-01",
       "new": 362,
-      "total": 36990,
+      "total": 36989,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-02",
       "new": 420,
-      "total": 37410,
+      "total": 37409,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-03",
       "new": 399,
-      "total": 37809,
+      "total": 37808,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-04",
       "new": 379,
-      "total": 38188,
+      "total": 38187,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-05",
       "new": 252,
-      "total": 38440,
+      "total": 38439,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-06",
       "new": 262,
-      "total": 38702,
+      "total": 38701,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-07",
       "new": 498,
-      "total": 39200,
+      "total": 39199,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-08",
       "new": 392,
-      "total": 39592,
+      "total": 39591,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-09",
       "new": 452,
-      "total": 40044,
+      "total": 40043,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-10",
       "new": 435,
-      "total": 40479,
+      "total": 40478,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-11",
       "new": 402,
-      "total": 40881,
+      "total": 40880,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-12",
       "new": 255,
-      "total": 41136,
+      "total": 41135,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-13",
-      "new": 281,
+      "new": 282,
       "total": 41417,
       "source": "fhi:git"
     },
@@ -1832,49 +1832,49 @@
     },
     {
       "date": "2020-12-22",
-      "new": 561,
-      "total": 45537,
+      "new": 560,
+      "total": 45536,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-23",
       "new": 587,
-      "total": 46124,
+      "total": 46123,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-24",
       "new": 290,
-      "total": 46414,
+      "total": 46413,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-25",
       "new": 292,
-      "total": 46706,
+      "total": 46705,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-26",
-      "new": 464,
-      "total": 47170,
+      "new": 463,
+      "total": 47168,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-27",
       "new": 423,
-      "total": 47593,
+      "total": 47591,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-28",
       "new": 777,
-      "total": 48370,
+      "total": 48368,
       "source": "fhi:git"
     },
     {
       "date": "2020-12-29",
-      "new": 693,
+      "new": 695,
       "total": 49063,
       "source": "fhi:git"
     },
@@ -1886,128 +1886,212 @@
     },
     {
       "date": "2020-12-31",
-      "new": 435,
-      "total": 50138,
+      "new": 434,
+      "total": 50137,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-01",
-      "new": 344,
+      "new": 345,
       "total": 50482,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-02",
-      "new": 522,
-      "total": 51004,
+      "new": 523,
+      "total": 51005,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-03",
       "new": 442,
-      "total": 51446,
+      "total": 51447,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-04",
       "new": 936,
-      "total": 52382,
+      "total": 52383,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-05",
-      "new": 784,
-      "total": 53166,
+      "new": 785,
+      "total": 53168,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-06",
-      "new": 701,
-      "total": 53867,
+      "new": 707,
+      "total": 53875,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-07",
-      "new": 734,
-      "total": 54601,
+      "new": 735,
+      "total": 54610,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-08",
-      "new": 646,
-      "total": 55247,
+      "new": 649,
+      "total": 55259,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-09",
-      "new": 411,
-      "total": 55658,
+      "new": 414,
+      "total": 55673,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-10",
       "new": 434,
-      "total": 56092,
+      "total": 56107,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-11",
-      "new": 638,
-      "total": 56730,
+      "new": 640,
+      "total": 56747,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-12",
-      "new": 564,
-      "total": 57294,
+      "new": 563,
+      "total": 57310,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-13",
-      "new": 452,
-      "total": 57746,
+      "new": 456,
+      "total": 57766,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-14",
-      "new": 454,
-      "total": 58200,
+      "new": 453,
+      "total": 58219,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-15",
-      "new": 390,
-      "total": 58590,
+      "new": 392,
+      "total": 58611,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-16",
-      "new": 267,
-      "total": 58857,
+      "new": 268,
+      "total": 58879,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-17",
-      "new": 217,
-      "total": 59074,
+      "new": 226,
+      "total": 59105,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-18",
-      "new": 338,
-      "total": 59412,
+      "new": 448,
+      "total": 59553,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-19",
-      "new": 44,
-      "total": 59456,
+      "new": 342,
+      "total": 59895,
       "source": "fhi:git"
     },
     {
       "date": "2021-01-20",
+      "new": 355,
+      "total": 60250,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-21",
+      "new": 342,
+      "total": 60592,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-22",
+      "new": 327,
+      "total": 60919,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-23",
       "new": 213,
-      "total": 59669,
+      "total": 61132,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-24",
+      "new": 186,
+      "total": 61318,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-25",
+      "new": 381,
+      "total": 61699,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-26",
+      "new": 275,
+      "total": 61974,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-27",
+      "new": 343,
+      "total": 62317,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-28",
+      "new": 280,
+      "total": 62597,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-29",
+      "new": 297,
+      "total": 62894,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-30",
+      "new": 175,
+      "total": 63069,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-31",
+      "new": 175,
+      "total": 63244,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-02-01",
+      "new": 259,
+      "total": 63503,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-02-02",
+      "new": 50,
+      "total": 63553,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-02-03",
+      "new": 192,
+      "total": 63745,
       "source": "msis:api"
     }
   ]

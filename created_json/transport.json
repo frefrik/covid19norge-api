@@ -3,12 +3,417 @@
     "aircraft": [
       {
         "type": "Fly",
+        "route": "QR175",
+        "company": "Qatar Airways",
+        "from": "Doha",
+        "to": "Oslo",
+        "departure": "2021-01-31 08:00:00",
+        "arrival": "2021-01-31 13:00:00"
+      },
+      {
+        "type": "Fly",
+        "route": "TK1751",
+        "company": "Turkish Airlines",
+        "from": "Istanbul",
+        "to": "Oslo",
+        "departure": "2021-01-30 08:50:00",
+        "arrival": "2021-01-30 10:35:00"
+      },
+      {
+        "type": "Fly",
+        "route": "W61765",
+        "company": "WizzAir",
+        "from": "Gdansk",
+        "to": "Ålesund",
+        "departure": "2021-01-29 19:16:00",
+        "arrival": "2021-01-29 21:06:00"
+      },
+      {
+        "type": "Fly",
+        "route": "JU454",
+        "company": "Air Serbia",
+        "from": "Beograd",
+        "to": "Oslo",
+        "departure": "2021-01-29 15:00:00",
+        "arrival": "2021-01-29 19:55:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4572",
+        "company": "SAS",
+        "from": "Trondheim",
+        "to": "Bodø",
+        "departure": "2021-01-28 17:05:00",
+        "arrival": "2021-01-28 19:20:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4172",
+        "company": "SAS",
+        "from": "Bergen",
+        "to": "Trondheim",
+        "departure": "2021-01-28 15:35:00",
+        "arrival": "2021-01-28 16:40:00"
+      },
+      {
+        "type": "Fly",
+        "route": "KL1143",
+        "company": "KLM",
+        "from": "Amsterdam",
+        "to": "Oslo",
+        "departure": "2021-01-28 10:05:00",
+        "arrival": "2021-01-28 11:50:00"
+      },
+      {
+        "type": "Fly",
+        "route": "LO483",
+        "company": "Polish Air",
+        "from": "Warsawa",
+        "to": "Oslo",
+        "departure": "2021-01-27 16:45:00",
+        "arrival": "2021-01-27 18:55:00"
+      },
+      {
+        "type": "Fly",
+        "route": "LO483",
+        "company": "Polish Air",
+        "from": "Warszawa",
+        "to": "Oslo",
+        "departure": "2021-01-27 16:45:00",
+        "arrival": "2021-01-27 18:55:00"
+      },
+      {
+        "type": "Fly",
+        "route": "KL1189",
+        "company": "KLM",
+        "from": "Amsterdam",
+        "to": "Bergen",
+        "departure": "2021-01-27 14:55:00",
+        "arrival": "2021-01-27 16:30:00"
+      },
+      {
+        "type": "Fly",
+        "route": "QR175",
+        "company": "Qatar Airways",
+        "from": "Doha",
+        "to": "Oslo",
+        "departure": "2021-01-26 08:00:00",
+        "arrival": "2021-01-26 13:00:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK319",
+        "company": "SAS",
+        "from": "Haugesund",
+        "to": "Oslo",
+        "departure": "2021-01-25 18:36:00",
+        "arrival": "2021-01-25 19:15:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4082",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "Evenes",
+        "departure": "2021-01-25 08:40:00",
+        "arrival": "2021-01-25 10:15:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK308",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "Haugesund",
+        "departure": "2021-01-25 08:37:00",
+        "arrival": "2021-01-25 09:15:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4004",
+        "company": "SAS",
+        "from": "Stavanger",
+        "to": "Oslo",
+        "departure": "2021-01-25 07:00:00",
+        "arrival": "2021-01-25 08:00:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK291",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "Bergen",
+        "departure": "2021-01-24 21:06:00",
+        "arrival": "2021-01-24 21:39:00"
+      },
+      {
+        "type": "Fly",
+        "route": "DY648",
+        "company": "Norwegian",
+        "from": "Oslo",
+        "to": "Bergen",
+        "departure": "2021-01-24 20:46:00",
+        "arrival": "2021-01-24 21:24:00"
+      },
+      {
+        "type": "Fly",
+        "route": "W61745",
+        "company": "WizzAir",
+        "from": "Gdansk",
+        "to": "Bergen",
+        "departure": "2021-01-24 19:00:00",
+        "arrival": "2021-01-24 21:00:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4095",
+        "company": "SAS",
+        "from": "Evenes",
+        "to": "Oslo",
+        "departure": "2021-01-24 18:11:00",
+        "arrival": "2021-01-24 19:38:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4525",
+        "company": "SAS",
+        "from": "Molde",
+        "to": "Oslo",
+        "departure": "2021-01-24 17:10:00",
+        "arrival": "2021-01-24 18:00:00"
+      },
+      {
+        "type": "Fly",
+        "route": "AF1774",
+        "company": "AirFrance",
+        "from": "Paris",
+        "to": "Oslo",
+        "departure": "2021-01-24 14:10:00",
+        "arrival": "2021-01-24 16:30:00"
+      },
+      {
+        "type": "Fly",
+        "route": "EK159",
+        "company": "Emirates",
+        "from": "Dubai",
+        "to": "Oslo",
+        "departure": "2021-01-24 08:21:00",
+        "arrival": "2021-01-24 12:02:00"
+      },
+      {
+        "type": "Fly",
+        "route": "KL1147",
+        "company": "KLM",
+        "from": "Amsterdam",
+        "to": "Oslo",
+        "departure": "2021-01-23 14:32:00",
+        "arrival": "2021-01-23 16:11:00"
+      },
+      {
+        "type": "Fly",
+        "route": "QR175",
+        "company": "Qatar Airways",
+        "from": "Doha",
+        "to": "Oslo",
+        "departure": "2021-01-23 08:00:00",
+        "arrival": "2021-01-23 13:00:00"
+      },
+      {
+        "type": "Fly",
+        "route": "W63215",
+        "company": "WizzaAir",
+        "from": "Bucharest",
+        "to": "Torp",
+        "departure": "2021-01-23 06:56:00",
+        "arrival": "2021-01-23 08:50:00"
+      },
+      {
+        "type": "Fly",
+        "route": "JU454",
+        "company": "Air Serbia",
+        "from": "Beograd",
+        "to": "Oslo",
+        "departure": "2021-01-22 17:05:00",
+        "arrival": "2021-01-22 19:55:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK221",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "Kristiansand",
+        "departure": "2021-01-22 17:05:00",
+        "arrival": "2021-01-22 17:55:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4031",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "Stavanger",
+        "departure": "2021-01-22 15:08:00",
+        "arrival": "2021-01-22 15:47:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4299",
+        "company": "SAS",
+        "from": "Kiev",
+        "to": "Oslo",
+        "departure": "2021-01-22 14:00:00",
+        "arrival": "2021-01-22 15:50:00"
+      },
+      {
+        "type": "Fly",
+        "route": "EK159",
+        "company": "Emirates",
+        "from": "Dubai",
+        "to": "Oslo",
+        "departure": "2021-01-22 08:05:00",
+        "arrival": "2021-01-22 12:20:00"
+      },
+      {
+        "type": "Fly",
+        "route": "DY422",
+        "company": "Norwegian",
+        "from": "Oslo",
+        "to": "Molde",
+        "departure": "2021-01-22 08:00:00",
+        "arrival": "2021-01-22 09:00:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK380",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "Trondheim",
+        "departure": "2021-01-21 20:30:00",
+        "arrival": "2021-01-21 21:30:00"
+      },
+      {
+        "type": "Fly",
+        "route": "TK1753",
+        "company": "Turkish Airlines",
+        "from": "Istanbul",
+        "to": "Oslo",
+        "departure": "2021-01-21 14:35:00",
+        "arrival": "2021-01-21 16:30:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4094",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "EVenes",
+        "departure": "2021-01-19 15:50:00",
+        "arrival": "2021-01-19 17:30:00"
+      },
+      {
+        "type": "Fly",
+        "route": "KL1189",
+        "company": "KLM",
+        "from": "Amsterdam",
+        "to": "Bergen",
+        "departure": "2021-01-19 15:06:00",
+        "arrival": "2021-01-19 16:30:00"
+      },
+      {
+        "type": "Fly",
+        "route": "EK160",
+        "company": "Emirates",
+        "from": "Oslo",
+        "to": "Dubai",
+        "departure": "2021-01-19 14:10:00",
+        "arrival": "2021-01-19 23:55:00"
+      },
+      {
+        "type": "Fly",
         "route": "LH 862",
         "company": "Lufthansa",
         "from": "Frankfurt",
         "to": "Oslo",
         "departure": "2021-01-18 13:05:00",
         "arrival": "2021-01-18 15:05:00"
+      },
+      {
+        "type": "Fly",
+        "route": "WF587",
+        "company": "Widerøes",
+        "from": "Bergen",
+        "to": "Kristiansand",
+        "departure": "2021-01-18 11:35:00",
+        "arrival": "2021-01-18 12:25:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4137",
+        "company": "SAS",
+        "from": "Trondheim",
+        "to": "Bergen",
+        "departure": "2021-01-18 06:30:00",
+        "arrival": "2021-01-18 07:30:00"
+      },
+      {
+        "type": "Fly",
+        "route": "JU450",
+        "company": "Air Serbia",
+        "from": "Beograd",
+        "to": "Oslo",
+        "departure": "2021-01-18 06:05:00",
+        "arrival": "2021-01-18 08:55:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK382",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "Trondheim",
+        "departure": "2021-01-17 21:45:00",
+        "arrival": "NaT"
+      },
+      {
+        "type": "Fly",
+        "route": "KL1205",
+        "company": "KLM",
+        "from": "Amsterdam",
+        "to": "Stavanger",
+        "departure": "2021-01-17 17:08:00",
+        "arrival": "2021-01-17 18:16:00"
+      },
+      {
+        "type": "Fly",
+        "route": "AF1774",
+        "company": "Air France",
+        "from": "Paris",
+        "to": "Oslo",
+        "departure": "2021-01-17 14:10:00",
+        "arrival": "2021-01-17 16:30:00"
+      },
+      {
+        "type": "Fly",
+        "route": "RK1394",
+        "company": "RyanAir",
+        "from": "London",
+        "to": "Oslo",
+        "departure": "2021-01-17 11:40:00",
+        "arrival": "2021-01-17 14:40:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK351",
+        "company": "SAS",
+        "from": "Trondheim",
+        "to": "Oslo",
+        "departure": "2021-01-17 10:25:00",
+        "arrival": "2021-01-17 11:20:00"
+      },
+      {
+        "type": "Fly",
+        "route": "EK159",
+        "company": "Emirates",
+        "from": "Dubai",
+        "to": "Oslo",
+        "departure": "2021-01-17 08:05:00",
+        "arrival": "2021-01-17 12:20:00"
       },
       {
         "type": "Fly",
@@ -48,6 +453,15 @@
       },
       {
         "type": "Fly",
+        "route": "TK1753",
+        "company": "Turkish Airlines",
+        "from": "Istanbul",
+        "to": "Oslo",
+        "departure": "2021-01-15 14:35:00",
+        "arrival": "2021-01-15 16:30:00"
+      },
+      {
+        "type": "Fly",
         "route": "SK362",
         "company": "SAS",
         "from": "Oslo",
@@ -66,12 +480,30 @@
       },
       {
         "type": "Fly",
+        "route": "TK1753",
+        "company": "Turkish Airlines",
+        "from": "Istanbul",
+        "to": "Oslo",
+        "departure": "2021-01-14 14:39:00",
+        "arrival": "2021-01-14 16:07:00"
+      },
+      {
+        "type": "Fly",
         "route": "KL1175",
         "company": "KLM",
         "from": "Amsterdam",
         "to": "Trondheim",
         "departure": "2021-01-14 14:25:00",
         "arrival": "2021-01-14 16:40:00"
+      },
+      {
+        "type": "Fly",
+        "route": "DY372",
+        "company": "Norwegian",
+        "from": "Oslo",
+        "to": "Tromsø",
+        "departure": "2021-01-14 13:10:00",
+        "arrival": "2021-01-14 14:45:00"
       },
       {
         "type": "Fly",
@@ -333,6 +765,15 @@
         "to": "Oslo",
         "departure": "2021-01-10 16:05:00",
         "arrival": "2021-01-10 17:00:00"
+      },
+      {
+        "type": "Fly",
+        "route": "SK4035",
+        "company": "SAS",
+        "from": "Oslo",
+        "to": "Stavanger",
+        "departure": "2021-01-10 16:00:00",
+        "arrival": "2021-01-10 16:41:00"
       },
       {
         "type": "Fly",
@@ -5462,11 +5903,38 @@
       {
         "type": "Skip",
         "route": "Superspeed 2",
+        "company": "Color Line ",
+        "from": "Hirtshals",
+        "to": "Larvik",
+        "departure": "2021-01-29 12:45:00",
+        "arrival": "2021-01-29 16:30:00"
+      },
+      {
+        "type": "Skip",
+        "route": "Superspeed 1",
+        "company": "Color Line ",
+        "from": "Hirthals",
+        "to": "Kristiansand",
+        "departure": "2021-01-16 20:45:00",
+        "arrival": "2021-01-16 23:59:00"
+      },
+      {
+        "type": "Skip",
+        "route": "Superspeed 2",
         "company": "Color Line",
         "from": "Hirtshals",
         "to": "Larvik",
         "departure": "2021-01-16 08:00:00",
         "arrival": "2021-01-16 11:30:00"
+      },
+      {
+        "type": "Skip",
+        "route": "Superspeed 2",
+        "company": "Color Line",
+        "from": "Hirtshals",
+        "to": "Larvik",
+        "departure": "2021-01-10 08:00:00",
+        "arrival": "2021-01-10 12:30:00"
       },
       {
         "type": "Skip",
@@ -5476,6 +5944,15 @@
         "to": "Larvik",
         "departure": "2021-01-10 08:00:00",
         "arrival": "2021-01-10 12:30:00"
+      },
+      {
+        "type": "Skip",
+        "route": "Superspeed 2",
+        "company": "Color Line",
+        "from": "Hirtshals",
+        "to": "Larvik",
+        "departure": "2021-01-09 08:00:00",
+        "arrival": "2021-01-09 11:45:00"
       },
       {
         "type": "Skip",
@@ -5661,12 +6138,30 @@
     "train": [
       {
         "type": "Tog",
+        "route": "41.0",
+        "company": "VY",
+        "from": "Oslo",
+        "to": "Bergen",
+        "departure": "2021-01-16 08:25:00",
+        "arrival": "2021-01-16 14:55:00"
+      },
+      {
+        "type": "Tog",
         "route": "41",
         "company": "VY",
         "from": "Oslo",
         "to": "Bergen",
         "departure": "2021-01-16 08:25:00",
         "arrival": "2021-01-16 14:55:00"
+      },
+      {
+        "type": "Tog",
+        "route": "405.0",
+        "company": "SJ-Nord",
+        "from": "Oslo",
+        "to": "Trondheim",
+        "departure": "2021-01-15 22:50:00",
+        "arrival": "2021-01-16 06:28:00"
       },
       {
         "type": "Tog",
@@ -5679,6 +6174,24 @@
       },
       {
         "type": "Tog",
+        "route": "71.0",
+        "company": "SJ Nord",
+        "from": "Mo i Rana",
+        "to": "Bodø",
+        "departure": "2021-01-15 14:30:00",
+        "arrival": "2021-01-15 17:30:00"
+      },
+      {
+        "type": "Tog",
+        "route": "471.0",
+        "company": "SJ-Nord",
+        "from": "Trondheim",
+        "to": "Bodø",
+        "departure": "2021-01-15 07:49:00",
+        "arrival": "2021-01-15 17:37:00"
+      },
+      {
+        "type": "Tog",
         "route": "471",
         "company": "SJ-Nord",
         "from": "Trondheim",
@@ -5688,12 +6201,30 @@
       },
       {
         "type": "Tog",
+        "route": "474.0",
+        "company": "SJ",
+        "from": "Bodø",
+        "to": "Mosjøen",
+        "departure": "2021-01-11 17:39:00",
+        "arrival": "2021-01-11 21:38:00"
+      },
+      {
+        "type": "Tog",
         "route": "474",
         "company": "SJ",
         "from": "Bodø",
         "to": "Mosjøen",
         "departure": "2021-01-11 17:39:00",
         "arrival": "2021-01-11 21:38:00"
+      },
+      {
+        "type": "Tog",
+        "route": "45.0",
+        "company": "SJ",
+        "from": "Oslo",
+        "to": "Trondheim",
+        "departure": "2021-01-10 14:02:00",
+        "arrival": "2021-01-10 20:51:00"
       },
       {
         "type": "Tog",
@@ -5886,12 +6417,30 @@
       },
       {
         "type": "Tog",
+        "route": "432.0",
+        "company": "SJ",
+        "from": "Steinkjer",
+        "to": "Lundamo",
+        "departure": "2020-12-21 10:37:00",
+        "arrival": "2020-12-21 12:50:00"
+      },
+      {
+        "type": "Tog",
         "route": "432",
         "company": "SJ",
         "from": "Steinkjer",
         "to": "Lundamo",
         "departure": "2020-12-21 10:37:00",
         "arrival": "2020-12-21 12:50:00"
+      },
+      {
+        "type": "Tog",
+        "route": "427.0",
+        "company": "SJ",
+        "from": "Melhus Skysstasjon",
+        "to": "Steinkjer",
+        "departure": "2020-12-21 07:48:00",
+        "arrival": "2020-12-21 10:23:00"
       },
       {
         "type": "Tog",

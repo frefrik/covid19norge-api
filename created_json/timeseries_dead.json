@@ -1355,6 +1355,66 @@
       "new": 18,
       "total": 543,
       "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-21",
+      "new": 1,
+      "total": 544,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-22",
+      "new": 0,
+      "total": 544,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-25",
+      "new": 4,
+      "total": 548,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-26",
+      "new": 2,
+      "total": 550,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-27",
+      "new": 6,
+      "total": 556,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-28",
+      "new": 1,
+      "total": 557,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-01-29",
+      "new": 7,
+      "total": 564,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-02-01",
+      "new": 3,
+      "total": 567,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-02-02",
+      "new": 1,
+      "total": 568,
+      "source": "fhi:git"
+    },
+    {
+      "date": "2021-02-03",
+      "new": 6,
+      "total": 574,
+      "source": "fhi:git"
     }
   ]
 }
