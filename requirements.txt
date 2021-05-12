@@ -3,7 +3,7 @@ APScheduler==3.7.0
 fastapi==0.63.0
 fastapi-utils==0.2.1
 pandas==1.2.4
-pydantic==1.8.1
+pydantic==1.8.2
 python-dotenv==0.17.0
 pytz==2021.1
 requests==2.25.1
