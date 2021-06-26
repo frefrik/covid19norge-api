@@ -5,12 +5,12 @@ UPDATE_INTERVAL = 300
 OPENAPI_TITLE = "COVID-19 Norway API"
 OPENAPI_API_VERSION = "1.0.0"
 OPENAPI_DESCRIPTION = "API for tracking the COVID-19 outbreak in Norway."
-OPENAPI_CONTACT = "api (at) c19norge.no"
-OPENAPI_HOST = "c19norge.no"
-OPENAPI_SERVER_URL = "https://c19norge.no"
+OPENAPI_CONTACT = "api (at) covid19norge.no"
+OPENAPI_HOST = "covid19norge.no"
+OPENAPI_SERVER_URL = "https://covid19norge.no"
 OPENAPI_SERVER_BASEPATH = "api"
 OPENAPI_EXTERNALDOCS_DESC = "Find out more about this project"
-OPENAPI_EXTERNALDOCS_URL = "https://github.com/frefrik/c19norge-api"
+OPENAPI_EXTERNALDOCS_URL = "https://github.com/frefrik/covid19norge-api"
 
 # Output json path
 CURRENT_JSON_PATH = "./created_json/current.json"
@@ -36,7 +36,7 @@ VACCINE_DOSES_CSV_PATH = "./data/vaccine_doses.csv"
 SMITTESTOPP_CSV_PATH = "./data/smittestopp.csv"
 
 # Datasource - Github API
-REPO_URL = "https://api.github.com/repos/frefrik/c19norge-data/"
+REPO_URL = "https://api.github.com/repos/frefrik/covid19norge-data/"
 COMMITS_URL = "commits?path=data/{0}.csv&page=1&per_page=1"
 CONTENTS_URL = "contents/data/{0}.csv?ref={1}"
 

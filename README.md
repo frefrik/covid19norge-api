@@ -7,11 +7,11 @@ API for tracking the COVID-19 outbreak in Norway.
 
 All the data presented in this API is sourced from **official Norwegian authorities**.  
 See link for more detailed information.
-- https://github.com/frefrik/c19norge-data
+- https://github.com/frefrik/covid19norge-data
 
 ## Documentation
-Swagger UI: https://c19norge.no/api  
-ReDoc: https://c19norge.no/api/docs
+Swagger UI: https://covid19norge.no/api  
+ReDoc: https://covid19norge.no/api/docs
 
 
 ## Endpoints
@@ -37,7 +37,7 @@ Returns current key figures
 ### Example
 #### Request
 
-    GET https://c19norge.no/api/v1/current
+    GET https://covid19norge.no/api/v1/current
 
 #### Response
 ``` json
@@ -92,7 +92,7 @@ Returns timeseries data
 ### Example
 #### Request
 
-    GET https://c19norge.no/api/v1/timeseries
+    GET https://covid19norge.no/api/v1/timeseries
 
 #### Response
 ``` json
@@ -156,7 +156,7 @@ category | tested<br/>tested_lab<br/>confirmed<br/>dead<br/>hospitalized<br/>vac
 ### Example
 #### Request
 
-    GET https://c19norge.no/api/v1/timeseries/confirmed
+    GET https://covid19norge.no/api/v1/timeseries/confirmed
 
 #### Response
 ``` json
@@ -199,7 +199,7 @@ Returns departures where persons infected with covid-19 have been on board (airc
 ### Example
 #### Request
 
-    GET https://c19norge.no/api/v1/transport
+    GET https://covid19norge.no/api/v1/transport
 
 #### Response
 ``` json
