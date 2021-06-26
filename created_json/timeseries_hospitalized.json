@@ -1745,6 +1745,822 @@
       "admissions": 95,
       "respiratory": 21,
       "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-04",
+      "admissions": 94,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-05",
+      "admissions": 95,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-06",
+      "admissions": 85,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-07",
+      "admissions": 91,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-08",
+      "admissions": 91,
+      "respiratory": 19,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-09",
+      "admissions": 94,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-10",
+      "admissions": 88,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-11",
+      "admissions": 82,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-12",
+      "admissions": 80,
+      "respiratory": 18,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-13",
+      "admissions": 76,
+      "respiratory": 15,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-14",
+      "admissions": 85,
+      "respiratory": 15,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-15",
+      "admissions": 87,
+      "respiratory": 18,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-16",
+      "admissions": 79,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-17",
+      "admissions": 69,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-18",
+      "admissions": 72,
+      "respiratory": 15,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-19",
+      "admissions": 76,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-20",
+      "admissions": 79,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-21",
+      "admissions": 85,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-22",
+      "admissions": 93,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-23",
+      "admissions": 92,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-24",
+      "admissions": 95,
+      "respiratory": 19,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-25",
+      "admissions": 92,
+      "respiratory": 18,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-26",
+      "admissions": 93,
+      "respiratory": 18,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-27",
+      "admissions": 95,
+      "respiratory": 21,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-02-28",
+      "admissions": 95,
+      "respiratory": 19,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-01",
+      "admissions": 102,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-02",
+      "admissions": 109,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-03",
+      "admissions": 105,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-04",
+      "admissions": 111,
+      "respiratory": 18,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-05",
+      "admissions": 120,
+      "respiratory": 19,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-06",
+      "admissions": 130,
+      "respiratory": 19,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-07",
+      "admissions": 140,
+      "respiratory": 15,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-08",
+      "admissions": 147,
+      "respiratory": 14,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-09",
+      "admissions": 155,
+      "respiratory": 19,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-10",
+      "admissions": 161,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-11",
+      "admissions": 159,
+      "respiratory": 21,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-12",
+      "admissions": 161,
+      "respiratory": 21,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-13",
+      "admissions": 177,
+      "respiratory": 23,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-14",
+      "admissions": 200,
+      "respiratory": 25,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-15",
+      "admissions": 221,
+      "respiratory": 27,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-16",
+      "admissions": 224,
+      "respiratory": 31,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-17",
+      "admissions": 226,
+      "respiratory": 34,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-18",
+      "admissions": 225,
+      "respiratory": 40,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-19",
+      "admissions": 235,
+      "respiratory": 40,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-20",
+      "admissions": 233,
+      "respiratory": 43,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-21",
+      "admissions": 244,
+      "respiratory": 41,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-22",
+      "admissions": 266,
+      "respiratory": 46,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-23",
+      "admissions": 264,
+      "respiratory": 48,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-24",
+      "admissions": 267,
+      "respiratory": 47,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-25",
+      "admissions": 250,
+      "respiratory": 45,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-26",
+      "admissions": 260,
+      "respiratory": 45,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-27",
+      "admissions": 264,
+      "respiratory": 46,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-28",
+      "admissions": 275,
+      "respiratory": 46,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-29",
+      "admissions": 285,
+      "respiratory": 52,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-30",
+      "admissions": 288,
+      "respiratory": 55,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-03-31",
+      "admissions": 293,
+      "respiratory": 57,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-01",
+      "admissions": 287,
+      "respiratory": 61,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-02",
+      "admissions": 289,
+      "respiratory": 63,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-03",
+      "admissions": 306,
+      "respiratory": 64,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-04",
+      "admissions": 299,
+      "respiratory": 65,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-05",
+      "admissions": 295,
+      "respiratory": 67,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-06",
+      "admissions": 296,
+      "respiratory": 59,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-07",
+      "admissions": 307,
+      "respiratory": 54,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-08",
+      "admissions": 298,
+      "respiratory": 61,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-09",
+      "admissions": 281,
+      "respiratory": 61,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-10",
+      "admissions": 280,
+      "respiratory": 57,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-11",
+      "admissions": 276,
+      "respiratory": 57,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-12",
+      "admissions": 288,
+      "respiratory": 56,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-13",
+      "admissions": 269,
+      "respiratory": 57,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-14",
+      "admissions": 261,
+      "respiratory": 53,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-15",
+      "admissions": 245,
+      "respiratory": 50,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-16",
+      "admissions": 242,
+      "respiratory": 53,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-17",
+      "admissions": 220,
+      "respiratory": 51,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-18",
+      "admissions": 209,
+      "respiratory": 47,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-19",
+      "admissions": 221,
+      "respiratory": 46,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-20",
+      "admissions": 218,
+      "respiratory": 47,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-21",
+      "admissions": 212,
+      "respiratory": 44,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-22",
+      "admissions": 199,
+      "respiratory": 42,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-23",
+      "admissions": 194,
+      "respiratory": 40,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-24",
+      "admissions": 192,
+      "respiratory": 36,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-25",
+      "admissions": 200,
+      "respiratory": 38,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-26",
+      "admissions": 207,
+      "respiratory": 42,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-27",
+      "admissions": 206,
+      "respiratory": 40,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-28",
+      "admissions": 200,
+      "respiratory": 41,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-29",
+      "admissions": 186,
+      "respiratory": 40,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-04-30",
+      "admissions": 173,
+      "respiratory": 35,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-01",
+      "admissions": 160,
+      "respiratory": 33,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-02",
+      "admissions": 155,
+      "respiratory": 36,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-03",
+      "admissions": 153,
+      "respiratory": 35,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-04",
+      "admissions": 128,
+      "respiratory": 32,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-05",
+      "admissions": 109,
+      "respiratory": 33,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-06",
+      "admissions": 115,
+      "respiratory": 31,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-07",
+      "admissions": 114,
+      "respiratory": 28,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-08",
+      "admissions": 106,
+      "respiratory": 27,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-09",
+      "admissions": 110,
+      "respiratory": 27,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-10",
+      "admissions": 117,
+      "respiratory": 24,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-11",
+      "admissions": 114,
+      "respiratory": 24,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-12",
+      "admissions": 125,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-13",
+      "admissions": 112,
+      "respiratory": 23,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-14",
+      "admissions": 126,
+      "respiratory": 24,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-15",
+      "admissions": 110,
+      "respiratory": 24,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-16",
+      "admissions": 107,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-17",
+      "admissions": 101,
+      "respiratory": 21,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-18",
+      "admissions": 114,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-19",
+      "admissions": 110,
+      "respiratory": 24,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-20",
+      "admissions": 99,
+      "respiratory": 24,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-21",
+      "admissions": 92,
+      "respiratory": 22,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-22",
+      "admissions": 91,
+      "respiratory": 21,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-23",
+      "admissions": 95,
+      "respiratory": 20,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-24",
+      "admissions": 103,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-25",
+      "admissions": 109,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-26",
+      "admissions": 99,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-27",
+      "admissions": 88,
+      "respiratory": 18,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-28",
+      "admissions": 85,
+      "respiratory": 18,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-29",
+      "admissions": 81,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-30",
+      "admissions": 76,
+      "respiratory": 18,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-05-31",
+      "admissions": 71,
+      "respiratory": 17,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-01",
+      "admissions": 65,
+      "respiratory": 15,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-02",
+      "admissions": 63,
+      "respiratory": 16,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-03",
+      "admissions": 65,
+      "respiratory": 12,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-04",
+      "admissions": 63,
+      "respiratory": 11,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-07",
+      "admissions": 62,
+      "respiratory": 11,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-08",
+      "admissions": 61,
+      "respiratory": 10,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-09",
+      "admissions": 58,
+      "respiratory": 11,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-10",
+      "admissions": 55,
+      "respiratory": 13,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-11",
+      "admissions": 47,
+      "respiratory": 11,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-14",
+      "admissions": 47,
+      "respiratory": 10,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-15",
+      "admissions": 47,
+      "respiratory": 10,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-16",
+      "admissions": 45,
+      "respiratory": 10,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-17",
+      "admissions": 43,
+      "respiratory": 10,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-18",
+      "admissions": 39,
+      "respiratory": 7,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-21",
+      "admissions": 38,
+      "respiratory": 7,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-22",
+      "admissions": 34,
+      "respiratory": 5,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-23",
+      "admissions": 32,
+      "respiratory": 5,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-24",
+      "admissions": 33,
+      "respiratory": 6,
+      "source": "helsedir:api"
+    },
+    {
+      "date": "2021-06-25",
+      "admissions": 27,
+      "respiratory": 7,
+      "source": "helsedir:api"
     }
   ]
 }

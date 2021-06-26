@@ -335,6 +335,1158 @@
       "new_reported": 7,
       "total_reported": 728,
       "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-01",
+      "new_downloads": 700,
+      "total_downloads": 692100,
+      "new_reported": 13,
+      "total_reported": 741,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-02",
+      "new_downloads": 2500,
+      "total_downloads": 694600,
+      "new_reported": 14,
+      "total_reported": 744,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-03",
+      "new_downloads": 58100,
+      "total_downloads": 752700,
+      "new_reported": 30,
+      "total_reported": 785,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-04",
+      "new_downloads": 54600,
+      "total_downloads": 807300,
+      "new_reported": 33,
+      "total_reported": 818,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-05",
+      "new_downloads": 26200,
+      "total_downloads": 833500,
+      "new_reported": 28,
+      "total_reported": 846,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-06",
+      "new_downloads": 3000,
+      "total_downloads": 836500,
+      "new_reported": 14,
+      "total_reported": 860,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-07",
+      "new_downloads": 9600,
+      "total_downloads": 846100,
+      "new_reported": 2,
+      "total_reported": 862,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-08",
+      "new_downloads": 4800,
+      "total_downloads": 850900,
+      "new_reported": 22,
+      "total_reported": 884,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-09",
+      "new_downloads": 2100,
+      "total_downloads": 853000,
+      "new_reported": 10,
+      "total_reported": 894,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-10",
+      "new_downloads": 1700,
+      "total_downloads": 854700,
+      "new_reported": 10,
+      "total_reported": 904,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-11",
+      "new_downloads": 1600,
+      "total_downloads": 856300,
+      "new_reported": 15,
+      "total_reported": 919,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-12",
+      "new_downloads": 1500,
+      "total_downloads": 857800,
+      "new_reported": 14,
+      "total_reported": 933,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-13",
+      "new_downloads": 400,
+      "total_downloads": 858200,
+      "new_reported": 19,
+      "total_reported": 952,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-14",
+      "new_downloads": 1400,
+      "total_downloads": 859600,
+      "new_reported": 12,
+      "total_reported": 964,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-15",
+      "new_downloads": 1500,
+      "total_downloads": 861100,
+      "new_reported": 16,
+      "total_reported": 980,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-16",
+      "new_downloads": 1300,
+      "total_downloads": 862400,
+      "new_reported": 20,
+      "total_reported": 1000,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-17",
+      "new_downloads": 1900,
+      "total_downloads": 864300,
+      "new_reported": 10,
+      "total_reported": 1010,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-18",
+      "new_downloads": 400,
+      "total_downloads": 864700,
+      "new_reported": 21,
+      "total_reported": 1031,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-19",
+      "new_downloads": 1500,
+      "total_downloads": 866200,
+      "new_reported": 19,
+      "total_reported": 1050,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-20",
+      "new_downloads": 1400,
+      "total_downloads": 867600,
+      "new_reported": 16,
+      "total_reported": 1066,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-21",
+      "new_downloads": 200,
+      "total_downloads": 867800,
+      "new_reported": 1,
+      "total_reported": 1067,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-22",
+      "new_downloads": 1400,
+      "total_downloads": 869200,
+      "new_reported": 7,
+      "total_reported": 1074,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-23",
+      "new_downloads": 1500,
+      "total_downloads": 870700,
+      "new_reported": 26,
+      "total_reported": 1100,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-24",
+      "new_downloads": 400,
+      "total_downloads": 871100,
+      "new_reported": 13,
+      "total_reported": 1113,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-25",
+      "new_downloads": 1500,
+      "total_downloads": 872600,
+      "new_reported": 29,
+      "total_reported": 1142,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-26",
+      "new_downloads": 700,
+      "total_downloads": 873300,
+      "new_reported": 25,
+      "total_reported": 1167,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-27",
+      "new_downloads": 500,
+      "total_downloads": 873800,
+      "new_reported": 18,
+      "total_reported": 1185,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-02-28",
+      "new_downloads": 4500,
+      "total_downloads": 878300,
+      "new_reported": 16,
+      "total_reported": 1201,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-01",
+      "new_downloads": 600,
+      "total_downloads": 878900,
+      "new_reported": 29,
+      "total_reported": 1230,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-02",
+      "new_downloads": 4000,
+      "total_downloads": 882900,
+      "new_reported": 34,
+      "total_reported": 1264,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-03",
+      "new_downloads": 1700,
+      "total_downloads": 884600,
+      "new_reported": 32,
+      "total_reported": 1296,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-04",
+      "new_downloads": 1600,
+      "total_downloads": 886200,
+      "new_reported": 18,
+      "total_reported": 1314,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-05",
+      "new_downloads": 1400,
+      "total_downloads": 887600,
+      "new_reported": 28,
+      "total_reported": 1342,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-06",
+      "new_downloads": 1400,
+      "total_downloads": 889000,
+      "new_reported": 17,
+      "total_reported": 1359,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-07",
+      "new_downloads": 1400,
+      "total_downloads": 890400,
+      "new_reported": 19,
+      "total_reported": 1378,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-08",
+      "new_downloads": 3100,
+      "total_downloads": 893500,
+      "new_reported": 30,
+      "total_reported": 1408,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-09",
+      "new_downloads": 5700,
+      "total_downloads": 899200,
+      "new_reported": 42,
+      "total_reported": 1450,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-10",
+      "new_downloads": 3000,
+      "total_downloads": 902200,
+      "new_reported": 37,
+      "total_reported": 1487,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-11",
+      "new_downloads": 1900,
+      "total_downloads": 904100,
+      "new_reported": 50,
+      "total_reported": 1537,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-12",
+      "new_downloads": 19600,
+      "total_downloads": 923700,
+      "new_reported": 48,
+      "total_reported": 1585,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-13",
+      "new_downloads": 900,
+      "total_downloads": 924600,
+      "new_reported": 33,
+      "total_reported": 1618,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-14",
+      "new_downloads": 4900,
+      "total_downloads": 929500,
+      "new_reported": 31,
+      "total_reported": 1649,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-15",
+      "new_downloads": 3000,
+      "total_downloads": 932500,
+      "new_reported": 49,
+      "total_reported": 1698,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-16",
+      "new_downloads": 1000,
+      "total_downloads": 933500,
+      "new_reported": 58,
+      "total_reported": 1756,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-17",
+      "new_downloads": 30100,
+      "total_downloads": 963600,
+      "new_reported": 52,
+      "total_reported": 1808,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-18",
+      "new_downloads": 2800,
+      "total_downloads": 966400,
+      "new_reported": 66,
+      "total_reported": 1874,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-19",
+      "new_downloads": 1500,
+      "total_downloads": 967900,
+      "new_reported": 52,
+      "total_reported": 1926,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-20",
+      "new_downloads": 1400,
+      "total_downloads": 969300,
+      "new_reported": 56,
+      "total_reported": 1982,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-21",
+      "new_downloads": 1500,
+      "total_downloads": 970800,
+      "new_reported": 39,
+      "total_reported": 2021,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-22",
+      "new_downloads": 1600,
+      "total_downloads": 972400,
+      "new_reported": 40,
+      "total_reported": 2061,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-23",
+      "new_downloads": 1500,
+      "total_downloads": 973900,
+      "new_reported": 47,
+      "total_reported": 2108,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-24",
+      "new_downloads": 1700,
+      "total_downloads": 975600,
+      "new_reported": 47,
+      "total_reported": 2155,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-25",
+      "new_downloads": 1000,
+      "total_downloads": 976600,
+      "new_reported": 39,
+      "total_reported": 2194,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-26",
+      "new_downloads": 2400,
+      "total_downloads": 979000,
+      "new_reported": 43,
+      "total_reported": 2237,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-27",
+      "new_downloads": 1400,
+      "total_downloads": 980400,
+      "new_reported": 29,
+      "total_reported": 2266,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-28",
+      "new_downloads": 300,
+      "total_downloads": 980700,
+      "new_reported": 41,
+      "total_reported": 2307,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-29",
+      "new_downloads": 1300,
+      "total_downloads": 982000,
+      "new_reported": 21,
+      "total_reported": 2328,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-30",
+      "new_downloads": 200,
+      "total_downloads": 982200,
+      "new_reported": 35,
+      "total_reported": 2363,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-03-31",
+      "new_downloads": 1400,
+      "total_downloads": 983600,
+      "new_reported": 39,
+      "total_reported": 2402,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-01",
+      "new_downloads": 200,
+      "total_downloads": 983800,
+      "new_reported": 18,
+      "total_reported": 2420,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-02",
+      "new_downloads": 100,
+      "total_downloads": 983900,
+      "new_reported": 33,
+      "total_reported": 2453,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-03",
+      "new_downloads": 1200,
+      "total_downloads": 985100,
+      "new_reported": 33,
+      "total_reported": 2486,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-04",
+      "new_downloads": 200,
+      "total_downloads": 985300,
+      "new_reported": 23,
+      "total_reported": 2509,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-05",
+      "new_downloads": 1200,
+      "total_downloads": 986500,
+      "new_reported": 36,
+      "total_reported": 2545,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-06",
+      "new_downloads": 200,
+      "total_downloads": 986700,
+      "new_reported": 31,
+      "total_reported": 2576,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-07",
+      "new_downloads": 1100,
+      "total_downloads": 987800,
+      "new_reported": 26,
+      "total_reported": 2602,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-08",
+      "new_downloads": 0,
+      "total_downloads": 987800,
+      "new_reported": 31,
+      "total_reported": 2633,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-09",
+      "new_downloads": 500,
+      "total_downloads": 988300,
+      "new_reported": 35,
+      "total_reported": 2668,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-10",
+      "new_downloads": 1200,
+      "total_downloads": 989500,
+      "new_reported": 20,
+      "total_reported": 2688,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-11",
+      "new_downloads": 100,
+      "total_downloads": 989600,
+      "new_reported": 16,
+      "total_reported": 2704,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-12",
+      "new_downloads": 200,
+      "total_downloads": 989800,
+      "new_reported": 19,
+      "total_reported": 2723,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-13",
+      "new_downloads": 5400,
+      "total_downloads": 995200,
+      "new_reported": 27,
+      "total_reported": 2750,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-14",
+      "new_downloads": 400,
+      "total_downloads": 995600,
+      "new_reported": 27,
+      "total_reported": 2777,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-15",
+      "new_downloads": 130,
+      "total_downloads": 996900,
+      "new_reported": 20,
+      "total_reported": 2797,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-16",
+      "new_downloads": 300,
+      "total_downloads": 997200,
+      "new_reported": 26,
+      "total_reported": 2823,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-17",
+      "new_downloads": 1100,
+      "total_downloads": 998300,
+      "new_reported": 16,
+      "total_reported": 2839,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-18",
+      "new_downloads": 100,
+      "total_downloads": 998400,
+      "new_reported": 19,
+      "total_reported": 2858,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-19",
+      "new_downloads": 200,
+      "total_downloads": 998600,
+      "new_reported": 12,
+      "total_reported": 2870,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-20",
+      "new_downloads": 200,
+      "total_downloads": 998800,
+      "new_reported": 22,
+      "total_reported": 2892,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-21",
+      "new_downloads": 200,
+      "total_downloads": 999000,
+      "new_reported": 17,
+      "total_reported": 2909,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-22",
+      "new_downloads": 1400,
+      "total_downloads": 1000400,
+      "new_reported": 20,
+      "total_reported": 2929,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-23",
+      "new_downloads": 300,
+      "total_downloads": 1000700,
+      "new_reported": 9,
+      "total_reported": 2938,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-24",
+      "new_downloads": 100,
+      "total_downloads": 1000800,
+      "new_reported": 13,
+      "total_reported": 2951,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-25",
+      "new_downloads": 1200,
+      "total_downloads": 1002000,
+      "new_reported": 9,
+      "total_reported": 2960,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-26",
+      "new_downloads": 1300,
+      "total_downloads": 1003300,
+      "new_reported": 18,
+      "total_reported": 2978,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-27",
+      "new_downloads": 200,
+      "total_downloads": 1003005,
+      "new_reported": 20,
+      "total_reported": 2998,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-28",
+      "new_downloads": 1200,
+      "total_downloads": 1004700,
+      "new_reported": 9,
+      "total_reported": 3007,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-29",
+      "new_downloads": 100,
+      "total_downloads": 1004800,
+      "new_reported": 18,
+      "total_reported": 3025,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-04-30",
+      "new_downloads": 200,
+      "total_downloads": 1005000,
+      "new_reported": 6,
+      "total_reported": 3031,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-01",
+      "new_downloads": 1100,
+      "total_downloads": 1006100,
+      "new_reported": 16,
+      "total_reported": 3047,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-02",
+      "new_downloads": 100,
+      "total_downloads": 1006200,
+      "new_reported": 12,
+      "total_reported": 3059,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-03",
+      "new_downloads": 1200,
+      "total_downloads": 1007400,
+      "new_reported": 15,
+      "total_reported": 3074,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-04",
+      "new_downloads": 200,
+      "total_downloads": 1007600,
+      "new_reported": 22,
+      "total_reported": 3096,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-05",
+      "new_downloads": 1100,
+      "total_downloads": 1008700,
+      "new_reported": 29,
+      "total_reported": 3125,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-06",
+      "new_downloads": 200,
+      "total_downloads": 1008900,
+      "new_reported": 29,
+      "total_reported": 3154,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-07",
+      "new_downloads": 1100,
+      "total_downloads": 1010000,
+      "new_reported": 17,
+      "total_reported": 3171,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-08",
+      "new_downloads": 100,
+      "total_downloads": 1010100,
+      "new_reported": 10,
+      "total_reported": 3181,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-09",
+      "new_downloads": 1100,
+      "total_downloads": 1011200,
+      "new_reported": 7,
+      "total_reported": 3188,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-10",
+      "new_downloads": 100,
+      "total_downloads": 1011300,
+      "new_reported": 22,
+      "total_reported": 3210,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-11",
+      "new_downloads": 100,
+      "total_downloads": 1011400,
+      "new_reported": 19,
+      "total_reported": 3229,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-12",
+      "new_downloads": 1200,
+      "total_downloads": 1012600,
+      "new_reported": 22,
+      "total_reported": 3251,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-13",
+      "new_downloads": 100,
+      "total_downloads": 1012700,
+      "new_reported": 11,
+      "total_reported": 3262,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-14",
+      "new_downloads": 200,
+      "total_downloads": 1012900,
+      "new_reported": 11,
+      "total_reported": 3273,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-15",
+      "new_downloads": 100,
+      "total_downloads": 1013000,
+      "new_reported": 22,
+      "total_reported": 3295,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-16",
+      "new_downloads": 1100,
+      "total_downloads": 1014100,
+      "new_reported": 16,
+      "total_reported": 3311,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-17",
+      "new_downloads": 100,
+      "total_downloads": 1014300,
+      "new_reported": 8,
+      "total_reported": 3319,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-18",
+      "new_downloads": 100,
+      "total_downloads": 1014300,
+      "new_reported": 16,
+      "total_reported": 3335,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-19",
+      "new_downloads": 100,
+      "total_downloads": 1014400,
+      "new_reported": 18,
+      "total_reported": 3353,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-20",
+      "new_downloads": 1200,
+      "total_downloads": 1015600,
+      "new_reported": 13,
+      "total_reported": 3366,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-21",
+      "new_downloads": 200,
+      "total_downloads": 1015800,
+      "new_reported": 18,
+      "total_reported": 3384,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-22",
+      "new_downloads": 200,
+      "total_downloads": 1016000,
+      "new_reported": 26,
+      "total_reported": 3410,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-23",
+      "new_downloads": 1300,
+      "total_downloads": 1017300,
+      "new_reported": 39,
+      "total_reported": 3449,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-24",
+      "new_downloads": 200,
+      "total_downloads": 1017500,
+      "new_reported": 16,
+      "total_reported": 3465,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-25",
+      "new_downloads": 1200,
+      "total_downloads": 1018700,
+      "new_reported": 16,
+      "total_reported": 3481,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-26",
+      "new_downloads": 1800,
+      "total_downloads": 1020500,
+      "new_reported": 16,
+      "total_reported": 3497,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-27",
+      "new_downloads": 1200,
+      "total_downloads": 1021700,
+      "new_reported": 17,
+      "total_reported": 3514,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-28",
+      "new_downloads": 200,
+      "total_downloads": 1021900,
+      "new_reported": 20,
+      "total_reported": 3534,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-29",
+      "new_downloads": 100,
+      "total_downloads": 1022000,
+      "new_reported": 14,
+      "total_reported": 3548,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-30",
+      "new_downloads": 100,
+      "total_downloads": 1022100,
+      "new_reported": 9,
+      "total_reported": 3557,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-05-31",
+      "new_downloads": 200,
+      "total_downloads": 1022300,
+      "new_reported": 11,
+      "total_reported": 3568,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-01",
+      "new_downloads": 200,
+      "total_downloads": 1022500,
+      "new_reported": 16,
+      "total_reported": 3584,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-02",
+      "new_downloads": 2400,
+      "total_downloads": 1024900,
+      "new_reported": 19,
+      "total_reported": 3603,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-03",
+      "new_downloads": 300,
+      "total_downloads": 1025200,
+      "new_reported": 16,
+      "total_reported": 3619,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-04",
+      "new_downloads": 200,
+      "total_downloads": 1025400,
+      "new_reported": 9,
+      "total_reported": 3628,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-05",
+      "new_downloads": 100,
+      "total_downloads": 1025500,
+      "new_reported": 8,
+      "total_reported": 3636,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-06",
+      "new_downloads": 100,
+      "total_downloads": 1025600,
+      "new_reported": 3,
+      "total_reported": 3639,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-07",
+      "new_downloads": 1100,
+      "total_downloads": 1026700,
+      "new_reported": 5,
+      "total_reported": 3644,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-08",
+      "new_downloads": 300,
+      "total_downloads": 1027000,
+      "new_reported": 9,
+      "total_reported": 3653,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-09",
+      "new_downloads": 200,
+      "total_downloads": 1027200,
+      "new_reported": 6,
+      "total_reported": 3659,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-10",
+      "new_downloads": 200,
+      "total_downloads": 1027400,
+      "new_reported": 9,
+      "total_reported": 3668,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-11",
+      "new_downloads": 400,
+      "total_downloads": 1027800,
+      "new_reported": 9,
+      "total_reported": 3677,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-12",
+      "new_downloads": 200,
+      "total_downloads": 1028000,
+      "new_reported": 2,
+      "total_reported": 3679,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-13",
+      "new_downloads": 1100,
+      "total_downloads": 1029100,
+      "new_reported": 3,
+      "total_reported": 3682,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-14",
+      "new_downloads": 400,
+      "total_downloads": 1029500,
+      "new_reported": 8,
+      "total_reported": 3690,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-15",
+      "new_downloads": 200,
+      "total_downloads": 1029700,
+      "new_reported": 6,
+      "total_reported": 3696,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-16",
+      "new_downloads": 200,
+      "total_downloads": 1029900,
+      "new_reported": 13,
+      "total_reported": 3709,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-17",
+      "new_downloads": 200,
+      "total_downloads": 1030100,
+      "new_reported": 4,
+      "total_reported": 3713,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-18",
+      "new_downloads": 200,
+      "total_downloads": 1030300,
+      "new_reported": 11,
+      "total_reported": 3724,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-19",
+      "new_downloads": 200,
+      "total_downloads": 1030500,
+      "new_reported": 9,
+      "total_reported": 3733,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-20",
+      "new_downloads": 1100,
+      "total_downloads": 1031600,
+      "new_reported": 11,
+      "total_reported": 3744,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-21",
+      "new_downloads": 100,
+      "total_downloads": 1031700,
+      "new_reported": 6,
+      "total_reported": 3750,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-22",
+      "new_downloads": 200,
+      "total_downloads": 1031900,
+      "new_reported": 12,
+      "total_reported": 3762,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-23",
+      "new_downloads": 1600,
+      "total_downloads": 1033500,
+      "new_reported": 10,
+      "total_reported": 3772,
+      "source": "fhi:web"
+    },
+    {
+      "date": "2021-06-24",
+      "new_downloads": 300,
+      "total_downloads": 1033800,
+      "new_reported": 19,
+      "total_reported": 3791,
+      "source": "fhi:web"
     }
   ]
 }

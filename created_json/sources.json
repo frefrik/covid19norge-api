@@ -1,42 +1,42 @@
 {
     "confirmed": {
-        "sha": "475307be6c90ce771f79d4c8f00093cb67ad4c4a",
-        "updated": "2021-02-03T14:15:03Z",
+        "sha": "c7cbe9d92717ba28aa86ffbae0546ea10a5ba01c",
+        "updated": "2021-06-25T22:11:05Z",
         "datafile": "confirmed.csv"
     },
     "dead": {
-        "sha": "a9c682d8c1fe04919abba3de9b0aa67d5abec508",
-        "updated": "2021-02-03T12:20:04Z",
+        "sha": "277f746377845064e3cb450099bf208bf1814723",
+        "updated": "2021-06-25T11:21:06Z",
         "datafile": "dead.csv"
     },
     "hospitalized": {
-        "sha": "210691f2892743f17155a12c5629ca6d1390f1f0",
-        "updated": "2021-02-03T11:00:04Z",
+        "sha": "96d4a586162f3f438e6d6e777414502db18ad8a6",
+        "updated": "2021-06-25T10:21:04Z",
         "datafile": "hospitalized.csv"
     },
     "tested": {
-        "sha": "cdf0adbad1a21738799643756e598d006234f76f",
-        "updated": "2021-02-03T12:00:03Z",
+        "sha": "e42284d83cbe0884b4ded35195908df3eb9c6032",
+        "updated": "2021-06-25T11:01:03Z",
         "datafile": "tested.csv"
     },
     "tested_lab": {
-        "sha": "e99cadffaf9972d26b243aff5fe0116ae132de5f",
-        "updated": "2021-02-03T12:35:03Z",
+        "sha": "277f746377845064e3cb450099bf208bf1814723",
+        "updated": "2021-06-25T11:21:06Z",
         "datafile": "tested_lab.csv"
     },
     "transport": {
-        "sha": "115418515224480816802ea29846d88a0695b155",
-        "updated": "2021-02-03T12:50:06Z",
+        "sha": "35abefec795be4c8886c19308b7837d207867387",
+        "updated": "2021-06-25T11:11:03Z",
         "datafile": "transport.csv"
     },
     "vaccine_doses": {
-        "sha": "17a89a82c2d4dc49f73b20903d2494514c63d584",
-        "updated": "2021-02-03T14:00:06Z",
+        "sha": "277f746377845064e3cb450099bf208bf1814723",
+        "updated": "2021-06-25T11:21:06Z",
         "datafile": "vaccine_doses.csv"
     },
     "smittestopp": {
-        "sha": "1bbf184af9a78fe3b7833d8bc3347b003fd0f8fa",
-        "updated": "2021-02-03T20:47:15Z",
+        "sha": "c98d6a5a4e8f1c274d4f12adef2a6f402cb26151",
+        "updated": "2021-06-25T07:40:56Z",
         "datafile": "smittestopp.csv"
     }
 }
