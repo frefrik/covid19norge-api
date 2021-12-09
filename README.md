@@ -151,7 +151,7 @@ Returns timeseries data for specified category
 ### Query Parameters
 Parameter | Valid values
 --- | ---
-category | tested<br/>tested_lab<br/>confirmed<br/>dead<br/>hospitalized<br/>vaccine_doses<br/>smittestopp<br/>
+category | tested<br/>tested_lab<br/>confirmed<br/>dead<br/>hospitalized<br/>vaccine_doses<br/>smittestopp<br/>omicron
 
 ### Example
 #### Request

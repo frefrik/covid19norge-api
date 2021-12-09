@@ -10,6 +10,7 @@ from ..config import (
     TRANSPORT_CSV_PATH,
     VACCINE_DOSES_CSV_PATH,
     SMITTESTOPP_CSV_PATH,
+    OMICRON_CSV_PATH,
 )
 
 
@@ -43,15 +44,20 @@ def get_timeseries_category(category):
         "hospitalized": HOSPITALIZED_CSV_PATH,
         "vaccine_doses": VACCINE_DOSES_CSV_PATH,
         "smittestopp": SMITTESTOPP_CSV_PATH,
+        "omicron": OMICRON_CSV_PATH,
     }
 
     try:
         data_url = categories[category]
 
-        df = pd.read_csv(data_url, parse_dates=["date"], index_col=["date"])
+        if category == "omicron":
+            df = pd.read_csv(data_url)
+            df[["year", "week"]] = df[["year", "week"]].astype("str")
+        else:
+            df = pd.read_csv(data_url, parse_dates=["date"], index_col=["date"])
 
-        df = df.reset_index().rename(columns={"index": "date"})
-        df["date"] = df["date"].astype("str")
+            df = df.reset_index().rename(columns={"index": "date"})
+            df["date"] = df["date"].astype("str")
 
         return df
 

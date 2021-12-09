@@ -11,6 +11,7 @@ from ..config import (
     TRANSPORT_JSON_PATH,
     TIMESERIES_VACCINE_DOSES_JSON_PATH,
     TIMESERIES_SMITTESTOPP_JSON_PATH,
+    TIMESERIES_OMICRON_JSON_PATH,
 )
 from ..config import (
     TIMESERIES_EXAMPLE,
@@ -71,6 +72,7 @@ async def timeseries_category(category: str):
     - **hospitalized**
     - **vaccine_doses**
     - **smittestopp**
+    - **omicron**
     """
     categories = {
         "tested": TIMESERIES_TESTED_JSON_PATH,
@@ -80,6 +82,7 @@ async def timeseries_category(category: str):
         "hospitalized": TIMESERIES_HOSPITALIZED_JSON_PATH,
         "vaccine_doses": TIMESERIES_VACCINE_DOSES_JSON_PATH,
         "smittestopp": TIMESERIES_SMITTESTOPP_JSON_PATH,
+        "omicron": TIMESERIES_OMICRON_JSON_PATH,
     }
 
     if category not in categories:

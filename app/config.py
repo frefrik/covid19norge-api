@@ -1,9 +1,9 @@
 # Settings
-UPDATE_INTERVAL = 300
+UPDATE_INTERVAL = 120
 
 # Custom OpenAPI
 OPENAPI_TITLE = "COVID-19 Norway API"
-OPENAPI_API_VERSION = "1.0.0"
+OPENAPI_API_VERSION = "1.1.0"
 OPENAPI_DESCRIPTION = "API for tracking the COVID-19 outbreak in Norway."
 OPENAPI_CONTACT = "api (at) covid19norge.no"
 OPENAPI_HOST = "covid19norge.no"
@@ -22,6 +22,7 @@ TIMESERIES_TESTED_LAB_JSON_PATH = "./created_json/timeseries_tested_lab.json"
 TIMESERIES_HOSPITALIZED_JSON_PATH = "./created_json/timeseries_hospitalized.json"
 TIMESERIES_VACCINE_DOSES_JSON_PATH = "./created_json/timeseries_vaccine_doses.json"
 TIMESERIES_SMITTESTOPP_JSON_PATH = "./created_json/timeseries_smittestopp.json"
+TIMESERIES_OMICRON_JSON_PATH = "./created_json/timeseries_omicron.json"
 TRANSPORT_JSON_PATH = "./created_json/transport.json"
 SOURCES_JSON_PATH = "./created_json/sources.json"
 
@@ -34,6 +35,7 @@ HOSPITALIZED_CSV_PATH = "./data/hospitalized.csv"
 TRANSPORT_CSV_PATH = "./data/transport.csv"
 VACCINE_DOSES_CSV_PATH = "./data/vaccine_doses.csv"
 SMITTESTOPP_CSV_PATH = "./data/smittestopp.csv"
+OMICRON_CSV_PATH = "./data/omicron.csv"
 
 # Datasource - Github API
 REPO_URL = "https://api.github.com/repos/frefrik/covid19norge-data/"

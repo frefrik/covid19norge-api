@@ -21,6 +21,7 @@ from app.config import (
     TIMESERIES_HOSPITALIZED_JSON_PATH,
     TRANSPORT_JSON_PATH,
     TIMESERIES_VACCINE_DOSES_JSON_PATH,
+    TIMESERIES_OMICRON_JSON_PATH,
 )
 
 
@@ -172,6 +173,7 @@ def timeseries_categories():
         "hospitalized": TIMESERIES_HOSPITALIZED_JSON_PATH,
         "vaccine_doses": TIMESERIES_VACCINE_DOSES_JSON_PATH,
         "smittestopp": TIMESERIES_SMITTESTOPP_JSON_PATH,
+        "omicron": TIMESERIES_OMICRON_JSON_PATH,
     }
 
     for category in categories:
