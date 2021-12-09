@@ -1,3 +1,4 @@
+import json
 from fastapi import APIRouter
 from fastapi.responses import FileResponse, JSONResponse
 from ..config import (
@@ -62,7 +63,7 @@ async def timeseries():
         },
     },
 )
-async def timeseries_category(category: str):
+async def timeseries_category(category: str, skip: int = 0, limit: int = None):
     """
     Available categories:
     - **tested**
@@ -88,7 +89,13 @@ async def timeseries_category(category: str):
     if category not in categories:
         return JSONResponse(status_code=404, content={"message": "Item not found"})
 
-    return FileResponse(categories[category])
+    with open(categories[category], "rb") as f:
+        data = json.load(f)
+
+    if limit:
+        return {category: data[category][skip : skip + limit]}
+    else:
+        return {category: data[category]}
 
 
 @v1.get(
