@@ -1,0 +1,31 @@
+{
+  "omicron": [
+    {
+      "year": "2021",
+      "week": "47",
+      "new_probable": 1,
+      "new_confirmed": 4,
+      "total_probable": 1,
+      "total_confirmed": 4,
+      "source": "fhi:web"
+    },
+    {
+      "year": "2021",
+      "week": "48",
+      "new_probable": 201,
+      "new_confirmed": 39,
+      "total_probable": 202,
+      "total_confirmed": 43,
+      "source": "fhi:web"
+    },
+    {
+      "year": "2021",
+      "week": "49",
+      "new_probable": 45,
+      "new_confirmed": 0,
+      "total_probable": 247,
+      "total_confirmed": 43,
+      "source": "fhi:web"
+    }
+  ]
+}

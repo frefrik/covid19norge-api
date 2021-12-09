@@ -1,42 +1,47 @@
 {
     "confirmed": {
-        "sha": "c7cbe9d92717ba28aa86ffbae0546ea10a5ba01c",
-        "updated": "2021-06-25T22:11:05Z",
+        "sha": "a8b8fe0cda2e9794805c8a45a069907953948803",
+        "updated": "2021-12-09T14:21:13Z",
         "datafile": "confirmed.csv"
     },
     "dead": {
-        "sha": "277f746377845064e3cb450099bf208bf1814723",
-        "updated": "2021-06-25T11:21:06Z",
+        "sha": "072f29ec7b9124d19e4e1370af998938b1293d50",
+        "updated": "2021-12-09T12:21:04Z",
         "datafile": "dead.csv"
     },
     "hospitalized": {
-        "sha": "96d4a586162f3f438e6d6e777414502db18ad8a6",
-        "updated": "2021-06-25T10:21:04Z",
+        "sha": "e9e04a5a5777349747b734ebbcd20d794ba4fede",
+        "updated": "2021-12-09T11:20:59Z",
         "datafile": "hospitalized.csv"
     },
     "tested": {
-        "sha": "e42284d83cbe0884b4ded35195908df3eb9c6032",
-        "updated": "2021-06-25T11:01:03Z",
+        "sha": "9635a79034326245ce42782f930c9368268c1c89",
+        "updated": "2021-12-09T12:11:06Z",
         "datafile": "tested.csv"
     },
     "tested_lab": {
-        "sha": "277f746377845064e3cb450099bf208bf1814723",
-        "updated": "2021-06-25T11:21:06Z",
+        "sha": "072f29ec7b9124d19e4e1370af998938b1293d50",
+        "updated": "2021-12-09T12:21:04Z",
         "datafile": "tested_lab.csv"
     },
     "transport": {
-        "sha": "35abefec795be4c8886c19308b7837d207867387",
-        "updated": "2021-06-25T11:11:03Z",
+        "sha": "760c6f9e537a0901d9c3d8e44eeb8f902fc6a0a6",
+        "updated": "2021-09-24T21:10:56Z",
         "datafile": "transport.csv"
     },
     "vaccine_doses": {
-        "sha": "277f746377845064e3cb450099bf208bf1814723",
-        "updated": "2021-06-25T11:21:06Z",
+        "sha": "072f29ec7b9124d19e4e1370af998938b1293d50",
+        "updated": "2021-12-09T12:21:04Z",
         "datafile": "vaccine_doses.csv"
     },
     "smittestopp": {
-        "sha": "c98d6a5a4e8f1c274d4f12adef2a6f402cb26151",
-        "updated": "2021-06-25T07:40:56Z",
+        "sha": "5b79068e2163fdef17a1f4b108d518e324c6da58",
+        "updated": "2021-12-08T10:41:01Z",
         "datafile": "smittestopp.csv"
+    },
+    "omicron": {
+        "sha": "1a7a5dc128a7afa836cfb1c5ee71ca87c7d25ad0",
+        "updated": "2021-12-09T10:36:47Z",
+        "datafile": "omicron.csv"
     }
 }
